@@ -10,9 +10,9 @@ Industry Club main contacts:
 * Andrew is Head of the Department of Computer Science 
 * [research.manchester.ac.uk/en/persons/andrew.j.stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart)
 
-### Professor Loucas Cordeiro
+### Professor Lucas Cordeiro
 
-* Loucas is Director of Business Engagement and Innovation 
+* Lucas is Director of Business Engagement and Innovation 
 * [research.manchester.ac.uk/en/persons/lucas.cordeiro](https://research.manchester.ac.uk/en/persons/lucas.cordeiro)
 
 ### Dr. Suzanne Embury
@@ -27,5 +27,5 @@ Industry Club main contacts:
 
 ### Dr. David Petrescu
 
-* David is Placement Tutor, with pastoral responsibilty for our students on placement 
+* David is Placement Tutor, with pastoral responsibilty for our students on placement and a Lecturer in Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)
