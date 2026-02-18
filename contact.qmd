@@ -1,0 +1,26 @@
+---
+title: "Contacts"
+
+---
+
+Industry Club main contacts:
+
+## Professor Andrew Stewart
+
+* Andrew is Head of the Department of Computer Science 
+* [research.manchester.ac.uk/en/persons/andrew.j.stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart)
+
+### Professor Loucas Cordeiro
+
+* Loucas is Director of Business Engagement and Innovation 
+* [research.manchester.ac.uk/en/persons/lucas.cordeiro](https://research.manchester.ac.uk/en/persons/lucas.cordeiro)
+
+### Dr. Suzanne Embury
+
+* Suzanne is Research Impact Lead and a Reader in Information Management
+* [research.manchester.ac.uk/en/persons/suzanne.m.embury](https://research.manchester.ac.uk/en/persons/suzanne.m.embury)
+
+### Dr. Duncan Hull 
+
+* Duncan is Employability Lead, a Director of Business Engagement and Innovation and a Senior Lecturer in Computer Science
+* [research.manchester.ac.uk/en/persons/duncan.hull](https://research.manchester.ac.uk/en/persons/duncan.hull)

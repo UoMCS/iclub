@@ -1,0 +1,66 @@
+---
+title: "Manchester"
+bibliography: references.bib
+---
+
+## Even Greater Manchester
+
+There's a thriving community of technologists, engineers and  scientists in Manchester and we're proud to be a part of it. 
+
+![“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” --Faisal Islam [@buzz]](civic.jpg)
+
+## From Manchester to the World
+
+The [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which a wide range of public and private Mancunian employers are key. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
+
+* [apadmi.com](https://www.apadmi.com)
+* [arm.com in Manchester](https://careers.arm.com/uk-manchester-office)
+* [autocab.com](https://www.autocab.com)
+* [autotrader.co.uk](https://www.autotrader.co.uk)
+* [BBC at MediaCityUK](https://www.bbc.com/historyofthebbc/buildings/media-city)
+* [bet365.com](https://www.bet365.com)
+* [bny.com](https://www.bny.com)
+* [booking.com](https://www.booking.com)
+* [cantarus.com](https://www.cantarus.com)
+* [cdl.co.uk](https://www.cdl.co.uk)
+* [codethink.co.uk](https://www.codethink.co.uk)
+* [couchbase.com](https://www.couchbase.com)
+* [cityfootballgroup.com](https://www.cityfootballgroup.com)
+* [dematic.com](https://www.dematic.com)
+* [Epic Games Animation UK Ltd](https://oxfordroadcorridor.com/organisations/cubic-motion/)
+* [fuzzylabs.ai](https://www.fuzzylabs.ai)
+* [gchq.gov.uk](https://www.gchq.gov.uk/section/locations/manchester)
+* [hpe.com](https://www.hpe.com)
+* [ibm.com](https://www.ibm.com)
+* [innovative-technology.com](https://www.innovative-technology.com)
+* [interactsoftware.com](https://www.interactsoftware.com)
+* [jlr.com](https://www.jlr.com)
+* [koder.ly](https://www.koder.ly)
+* [matillion.com](https://www.matillion.com)
+* [nccgroup.com](https://www.nccgroup.com) 
+* [netcraft.com](https://www.netcraft.com)
+* [novacoast.com](https://novacoast.com)
+* [nwcrc.co.uk](https://www.nwcrc.co.uk)
+* [nweh.co.uk](https://www.nweh.co.uk)
+* [peak.ai](https://peak.ai)
+* [portswigger.net](https://portswigger.net)
+* [recourse.ai](https://www.recourseai.com)
+* [riverflow.ai](https://www.riverflow.ai)
+* [roku.com](https://www.roku.com)
+* [sage.com](https://www.sage.com)
+* [sourceful.com](https://www.sourceful.com)
+* [thalesgroup.com](https://www.thalesgroup.com)
+* [thestartupfactory.tech](https://thestartupfactory.tech)
+* [thg.com](https://www.thg.com)
+* [ttgames.com](https://www.ttgames.com)
+* [ukbiobank.ac.uk](https://www.ukbiobank.ac.uk)
+* [yourgene-health.com](https://yourgenehealth.com)
+
+This is not an exhaustive list, but gives a flavour of the tech community in Manchester. 
+
+
+
+
+
+
+

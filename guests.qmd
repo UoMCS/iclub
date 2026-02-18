@@ -1,0 +1,58 @@
+---
+title: "Guest Lectures"
+
+---
+
+# Guest Lectures from Employers
+
+The Department of Computer Science welcomes external speakers and hosts a number of guest lectures from a wide range of collaborators in industry and academia. 
+
+
+![Selected guest lectures are a feature of undergraduate and postgraduate teaching at the University of Manchester](guestlecture.png)
+
+There are several ways the department can host guest lectures:
+
+* Scheduled lectures for COMP101, a first year course with 300+ enrolled students in Computer Science and Mathematics. 
+* School research seminars, see [examples of past seminars](https://www.cs.manchester.ac.uk/connect/events/past-events/)
+* Technical talks arranged as part of a scheduled course, speak to the [course leader for the relevant course](https://www.cs.manchester.ac.uk/about/people/). These tend to be more advanced courses aimed at students later in their degrees or as part of postgraduate study.
+* One-off talks arranged *ad hoc* that are not part of scheduled series of lectures
+* Seminars and talks from speakers arranged and booked by technical student societies described in [recruitment](recruitment.html)
+
+### Examples of COMP101 lectures
+
+Some example guest lectures for COMP101 are shown below to give a flavour of the kind of talks that are appropriate:
+
+* Hacking the Hacks, delivered by NCC Group
+* An introduction to Cloud Computing with booking.com
+* From UoM to Morgan Stanley in London, Google in New York and back again
+* AI for productivity and profit, with sourceful.com
+* Computing in the Community with Manchester Girl Geeks and co.
+* How to be a brilliant software engineer, delivered by Apadmi
+* Debunking the myths associated with User Experience, delivered by American Express
+* The Business of Intellectual Property with by Imagination Technology
+* From project to product, with the Masood Entrepreneurship Centre (MEC)
+
+There are 8 guest lecture slots every year during February and March, these are arranged by Duncan Hull, see [contacts](contact.html)
+
+### Interested in speaking?
+For COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. For COMP101, there are a limited number of guest lecture slots (around 20) which run through term-time starting in November and finishing in early June. Its important that speakers
+
+* Give much more than a sales pitch for an organisation, by providing insight into a technical subject
+* Talk about content that relates to the (very broad) syllabus of COMP101
+* Engage, interact, educate and entertain. Students vote with their feet (by not turning up) if they think a lecture won't be interesting
+* If you would like to propose a guest lecture for COMP101, please contact Duncan Hull. For all other external seminars and events, see the links above.
+
+Since lockdown, lectures have been online, which has allowed for more interaction, typically via the chat dialogue. We can monitor and moderate the chat, feeding questions to the speaker when it's appropriate.
+
+
+
+## Some recent examples 
+
+Our guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own insights.
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429158167080611841" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
+
+
+<!--https://www.linkedin.com/feed/update/urn:li:activity:7310283659528294400/-->

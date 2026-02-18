@@ -1,0 +1,39 @@
+---
+title: "Events"
+bibliography: references.bib
+---
+
+# Upcoming Events in 2026
+
+A selection of relevant events in the Department of Computer Science that will interest employers. 
+
+![The University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, Table reproduced from  [@highfliers2026]](business-engagement.jpg)
+
+## From 27th Feb & 20th March: Mentoring
+
+The next round of our mentoring program starts on 27th February, for detail see [software mentoring program](mentoring.html)
+
+
+## March 25th: Computing in Electronic Music
+
+The Past, Present & Future of the Computer in Electronic Music
+
+Upcoming event with Creative Manchester, details and registration at [bit.ly/electromanc](https://bit.ly/electromanc)
+
+
+## April 13th: IEEE Milestone award
+
+The Institute of Electrical and Electronics Engineers [IEEE.org](https://www.ieee.org/) has recognised the University of Manchester’s invention of [Manchester code](https://en.wikipedia.org/wiki/Manchester_code) in 1948 as a [Milestone technical achievement](https://ieeemilestones.ethw.org) and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026.  There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.
+ 
+ Manchester code was invented for the storage of data in the magnetic drum store of the [Manchester Mark I](https://en.wikipedia.org/wiki/Manchester_Mark_1) computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the [Voyager 1](https://en.wikipedia.org/wiki/Voyager_1) and [Voyager 2](https://en.wikipedia.org/wiki/Voyager_2) spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.
+
+Find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)
+
+
+## October: Computing and AI Careers Fair
+
+Our annual Computing Careers fair is an opportunity for employers to meet undergrauate and postgraduate students in Computer Science, see [recruitment](recruitment.html).
+
+
+
+

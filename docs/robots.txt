@@ -1,1 +1,1 @@
-Sitemap: https://crsl4.github.io/julia-workshop/sitemap.xml
+Sitemap: https://industry-club.cs.manchester.ac.uk/sitemap.xml

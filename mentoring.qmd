@@ -1,0 +1,43 @@
+---
+title: "Mentoring"
+
+bibliography: references.bib
+---
+
+## Software engineering mentoring
+
+Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn.
+
+![Software engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase](mentoring.jpg)
+
+
+Software engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.
+
+
+
+There are two timetabled mentoring sessions which taken place on Friday at 3pm on
+
+1. Friday 11th January
+1. Friday February 
+
+Both of these meetings take place on Microsoft Teams. If you'd like to join us, there's a signup form at, but please only sign up if you can make both of the sessions.
+
+
+If you have any questions or comments about mentoring, please get in touch.
+
+## About the course
+During the software engineering course, students fix bugs and add features to a large Java application. The application is a live events marketplace, called “Eventlite”. 
+
+The toolchain includes using Java, Eclipse, Gitlab, SpringBoot and Jenkins.
+
+The mentoring scheme has been running successfully since 2015  and we are very grateful to previous and ongoing support from our mentors.  If you've been a mentor in the past, the scheme is the same as previous iterations but has moved from our second year course
+
+1. Software Engineering I: with [stendhalgame.org](https://stendhalgame.org) (which took place in autumn) _to_
+1. Software Engineering II: with eventlite (which takes place in spring)
+
+## Acknowledgements 
+
+We are grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
+
+Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
+

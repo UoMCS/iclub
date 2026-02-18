@@ -156,3 +156,4 @@ Backup[ ]of[ ]*.numbers/
 /_site/
 _site/*
 /env/
+.Rproj.user
