@@ -15,6 +15,7 @@ Hello and welcome to the Industry Club of the Department of Computer Science at 
 ## Employers {#employers}
 Our students, staff and alumni work with a wide range of employers from local startups through to global corporations, and everything in between. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com), [@highfliers2026] this is reflected in the range of organisations we collaborate with.
 
+![The University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, Table reproduced from  [@highfliers2026]](highfliers2026.png)
 
 
 ## Join our mailing list {#industryclub}

@@ -11,7 +11,7 @@ Many of our students are recruited _before_ they graduate by working for an empl
 
 ## About our students {#students}
 
-We are one of the biggest department of Computer Science at the [Russel Group](https://www.russellgroup.ac.uk/) with a lots of students. As of 2026 we have around: 
+We are one of the biggest department of Computer Science at the [Russell Group](https://www.russellgroup.ac.uk/) with a lots of students. As of 2026 we have around: 
 
 * ~1000 students studying one of two main [undergraduate courses](https://www.cs.manchester.ac.uk/study/undergraduate/courses/):
     1. BSc (Hons) Computer Science 
@@ -78,15 +78,13 @@ Previously our students have secured year long placements at a wide range of emp
 summer interns
 
 ## Part-time work 
-
-Imago
-
+Some of our students do part-time work during term-time, for example through Imago, the student software company [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/) as well as other employers.
 
 ## Wednesday Waggle {#waggle}
 
 During term time, we highlight events and vacancies for Computer Science students in a weekly jobs newsletter called the *Wednesday Waggle*. 
 
-This newsletter goes out to 1500+ Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. 
+This newsletter goes out to 1000+ Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/). 
 
 Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding#studentjobs). It can help students find your needle in the jobs haystack.
 
