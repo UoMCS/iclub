@@ -18,8 +18,8 @@ website:
   title: "Industry Club, Department of Computer Science, University of Manchester"
   # subtitle: "stuff"
   site-url: https://industry-club.cs.manchester.ac.uk
-  repo-url: https://github.com/UoMCS/industryclub
-  issue-url: https://github.com/UoMCS/industryclub/issues/new/
+  repo-url: https://github.com/UoMCS/iclub
+  issue-url: https://github.com/UoMCS/iclub/issues/new/
   repo-actions: [edit,issue]
   navbar:
     logo: logo-university-of-manchester-allwhite.png
