@@ -21,6 +21,9 @@ The Past, Present & Future of the Computer in Electronic Music
 Upcoming event with Creative Manchester, details and registration at [bit.ly/electromanc](https://bit.ly/electromanc)
 
 
+![Join us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th](electronicmusic.png)
+
+
 ## April 13th: IEEE Milestone award
 
 The Institute of Electrical and Electronics Engineers [IEEE.org](https://www.ieee.org/) has recognised the University of Manchester’s invention of [Manchester code](https://en.wikipedia.org/wiki/Manchester_code) in 1948 as a [Milestone technical achievement](https://ieeemilestones.ethw.org) and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026.  There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.
@@ -28,6 +31,8 @@ The Institute of Electrical and Electronics Engineers [IEEE.org](https://www.iee
  Manchester code was invented for the storage of data in the magnetic drum store of the [Manchester Mark I](https://en.wikipedia.org/wiki/Manchester_Mark_1) computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the [Voyager 1](https://en.wikipedia.org/wiki/Voyager_1) and [Voyager 2](https://en.wikipedia.org/wiki/Voyager_2) spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.
 
 Find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)
+
+![Join us to celebrate Manchester Code on April 13th, find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)](mancode.png)
 
 
 ## October: Computing and AI Careers Fair
