@@ -104,7 +104,7 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 
 A good way to collaborate with and recruit students is to sponsor and support student events by contacting relevant societies directly. This includes hackathons, talks, panels, workshops, insights and more. 
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch. We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch. We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities.
 
 ## Beyond Computer Science
 
