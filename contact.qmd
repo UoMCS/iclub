@@ -1,31 +1,29 @@
 ---
 title: "Contacts"
-
+subtitle: Key industrial contacts in the Department
 ---
-
-Industry Club main contacts:
 
 ## Professor Andrew Stewart
 
-* Andrew is Head of the Department of Computer Science 
+* Andrew serves as Head of the Department of Computer Science 
 * [research.manchester.ac.uk/en/persons/andrew.j.stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart)
 
-### Professor Lucas Cordeiro
+## Professor Lucas Cordeiro
 
-* Lucas is Director of Business Engagement and Innovation 
+* Lucas is Director of Business Engagement and Innovation for Computer Science
 * [research.manchester.ac.uk/en/persons/lucas.cordeiro](https://research.manchester.ac.uk/en/persons/lucas.cordeiro)
 
-### Dr. Suzanne Embury
+## Dr. Suzanne Embury
 
-* Suzanne is Research Impact Lead and a Reader in Information Management
+* Suzanne is Research Impact Lead and a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Software Engienering
 * [research.manchester.ac.uk/en/persons/suzanne.m.embury](https://research.manchester.ac.uk/en/persons/suzanne.m.embury)
 
-### Dr. Duncan Hull 
+## Dr. Duncan Hull 
 
 * Duncan is Employability Lead, a Director of Business Engagement and Innovation and a Senior Lecturer in Computer Science
 * [research.manchester.ac.uk/en/persons/duncan.hull](https://research.manchester.ac.uk/en/persons/duncan.hull)
 
-### Dr. David Petrescu
+## Dr. David Petrescu
 
-* David is Placement Tutor, with pastoral responsibilty for our students on placement and a Lecturer in Computer Science
+* David is Placement Tutor, with pastoral responsibilty for our students on while they are on placement and a Lecturer in Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)

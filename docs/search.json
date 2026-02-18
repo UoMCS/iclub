@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contacts",
     "section": "",
-    "text": "Industry Club main contacts:",
+    "text": "Andrew serves as Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart",
     "crumbs": [
       "Contacts"
     ]
@@ -13,8 +13,48 @@
     "objectID": "contact.html#professor-andrew-stewart",
     "href": "contact.html#professor-andrew-stewart",
     "title": "Contacts",
-    "section": "Professor Andrew Stewart",
-    "text": "Professor Andrew Stewart\n\nAndrew is Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart\n\n\nProfessor Lucas Cordeiro\n\nLucas is Director of Business Engagement and Innovation\nresearch.manchester.ac.uk/en/persons/lucas.cordeiro\n\n\n\nDr. Suzanne Embury\n\nSuzanne is Research Impact Lead and a Reader in Information Management\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\n\n\n\nDr. Duncan Hull\n\nDuncan is Employability Lead, a Director of Business Engagement and Innovation and a Senior Lecturer in Computer Science\nresearch.manchester.ac.uk/en/persons/duncan.hull\n\n\n\nDr. David Petrescu\n\nDavid is Placement Tutor, with pastoral responsibilty for our students on placement and a Lecturer in Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu",
+    "section": "",
+    "text": "Andrew serves as Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#professor-lucas-cordeiro",
+    "href": "contact.html#professor-lucas-cordeiro",
+    "title": "Contacts",
+    "section": "Professor Lucas Cordeiro",
+    "text": "Professor Lucas Cordeiro\n\nLucas is Director of Business Engagement and Innovation for Computer Science\nresearch.manchester.ac.uk/en/persons/lucas.cordeiro",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#dr.-suzanne-embury",
+    "href": "contact.html#dr.-suzanne-embury",
+    "title": "Contacts",
+    "section": "Dr. Suzanne Embury",
+    "text": "Dr. Suzanne Embury\n\nSuzanne is Research Impact Lead and a Reader in Software Engienering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#dr.-duncan-hull",
+    "href": "contact.html#dr.-duncan-hull",
+    "title": "Contacts",
+    "section": "Dr. Duncan Hull",
+    "text": "Dr. Duncan Hull\n\nDuncan is Employability Lead, a Director of Business Engagement and Innovation and a Senior Lecturer in Computer Science\nresearch.manchester.ac.uk/en/persons/duncan.hull",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#dr.-david-petrescu",
+    "href": "contact.html#dr.-david-petrescu",
+    "title": "Contacts",
+    "section": "Dr. David Petrescu",
+    "text": "Dr. David Petrescu\n\nDavid is Placement Tutor, with pastoral responsibilty for our students on while they are on placement and a Lecturer in Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu",
     "crumbs": [
       "Contacts"
     ]
@@ -104,7 +144,7 @@
     "href": "mentoring.html",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Friday at 3pm on\n\nFriday 27th February, 4pm\nFriday 20th March, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at, but please only sign up if you can make both of the sessions.\nIf you have any questions or comments about mentoring, please get in touch.",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Friday at 3pm on\n\nFriday 27th February, 4pm\nFriday 20th March, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at, but please only sign up if you can make both of the sessions.\nIf you have any questions or comments about mentoring, please get in touch.",
     "crumbs": [
       "Mentoring"
     ]
@@ -114,7 +154,7 @@
     "href": "mentoring.html#software-engineering-mentoring",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Friday at 3pm on\n\nFriday 27th February, 4pm\nFriday 20th March, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at, but please only sign up if you can make both of the sessions.\nIf you have any questions or comments about mentoring, please get in touch.",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Friday at 3pm on\n\nFriday 27th February, 4pm\nFriday 20th March, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at, but please only sign up if you can make both of the sessions.\nIf you have any questions or comments about mentoring, please get in touch.",
     "crumbs": [
       "Mentoring"
     ]
@@ -144,7 +184,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "A selection of relevant events in the Department of Computer Science that will interest employers.\n\n\n\nThe University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, Table reproduced from (Birchall 2026)\n\n\n\n\nThe next round of our mentoring program starts on 27th February, for detail see software mentoring program\n\n\n\nThe Past, Present & Future of the Computer in Electronic Music\nUpcoming event with Creative Manchester, details and registration at bit.ly/electromanc\n\n\n\nJoin us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th\n\n\n\n\n\nThe Institute of Electrical and Electronics Engineers IEEE.org has recognised the University of Manchester’s invention of Manchester code in 1948 as a Milestone technical achievement and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026. There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.\nManchester code was invented for the storage of data in the magnetic drum store of the Manchester Mark I computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the Voyager 1 and Voyager 2 spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.\nFind out more and register at bit.ly/ieee-manc\n\n\n\nJoin us to celebrate Manchester Code on April 13th, find out more and register at bit.ly/ieee-manc\n\n\n\n\n\nOur annual Computing Careers fair is an opportunity for employers to meet undergrauate and postgraduate students in Computer Science, see recruitment.",
+    "text": "A selection of relevant events in the Department of Computer Science that will interest employers.\n\n\n\nThe next round of our mentoring program starts on 27th February, for detail see software mentoring program\n\n\n\nThe Past, Present & Future of the Computer in Electronic Music\nUpcoming event with Creative Manchester, details and registration at bit.ly/electromanc\n\n\n\nJoin us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th\n\n\n\n\n\nThe Institute of Electrical and Electronics Engineers IEEE.org has recognised the University of Manchester’s invention of Manchester code in 1948 as a Milestone technical achievement and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026. There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.\nManchester code was invented for the storage of data in the magnetic drum store of the Manchester Mark I computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the Voyager 1 and Voyager 2 spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.\nFind out more and register at bit.ly/ieee-manc\n\n\n\nJoin us to celebrate Manchester Code on April 13th, find out more and register at bit.ly/ieee-manc\n\n\n\n\n\nOur annual Computing Careers fair is an opportunity for employers to meet undergrauate and postgraduate students in Computer Science, see recruitment.",
     "crumbs": [
       "Events"
     ]
@@ -204,7 +244,7 @@
     "href": "index.html#employers",
     "title": "Hello",
     "section": "Employers",
-    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local startups through to global corporations, and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the range of organisations we collaborate with.\n\n\n\nThe University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, Table reproduced from (Birchall 2026)",
+    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local startups through to global corporations, and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the range of organisations we collaborate with.\n\n\n\nThe University of Manchester is the most targeted University in the UK by The Times top100graduateemployers.com, Table reproduced from The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers (Birchall 2026)",
     "crumbs": [
       "Hello"
     ]
@@ -224,17 +264,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "There are several different kinds of research that employers can engage with from Bachelors, Masters and PhD and beyond.\n\n\n\nStudents working on the SpiNNaker machine, a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research.html#industrial-research",
-    "href": "research.html#industrial-research",
-    "title": "Research",
-    "section": "",
-    "text": "There are several different kinds of research that employers can engage with from Bachelors, Masters and PhD and beyond.\n\n\n\nStudents working on the SpiNNaker machine, a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains",
+    "text": "There are several different kinds of industrial and applied research projects that employers can engage with through our Bachelors, Masters, PhD students and staff.",
     "crumbs": [
       "Research"
     ]
@@ -244,7 +274,7 @@
     "href": "research.html#cosupervise",
     "title": "Research",
     "section": "Co-supervised projects",
-    "text": "Co-supervised projects\nIf you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:\n\nBachelors projects: these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley research.manchester.ac.uk/en/persons/terence.morley\nMasters projects: again these are six months in duration but start in March and finish in September. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch research.manchester.ac.uk/en/persons/terence.morley\nPhD projects: For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt research.manchester.ac.uk/en/persons/renate.schmidt\nKnowledge Transfer Partnerships: We have a range of KTPs, speak to the research office for details\nImpact Acceleration Accounts: We have a range of IAAs, speak to the research office for details",
+    "text": "Co-supervised projects\nIf you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:\n\nBachelors projects: these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley research.manchester.ac.uk/en/persons/terence.morley\nMasters projects: again these are six months in duration but start in March and finish in September. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch research.manchester.ac.uk/en/persons/sarah.clinch\nPhD projects: For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt research.manchester.ac.uk/en/persons/renate.schmidt\nKnowledge Transfer Partnerships: We have a range of KTPs, speak to the research office for details\nImpact Acceleration Accounts: We have a range of IAAs, speak to the research office for details",
     "crumbs": [
       "Research"
     ]
@@ -264,7 +294,7 @@
     "href": "guests.html",
     "title": "Guest Lectures",
     "section": "",
-    "text": "The Department of Computer Science welcomes external speakers and hosts a number of guest lectures from a wide range of collaborators in industry and academia.\n\n\n\nSelected guest lectures are a feature of undergraduate and postgraduate teaching at the University of Manchester\n\n\nThere are several ways the department can host guest lectures:\n\nScheduled lectures for COMP101, a first year course with 300+ enrolled students in Computer Science and Mathematics.\nSchool research seminars, see examples of past seminars\nTechnical talks arranged as part of a scheduled course, speak to the course leader for the relevant course. These tend to be more advanced courses aimed at students later in their degrees or as part of postgraduate study.\nOne-off talks arranged ad hoc that are not part of scheduled series of lectures\nSeminars and talks from speakers arranged and booked by technical student societies described in recruitment\n\n\n\nSome example guest lectures for COMP101 are shown below to give a flavour of the kind of talks that are appropriate:\n\nHacking the Hacks, delivered by NCC Group\nAn introduction to Cloud Computing with booking.com\nFrom UoM to Morgan Stanley in London, Google in New York and back again\nAI for productivity and profit, with sourceful.com\nComputing in the Community with Manchester Girl Geeks and co.\nHow to be a brilliant software engineer, delivered by Apadmi\nDebunking the myths associated with User Experience, delivered by American Express\nThe Business of Intellectual Property with by Imagination Technology\nFrom project to product, with the Masood Entrepreneurship Centre (MEC)\n\nThere are 8 guest lecture slots every year during February and March, these are arranged by Duncan Hull, see contacts\n\n\n\nFor COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. For COMP101, there are a limited number of guest lecture slots (around 20) which run through term-time starting in November and finishing in early June. Its important that speakers\n\nGive much more than a sales pitch for an organisation, by providing insight into a technical subject\nTalk about content that relates to the (very broad) syllabus of COMP101\nEngage, interact, educate and entertain. Students vote with their feet (by not turning up) if they think a lecture won’t be interesting\nIf you would like to propose a guest lecture for COMP101, please contact Duncan Hull. For all other external seminars and events, see the links above.\n\nSince lockdown, lectures have been online, which has allowed for more interaction, typically via the chat dialogue. We can monitor and moderate the chat, feeding questions to the speaker when it’s appropriate.\n\n\n\nOur guest lectures are delivered by a mix of junior and senior speakers alike, each bringing their own insights.",
+    "text": "The Department of Computer Science welcomes external speakers and hosts guest lectures from a wide range of collaborators in industry and academia.\nThere are several ways the department can host guest lectures:",
     "crumbs": [
       "Guest Lectures"
     ]
@@ -273,8 +303,8 @@
     "objectID": "guests.html#some-recent-examples",
     "href": "guests.html#some-recent-examples",
     "title": "Guest Lectures",
-    "section": "",
-    "text": "Our guest lectures are delivered by a mix of junior and senior speakers alike, each bringing their own insights.",
+    "section": "Some recent examples",
+    "text": "Some recent examples\nOur guest lectures are delivered by a mix of junior and senior speakers alike, each bringing their own unique insights to our teaching.",
     "crumbs": [
       "Guest Lectures"
     ]
@@ -304,7 +334,7 @@
     "href": "manchester.html#from-manchester-to-the-world",
     "title": "Manchester",
     "section": "From Manchester to the World",
-    "text": "From Manchester to the World\nThe Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which a wide range of public and private Mancunian employers are key. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of the tech community in Manchester.",
+    "text": "From Manchester to the World\nThe Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which a wide range of public and private Mancunian employers are key. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of the tech community in Manchester.",
     "crumbs": [
       "Manchester"
     ]

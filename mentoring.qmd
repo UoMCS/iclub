@@ -1,12 +1,12 @@
 ---
 title: "Mentoring"
-
+subtitle: Guiding and supporting the next generation
 bibliography: references.bib
 ---
 
 ## Software engineering mentoring
 
-Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn.
+Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.
 
 ![Software engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase](mentoring.jpg)
 

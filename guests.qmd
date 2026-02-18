@@ -1,14 +1,13 @@
 ---
 title: "Guest Lectures"
-
+subtitle: Reaching wider and younger audiences
 ---
 
-# Guest Lectures from Employers
 
-The Department of Computer Science welcomes external speakers and hosts a number of guest lectures from a wide range of collaborators in industry and academia. 
+The Department of Computer Science welcomes external speakers and hosts guest lectures from a wide range of collaborators in industry and academia. 
 
 
-![Selected guest lectures are a feature of undergraduate and postgraduate teaching at the University of Manchester](guestlecture.png)
+![Guest lectures from selected speakers are a feature of undergraduate and postgraduate teaching at the University of Manchester](guestlecture.png)
 
 There are several ways the department can host guest lectures:
 
@@ -48,7 +47,7 @@ Since lockdown, lectures have been online, which has allowed for more interactio
 
 ## Some recent examples 
 
-Our guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own insights.
+Our guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching.
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429158167080611841" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')

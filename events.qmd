@@ -7,7 +7,7 @@ bibliography: references.bib
 
 A selection of relevant events in the Department of Computer Science that will interest employers. 
 
-![The University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, Table reproduced from  [@highfliers2026]](business-engagement.jpg)
+![](business-engagement.jpg)
 
 ## From 27th Feb & 20th March: Mentoring
 

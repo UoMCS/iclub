@@ -1,6 +1,6 @@
 ---
 title: "Recruitment"
-
+subtitle: Future Leaders
 ---
 
 # Recruiting students {#recruitment}
