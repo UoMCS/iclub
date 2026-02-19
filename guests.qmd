@@ -7,7 +7,7 @@ subtitle: Reaching wider and younger audiences
 The Department of Computer Science welcomes external speakers and hosts guest lectures from a wide range of collaborators in industry and academia. 
 
 
-![Guest lectures from selected speakers are a feature of undergraduate and postgraduate teaching at the University of Manchester](guestlecture.png)
+![Guest lectures from selected external speakers are a regular feature of undergraduate and postgraduate teaching at the University of Manchester](studentspanorama.png)
 
 There are several ways the department can host guest lectures:
 

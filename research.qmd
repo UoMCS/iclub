@@ -1,21 +1,37 @@
 ---
 title: "Research"
+subtitle: Applied and industrial research projects
 bibliography: references.bib
 ---
 
 There are several different kinds of industrial and applied research projects that employers can engage with through our Bachelors, Masters, PhD students and staff.
 
-![Students working on the SpiNNaker machine, a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains](research.jpg)
+![Students working on the SpiNNaker project, a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains [@spin] ](research.jpg)
 
 
 ## Co-supervised projects {#cosupervise}
 If you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:
 
-* **Bachelors projects**: these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley [research.manchester.ac.uk/en/persons/terence.morley](https://research.manchester.ac.uk/en/persons/terence.morley)
-* **Masters projects**: again these are six months in duration but start in March and finish in September. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch [research.manchester.ac.uk/en/persons/sarah.clinch](https://research.manchester.ac.uk/en/persons/sarah.clinch)
-* **PhD projects**: For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt [research.manchester.ac.uk/en/persons/renate.schmidt](https://research.manchester.ac.uk/en/persons/renate.schmidt)
-* **Knowledge Transfer Partnerships**: We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to the research office for details
-* **Impact Acceleration Accounts**: We have a range of [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to the research office for details
+### Bachelors projects  {#bachelors}
+Bachelors these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley [research.manchester.ac.uk/en/persons/terence.morley](https://research.manchester.ac.uk/en/persons/terence.morley)
+
+### Masters projects {#masters}
+At any given time, we have around 250 Masters students. Masters projects are six months in duration but start in March and finish in September every year. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch [research.manchester.ac.uk/en/persons/sarah.clinch](https://research.manchester.ac.uk/en/persons/sarah.clinch)
+
+
+### PhD projects {#phd}
+
+We have around 250 PhD students at any given time.  For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt [research.manchester.ac.uk/en/persons/renate.schmidt](https://research.manchester.ac.uk/en/persons/renate.schmidt)
+
+
+### Knowledge Transfer Partnerships {#ktp}
+
+We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to the research office for details
+
+
+### Impact Acceleration Accounts {#iaa}
+
+We have a range of Impact Acceleration Accounts [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to the research office for details
 
 
 ## Intellectual Property {#ip}

@@ -12,7 +12,7 @@ There's a thriving community of technologists, engineers and  scientists in Manc
 
 ## From Manchester to the World
 
-The [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which a wide range of public and private Mancunian employers are key. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
+Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which public and private sector Mancunian employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
 
 * [apadmi.com](https://www.apadmi.com)
 * [arm.com in Manchester](https://careers.arm.com/uk-manchester-office)
@@ -51,6 +51,7 @@ The [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [sage.com](https://www.sage.com)
 * [sourceful.com](https://www.sourceful.com)
 * [steama.co](https://steama.co)
+* [teamnetsol.com](https://www.teamnetsol.com)
 * [thalesgroup.com](https://www.thalesgroup.com)
 * [thestartupfactory.tech](https://thestartupfactory.tech)
 * [thg.com](https://www.thg.com)
@@ -58,7 +59,7 @@ The [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [ukbiobank.ac.uk](https://www.ukbiobank.ac.uk)
 * [yourgene-health.com](https://yourgenehealth.com)
 
-This is not an exhaustive list, but gives a flavour of the tech community in Manchester. 
+This is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester. 
 
 
 

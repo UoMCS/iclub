@@ -1,6 +1,7 @@
 ---
 title: "Events"
 bibliography: references.bib
+subtitle: What's going on in the Department of Computer Science?
 ---
 
 # Upcoming Events in 2026
@@ -11,14 +12,12 @@ A selection of relevant events in the Department of Computer Science that will i
 
 ## From 27th Feb & 20th March: Mentoring
 
-The next round of our mentoring program starts on 27th February, for detail see [software mentoring program](mentoring.html)
+The next round of our softwre engineering mentoring program starts on 27th February, for detail see [software mentoring program](mentoring.html)
 
 
 ## March 25th: Computing in Electronic Music
 
-The Past, Present & Future of the Computer in Electronic Music
-
-Upcoming event with Creative Manchester, details and registration at [bit.ly/electromanc](https://bit.ly/electromanc)
+The Past, Present & Future of the Computer in Electronic Music. Upcoming event with [creative.manchester.ac.uk](https://www.creative.manchester.ac.uk/events/?page=2), details and registration at [bit.ly/electromanc](https://bit.ly/electromanc)
 
 
 ![Join us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th](electronicmusic.png)
