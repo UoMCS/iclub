@@ -57,6 +57,7 @@ Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [thg.com](https://www.thg.com)
 * [ttgames.com](https://www.ttgames.com)
 * [ukbiobank.ac.uk](https://www.ukbiobank.ac.uk)
+* [Veribe Labs](https://www.veribee.co/)
 * [yourgene-health.com](https://yourgenehealth.com)
 
 This is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester. 
