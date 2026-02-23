@@ -6,13 +6,13 @@ subtitle: So much to answer for...
 
 ## Even Greater Manchester
 
-There's a thriving community of technologists, engineers and  scientists in Manchester and we're proud to be a part of it. 
+There's a thriving community of technologists, engineers and  scientists in Manchester and we're proud to be an integral part of it. 
 
 ![“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” --Faisal Islam [@buzz]](civic.jpg)
 
 ## From Manchester to the World
 
-Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which public and private sector Mancunian employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
+Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which local employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
 
 * [apadmi.com](https://www.apadmi.com)
 * [arm.com in Manchester](https://careers.arm.com/uk-manchester-office)

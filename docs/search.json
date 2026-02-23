@@ -34,7 +34,7 @@
     "href": "contact.html#dr.-suzanne-embury",
     "title": "Contacts",
     "section": "Dr. Suzanne Embury",
-    "text": "Dr. Suzanne Embury\n\nSuzanne is Research Impact Lead and a Reader in Software Engienering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\neamil suzanne.m.embury@...",
+    "text": "Dr. Suzanne Embury\n\nSuzanne is Research Impact Lead and a Reader in Software Engineering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\nemail suzanne.m.embury@...",
     "crumbs": [
       "Contacts"
     ]
@@ -55,6 +55,36 @@
     "title": "Contacts",
     "section": "Dr. David Petrescu",
     "text": "Dr. David Petrescu\n\nDavid is Placement Tutor, with pastoral responsibilty for our students while they are on placement. He is a Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu\nemail david.petrescu@...",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#terry",
+    "href": "contact.html#terry",
+    "title": "Contacts",
+    "section": "Dr. Terence Morley: Bachelors projects",
+    "text": "Dr. Terence Morley: Bachelors projects\n\nTerry is the third year (Bachelors) projects manager\nresearch.manchester.ac.uk/en/persons/terence.morley\nemail terence.morley@...",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#sarah",
+    "href": "contact.html#sarah",
+    "title": "Contacts",
+    "section": "Dr. Sarah Clinch: Masters projects",
+    "text": "Dr. Sarah Clinch: Masters projects\n\nSarah is postgraduate taught (PGT) programme director (Masters)\nresearch.manchester.ac.uk/en/persons/sarah.clinch\nemail sarah.clinch@...",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#renate",
+    "href": "contact.html#renate",
+    "title": "Contacts",
+    "section": "Dr. Renate Schmit: PhD projects",
+    "text": "Dr. Renate Schmit: PhD projects\n\nRenate is postgraduate research (PGR) team leader\nresearch.manchester.ac.uk/en/persons/renate.schmidt\nemail renate.schmidt@...",
     "crumbs": [
       "Contacts"
     ]
@@ -160,6 +190,16 @@
     ]
   },
   {
+    "objectID": "mentoring.html#motivation",
+    "href": "mentoring.html#motivation",
+    "title": "Mentoring",
+    "section": "Whats in it for me?",
+    "text": "Whats in it for me?\nDiscussion with our mentors have revealed multiple motivations for mentoring including:\n\nGaining insight into how software engineering is currently taught at the University of Manchester\nDeveloping better leadership and mentoring skills, for the more junior engineers in an organisation\nInfluencing how software engineering is taught at University\nEngaging with and potentially recruiting students in Computer Science\nGiving back to the University, for example, alumni who have taken previous iteration of similar courses\nEnjoying - many of our mentors enjoy mentoring for its own sake",
+    "crumbs": [
+      "Mentoring"
+    ]
+  },
+  {
     "objectID": "mentoring.html#about",
     "href": "mentoring.html#about",
     "title": "Mentoring",
@@ -244,7 +284,7 @@
     "href": "index.html#employers",
     "title": "Hello",
     "section": "Employers",
-    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local to the global, from the startup to the multi-national and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the quantity and diversity of organisations we collaborate with.\n\n\n\nUniversities Targeted by Largest Number of Top Employers in 2025-2026. The University of Manchester is the most targeted University in the UK by The Times top100graduateemployers.com. This table is reproduced from The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers (Birchall 2026)",
+    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local to the global, from the small startups to the massive multi-nationals and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the quantity and diversity of organisations we collaborate with.\n\n\n\nUniversities Targeted by Largest Number of Top Employers in 2025-2026. The University of Manchester is the most targeted University in the UK by The Times top100graduateemployers.com. This table is reproduced from The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers (Birchall 2026)",
     "crumbs": [
       "Hello"
     ]
@@ -274,7 +314,17 @@
     "href": "research.html#cosupervise",
     "title": "Research",
     "section": "Co-supervised projects",
-    "text": "Co-supervised projects\nIf you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:\n\nBachelors projects\nBachelors these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley research.manchester.ac.uk/en/persons/terence.morley\n\n\nMasters projects\nAt any given time, we have around 250 Masters students. Masters projects are six months in duration but start in March and finish in September every year. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch research.manchester.ac.uk/en/persons/sarah.clinch\n\n\nPhD projects\nWe have around 250 PhD students at any given time. For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt research.manchester.ac.uk/en/persons/renate.schmidt\n\n\nKnowledge Transfer Partnerships\nWe have a range of KTPs, speak to the research office for details\n\n\nImpact Acceleration Accounts\nWe have a range of Impact Acceleration Accounts IAAs, speak to the research office for details",
+    "text": "Co-supervised projects\nIf you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:\n\nBachelors projects\nBachelors these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year. For Bachelors projects, speak to the third year projects manager: Terence Morley see project contacts\n\n\nMasters projects\nAt any given time, we have around 250 Masters students. Masters projects are six months in duration but start in March and finish in September every year. Projects are proposed (and offered to students) in the preceding November. For Masters projects, speak to the Postgraduate taught programme director: Sarah Clinch see project contacts\n\n\nPhD projects\nWe have around 250 PhD students at any given time. For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt see project contacts",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#ktps-and-iaas",
+    "href": "research.html#ktps-and-iaas",
+    "title": "Research",
+    "section": "KTP’s and IAAs",
+    "text": "KTP’s and IAAs\nAlongside projects co-supervised by academics, other kinds of collaobration are also possible including KTPs and IAAs.\n\nKnowledge Transfer Partnerships\nWe have a range of KTPs, speak to the research office for details\n\n\nImpact Acceleration Accounts\nWe have a range of Impact Acceleration Accounts IAAs, speak to the research office for details",
     "crumbs": [
       "Research"
     ]
@@ -314,7 +364,7 @@
     "href": "manchester.html",
     "title": "Manchester",
     "section": "",
-    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be a part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
+    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
     "crumbs": [
       "Manchester"
     ]
@@ -324,7 +374,7 @@
     "href": "manchester.html#even-greater-manchester",
     "title": "Manchester",
     "section": "",
-    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be a part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
+    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
     "crumbs": [
       "Manchester"
     ]
@@ -334,7 +384,7 @@
     "href": "manchester.html#from-manchester-to-the-world",
     "title": "Manchester",
     "section": "From Manchester to the World",
-    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which public and private sector Mancunian employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbeyondtrust.com\nbiorelate.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nveribee.co\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
+    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which local employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbeyondtrust.com\nbiorelate.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nveribee.co\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
     "crumbs": [
       "Manchester"
     ]

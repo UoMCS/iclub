@@ -5,6 +5,9 @@ subtitle: Key industrial contacts in the Department of Computer Science
 
 Phone numbers can be found on contact pages below. All emails are `...@manchester.ac.uk` 
 
+# Industrial contacts
+
+
 ## Professor Andrew Stewart
 
 * Andrew serves as Head of the Department of Computer Science 
@@ -35,3 +38,29 @@ Phone numbers can be found on contact pages below. All emails are `...@mancheste
 * David is Placement Tutor, with pastoral responsibilty for our students while they are on placement.  He is a Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)
 * email `david.petrescu@...`
+
+
+# Academic project contacts {#cosupervise}
+
+For co-supervised projects described on the [research projects](research.html) page, please contact:
+
+## Dr. Terence Morley: Bachelors projects {#terry}
+
+* Terry is the third year (Bachelors) projects manager
+* [research.manchester.ac.uk/en/persons/terence.morley](https://research.manchester.ac.uk/en/persons/terence.morley) 
+* email `terence.morley@...`
+
+
+## Dr. Sarah Clinch: Masters projects {#sarah}
+
+* Sarah is postgraduate taught (PGT) programme director (Masters)
+* [research.manchester.ac.uk/en/persons/sarah.clinch](https://research.manchester.ac.uk/en/persons/sarah.clinch) 
+* email `sarah.clinch@...`
+
+## Dr. Renate Schmit: PhD projects {#renate}
+
+* Renate is postgraduate research (PGR) team leader
+* [research.manchester.ac.uk/en/persons/renate.schmidt](https://research.manchester.ac.uk/en/persons/renate.schmidt) 
+* email `renate.schmidt@...`
+
+
