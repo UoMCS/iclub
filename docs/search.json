@@ -144,7 +144,7 @@
     "href": "mentoring.html",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm\nFriday 20th March 2026, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/er6NHR05kA\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch with Duncan, see contacts",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
     "crumbs": [
       "Mentoring"
     ]
@@ -154,14 +154,14 @@
     "href": "mentoring.html#software-engineering-mentoring",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm\nFriday 20th March 2026, 4pm\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/er6NHR05kA\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch with Duncan, see contacts",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
     "crumbs": [
       "Mentoring"
     ]
   },
   {
-    "objectID": "mentoring.html#about-the-course",
-    "href": "mentoring.html#about-the-course",
+    "objectID": "mentoring.html#about",
+    "href": "mentoring.html#about",
     "title": "Mentoring",
     "section": "About the course",
     "text": "About the course\nDuring the software engineering course, students fix bugs and add features to a large Java application. The application is a live events marketplace, called “Eventlite”. The toolchain includes using Java, Eclipse, Gitlab, SpringBoot and Jenkins.\nThe mentoring scheme has been running successfully since 2015 and we are very grateful to previous and ongoing support from our mentors. If you’ve been a mentor in the past, the scheme is the same as previous iterations but has moved from our second year course\n\nSoftware Engineering I: with stendhalgame.org (which took place in autumn) to\nSoftware Engineering II: with eventlite (which takes place in spring)",
@@ -244,7 +244,7 @@
     "href": "index.html#employers",
     "title": "Hello",
     "section": "Employers",
-    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local startups through to global corporations, and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the quantity and diversity of organisations we collaborate with.\n\n\n\nUniversities Targeted by Largest Number of Top Employers in 2025-2026. The University of Manchester is the most targeted University in the UK by The Times top100graduateemployers.com. This table is reproduced from The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers (Birchall 2026)",
+    "text": "Employers\nOur students, staff and alumni work with a wide range of employers from local to the global, from the startup to the multi-national and everything in between. According to highfliers.co.uk, the University of Manchester is the most targeted University in the UK by the Times Top 100 Graduate Employers, (Birchall 2026) this is reflected in the quantity and diversity of organisations we collaborate with.\n\n\n\nUniversities Targeted by Largest Number of Top Employers in 2025-2026. The University of Manchester is the most targeted University in the UK by The Times top100graduateemployers.com. This table is reproduced from The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers (Birchall 2026)",
     "crumbs": [
       "Hello"
     ]
@@ -254,7 +254,7 @@
     "href": "index.html#industryclub",
     "title": "Hello",
     "section": "Join our mailing list",
-    "text": "Join our mailing list\nEmployers are welcome to join our industry club mailing list by sending an email to listserv@listserv.manchester.ac.uk with the the text subscribe cs-industryclub yourfirstname yoursecondname in the body of the email message. You can do this by subscribing here\nThe mailing list is low-traffic, typically two to three updates per year with notifications of upcoming events and meetings. If you join our mailing list, we will not to spam you or sell your email details on to third parties.\nThe industry club is part of our wider business engagement activities.",
+    "text": "Join our mailing list\nEmployers are welcome to join our industry club mailing list by sending an email to listserv@listserv.manchester.ac.uk with the text subscribe cs-industryclub yourfirstname yoursecondname in the body of the email message. You can do this by subscribing here\nThe mailing list is low-traffic, typically two to three updates per year with notifications of upcoming events and meetings. If you join our mailing list, we will not to spam you or sell your email details on to third parties.\nThe industry club is an integral part of our wider business engagement activities.",
     "crumbs": [
       "Hello"
     ]
@@ -300,11 +300,11 @@
     ]
   },
   {
-    "objectID": "guests.html#some-recent-examples",
-    "href": "guests.html#some-recent-examples",
+    "objectID": "guests.html#recently",
+    "href": "guests.html#recently",
     "title": "Guest Lectures",
-    "section": "Some recent examples",
-    "text": "Some recent examples\nOur guest lectures are delivered by a mix of junior and senior speakers alike, each bringing their own unique insights to our teaching.",
+    "section": "Some recent guests",
+    "text": "Some recent guests\nOur guest lectures are delivered by a mix of junior and senior speakers alike, each bringing their own unique insights to our teaching.",
     "crumbs": [
       "Guest Lectures"
     ]
@@ -334,7 +334,7 @@
     "href": "manchester.html#from-manchester-to-the-world",
     "title": "Manchester",
     "section": "From Manchester to the World",
-    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which public and private sector Mancunian employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
+    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which public and private sector Mancunian employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbeyondtrust.com\nbiorelate.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nveribee.co\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
     "crumbs": [
       "Manchester"
     ]

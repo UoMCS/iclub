@@ -14,16 +14,16 @@ Hello and welcome to the Industry Club of the Department of Computer Science at 
 
 
 ## Employers {#employers}
-Our students, staff and alumni work with a wide range of employers from local startups through to global corporations, and everything in between. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com), [@highfliers2026] this is reflected in the quantity and diversity of organisations we collaborate with.
+Our students, staff and alumni work with a wide range of employers from [local](manchester.html) to the global, from the startup to the multi-national and everything in between. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com), [@highfliers2026] this is reflected in the quantity and diversity of organisations we collaborate with.
 
 ![Universities Targeted by Largest Number of Top Employers in 2025-2026. The University of Manchester is the most targeted University in the UK by *The Times* [top100graduateemployers.com](https://www.top100graduateemployers.com). This table is reproduced from *The Graduate Market in 2026: Annual Review of Graduate Vacancies & Starting Salaries at the UK’s Leading Employers* [@highfliers2026]](highfliers2026.png)
 
 
 ## Join our mailing list {#industryclub}
 
-Employers are welcome to join our industry club mailing list by sending an email to `listserv@listserv.manchester.ac.uk` with the the text `subscribe cs-industryclub yourfirstname yoursecondname` in the body of the email message. You can do this by [subscribing here](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe cs-industryclub yourfirstname yoursecondname!&body=subscribe cs-industryclub yourfirstname yoursecondname)
+Employers are welcome to join our industry club mailing list by sending an email to `listserv@listserv.manchester.ac.uk` with the text `subscribe cs-industryclub yourfirstname yoursecondname` in the body of the email message. You can do this by [subscribing here](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe cs-industryclub yourfirstname yoursecondname!&body=subscribe cs-industryclub yourfirstname yoursecondname)
 
 The mailing list is low-traffic, typically two to three updates per year with notifications of upcoming events and meetings. If you join our mailing list, we will not to spam you or sell your email details on to third parties.
 
- The industry club is part of our [wider business engagement activities](https://www.cs.manchester.ac.uk/connect/business-engagement/).
+ The industry club is an integral part of our [wider business engagement activities](https://www.cs.manchester.ac.uk/connect/business-engagement/).
 

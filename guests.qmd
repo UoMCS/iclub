@@ -17,7 +17,7 @@ There are several ways the department can host guest lectures:
 * One-off talks arranged *ad hoc* that are not part of scheduled series of lectures
 * Seminars and talks from speakers arranged and booked by technical student societies described in [recruitment](recruitment.html)
 
-### Examples of COMP101 lectures
+### Examples of COMP101 lectures {#comp101}
 
 Some example guest lectures for COMP101 are shown below to give a flavour of the kind of talks that are appropriate:
 
@@ -33,7 +33,7 @@ Some example guest lectures for COMP101 are shown below to give a flavour of the
 
 There are 8 guest lecture slots every year during February and March, these are arranged by Duncan Hull, see [contacts](contact.html)
 
-### Interested in speaking?
+### Interested in speaking? {#interested}
 For COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. For COMP101, there are a limited number of guest lecture slots (around 20) which run through term-time starting in November and finishing in early June. Its important that speakers
 
 * Give much more than a sales pitch for an organisation, by providing insight into a technical subject
@@ -45,7 +45,7 @@ Since lockdown, lectures have been online, which has allowed for more interactio
 
 
 
-## Some recent examples 
+## Some recent guests {#recently}
 
 Our guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching.
 

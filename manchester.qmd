@@ -20,6 +20,8 @@ Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [autotrader.co.uk](https://www.autotrader.co.uk)
 * [BBC at MediaCityUK](https://www.bbc.com/historyofthebbc/buildings/media-city)
 * [bet365.com](https://www.bet365.com)
+* [beyondtrust.com](https://www.beyondtrust.com/)
+* [biorelate.com](https://biorelate.com)
 * [bny.com](https://www.bny.com)
 * [booking.com](https://www.booking.com)
 * [cantarus.com](https://www.cantarus.com)
@@ -57,7 +59,7 @@ Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [thg.com](https://www.thg.com)
 * [ttgames.com](https://www.ttgames.com)
 * [ukbiobank.ac.uk](https://www.ukbiobank.ac.uk)
-* [Veribe Labs](https://www.veribee.co/)
+* [veribee.co](https://www.veribee.co/)
 * [yourgene-health.com](https://yourgenehealth.com)
 
 This is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester. 
