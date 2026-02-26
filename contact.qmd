@@ -7,7 +7,7 @@ subtitle: Key industrial contacts in the Department of Computer Science
 # Industrial contacts in Computer Science
 Phone numbers can be found on contact pages below, all emails are `...@manchester.ac.uk` 
 
-![Transport for Greater Manchester (TfGM) [Starling Bank Bikes](https://beeactive.tfgm.com/cycle-hire/) on the Oxford Road, Manchester](onyerbike.jpg)
+![Transport for Greater Manchester (TfGM) on the Oxford Road with [Starling Bank Bikes](https://beeactive.tfgm.com/cycle-hire/)](onyerbike.jpg)
 
 
 
@@ -44,7 +44,7 @@ Phone numbers can be found on contact pages below, all emails are `...@mancheste
 
 ## Mabel Yau
 
-* Mabel is Teaching, Learning and Student Experience (TLSE) Coordinator for all placements in the School of Engineering
+* Mabel is Teaching, Learning and Student Experience (TLSE) Coordinator for placements across the School of Engineering
 * [linkedin.com/in/mabel-yau](https://www.linkedin.com/in/mabel-yau/)
 * email `mabel.yau@manchester..`
 

@@ -1,6 +1,6 @@
 ---
 title: "Industrial Experience"
-subtitle: Employ an undergraduate student full-time, for a year, before they graduate
+subtitle: Employ an undergraduate student in Computer Science, full-time for a year, before they graduate
 bibliography: references.bib
 
 ---
@@ -19,13 +19,13 @@ Around a third of our undergraduate students are successful in securing an indus
 **ACADEMICS** and personal tutors, your pastoral responsibilities to your tutees while they are on placement are outlined by the [placement year tutor](contact.html)
 :::
 
-## Placement advantages {#advantages}
+## Placement advantages for employers {#advantages}
 
-Year long placements are a *win-win-win* situation for:
+Year long placements are advantageus for employers, the students they employ and the University where the student is enrolled:
 
-1. **Employers**: who benefit from a cost-effective way to recruit (and retain) student and graduate talent 
-1. **Students**: who benefit from a broader education, and develop softer, social, teamwork and non-cognitive skills that can be challenging to learn in a formal academic environment
-1. **The University**: produces better graduates with broader and deeper skills, who earn more and get better jobs. [@BScCS4;@whatdograduatesdo]
+1. **Employers**: benefit from a cost-effective way to recruit (and retain) student and graduate talent 
+1. **Students**: benefit from a broader education while developer the softer, social, teamwork and non-cognitive skills that can be challenging to learn in a formal academic environment
+1. **The University**: benefits from procuding better graduates with broader and deeper skills, who earn more and get better jobs. [@BScCS4;@whatdograduatesdo]
 
 For the academic year starting in September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
 
@@ -41,10 +41,12 @@ The University of Manchester **requires** that all employers of undergraduate st
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Pay students a salary, ranging from [minimum wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest). Salaries range widely depending on sector and location, but higher salaries often attract stronger applicants.
-* Start their placements between June and September, to allow students a year of work before they return for their final year at University
+* Pay students a salary ranging from [minimum wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest). Salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants.
+* Start the students period of employment on placement between June and September, to allow students a year of work before they return for their final year at University
 * Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
-* Allow their placement students to receive two visits from an academic while on placement, usually their personal tutor. The first meeting is in autumn to check the student has started OK. The second meeting in spring/summer is for the personal tutor to meet with both the student *and* their manager to discuss their progress. These meetings are typically remote, but may be in person if appropriate.
+* Allow their placement students to receive two visits from an academic while on placement, usually their personal tutor. These meetings are remote, but may be in person if appropriate:
+    1. The first meeting takes place in autumn to check the student has started OK. 
+    1. The second meeting in spring/summer is for the personal tutor to meet with both the student *and* their manager to discuss their progress.
 * Treat students with respect. Although students may be the most junior employees, they should treated as the office dogsbody, whose main responsbilities are making cups of tea and running errands for senior colleagues.
 * Typically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their right to work, if they are not a resident of that country, for example [technical studentships at CERN in Geneva](https://careers.cern/programmes/technical-studentship/).
 
