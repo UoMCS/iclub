@@ -78,7 +78,7 @@ An example of part-time employment on casual contracts is Imago, our student sof
 The University of Manchester Students Union (UMSU) is the largest in the UK with over 500 student societies. Many of these societies have a scientific, technical, engineering or mathematical interests including. A small sample is shown, in no particular order in @tbl-umsu
 
 
-| Society  | Link   |  
+| Student society  | Link   |  
 |:---|:---|
 |  Startups  | [accelerateme.co](https://accelerateme.co) |
 | UNIversity Computer Science | [unicsmcr.com](https://unicsmcr.com/) |
@@ -93,7 +93,7 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 | Google Developers Group (GDG) Manchester | [GDGManchester](https://linktr.ee/gdgmanchester) |
 
 
-: A small selection of societies at the Unviversity of Manchester with scientific, technical, enginering and mathematical interests {#tbl-umsu}
+: A small selection of societies at the Unviversity of Manchester with scientific, technical, engineering and mathematical interests {#tbl-umsu}
 
 One way to engage with students is to sponsor and support their events by contacting relevant societies directly. This includes sponsoring hackathons and offering speakers for talks, panels, workshops, insights and other events. 
 
