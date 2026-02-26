@@ -9,6 +9,8 @@ project:
       - research.qmd
       - mentoring.qmd
       - guests.qmd
+      - experience.qmd
+      - fairs.qmd
       - recruitment.qmd
       - manchester.qmd
       - contact.qmd
@@ -54,6 +56,8 @@ website:
       - research.qmd
       - mentoring.qmd
       - guests.qmd
+      - experience.qmd
+      - fairs.qmd
       - recruitment.qmd
       - manchester.qmd
       - contact.qmd

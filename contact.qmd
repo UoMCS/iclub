@@ -3,44 +3,53 @@ title: "Contacts"
 subtitle: Key industrial contacts in the Department of Computer Science
 ---
 
-Phone numbers can be found on contact pages below. All emails are `...@manchester.ac.uk` 
 
-# Industrial contacts
+# Industrial contacts in Computer Science
+Phone numbers can be found on contact pages below, all emails are `...@manchester.ac.uk` 
+
+![Transport for Greater Manchester (TfGM) [Starling Bank Bikes](https://beeactive.tfgm.com/cycle-hire/) on the Oxford Road, Manchester](onyerbike.jpg)
+
 
 
 ## Professor Andrew Stewart
 
-* Andrew serves as Head of the Department of Computer Science 
+* Andrew is Head of the Department of Computer Science 
 * [research.manchester.ac.uk/en/persons/andrew.j.stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart)
-* email `andrew.j.stewart@...` 
+* email `andrew.j.stewart@manchester...` 
 
 ## Professor Lucas Cordeiro
 
 * Lucas is Director of Business Engagement and Innovation for Computer Science
 * [research.manchester.ac.uk/en/persons/lucas.cordeiro](https://research.manchester.ac.uk/en/persons/lucas.cordeiro)
-* email `lucas.cordeiro@...`
+* email `lucas.cordeiro@manchester...`
 
 
 ## Dr. Suzanne Embury
 
 * Suzanne is Research Impact Lead and a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Software Engineering
 * [research.manchester.ac.uk/en/persons/suzanne.m.embury](https://research.manchester.ac.uk/en/persons/suzanne.m.embury)
-* email `suzanne.m.embury@...`
+* email `suzanne.m.embury@manchester...`
 
 ## Dr. Duncan Hull 
 
 * Duncan is Employability Lead and a Director of Business Engagement and Innovation. He is a Senior Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/duncan.hull](https://research.manchester.ac.uk/en/persons/duncan.hull)
-* email `duncan.hull@...`
+* email `duncan.hull@manchester...`
 
 ## Dr. David Petrescu
 
-* David is Placement Tutor, with pastoral responsibilty for our students while they are on placement.  He is a Lecturer in the Department of Computer Science
+* David is Placement Year Tutor, with pastoral responsibilty for our students while they are on placement.  He is a Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)
-* email `david.petrescu@...`
+* email `david.petrescu@manchester...`
+
+## Mabel Yau
+
+* Mabel is Teaching, Learning and Student Experience (TLSE) Coordinator for all placements in the School of Engineering
+* [linkedin.com/in/mabel-yau](https://www.linkedin.com/in/mabel-yau/)
+* email `mabel.yau@manchester..`
 
 
-# Academic project contacts {#cosupervise}
+# Academic project contacts in Computer Science {#cosupervise}
 
 For co-supervised projects described on the [research projects](research.html) page, please contact:
 
@@ -59,8 +68,10 @@ For co-supervised projects described on the [research projects](research.html) p
 
 ## Dr. Renate Schmit: PhD projects {#renate}
 
-* Renate is postgraduate research (PGR) team leader
+* Renate is postgraduate research (PGR) team leader and [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Computer Science
 * [research.manchester.ac.uk/en/persons/renate.schmidt](https://research.manchester.ac.uk/en/persons/renate.schmidt) 
 * email `renate.schmidt@...`
 
+
+<!--# Employability leads in the School of Engineering and beyond {#employability}-->
 

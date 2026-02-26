@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contacts",
     "section": "",
-    "text": "Phone numbers can be found on contact pages below. All emails are ...@manchester.ac.uk",
+    "text": "Phone numbers can be found on contact pages below, all emails are ...@manchester.ac.uk\n\n\n\nTransport for Greater Manchester (TfGM) Starling Bank Bikes on the Oxford Road, Manchester\n\n\n\n\n\nAndrew is Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart\nemail andrew.j.stewart@manchester...\n\n\n\n\n\nLucas is Director of Business Engagement and Innovation for Computer Science\nresearch.manchester.ac.uk/en/persons/lucas.cordeiro\nemail lucas.cordeiro@manchester...\n\n\n\n\n\nSuzanne is Research Impact Lead and a Reader in Software Engineering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\nemail suzanne.m.embury@manchester...\n\n\n\n\n\nDuncan is Employability Lead and a Director of Business Engagement and Innovation. He is a Senior Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/duncan.hull\nemail duncan.hull@manchester...\n\n\n\n\n\nDavid is Placement Year Tutor, with pastoral responsibilty for our students while they are on placement. He is a Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu\nemail david.petrescu@manchester...\n\n\n\n\n\nMabel is Teaching, Learning and Student Experience (TLSE) Coordinator for all placements in the School of Engineering\nlinkedin.com/in/mabel-yau\nemail mabel.yau@manchester..",
     "crumbs": [
       "Contacts"
     ]
@@ -13,8 +13,8 @@
     "objectID": "contact.html#professor-andrew-stewart",
     "href": "contact.html#professor-andrew-stewart",
     "title": "Contacts",
-    "section": "Professor Andrew Stewart",
-    "text": "Professor Andrew Stewart\n\nAndrew serves as Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart\nemail andrew.j.stewart@...",
+    "section": "",
+    "text": "Andrew is Head of the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/andrew.j.stewart\nemail andrew.j.stewart@manchester...",
     "crumbs": [
       "Contacts"
     ]
@@ -23,8 +23,8 @@
     "objectID": "contact.html#professor-lucas-cordeiro",
     "href": "contact.html#professor-lucas-cordeiro",
     "title": "Contacts",
-    "section": "Professor Lucas Cordeiro",
-    "text": "Professor Lucas Cordeiro\n\nLucas is Director of Business Engagement and Innovation for Computer Science\nresearch.manchester.ac.uk/en/persons/lucas.cordeiro\nemail lucas.cordeiro@...",
+    "section": "",
+    "text": "Lucas is Director of Business Engagement and Innovation for Computer Science\nresearch.manchester.ac.uk/en/persons/lucas.cordeiro\nemail lucas.cordeiro@manchester...",
     "crumbs": [
       "Contacts"
     ]
@@ -33,8 +33,8 @@
     "objectID": "contact.html#dr.-suzanne-embury",
     "href": "contact.html#dr.-suzanne-embury",
     "title": "Contacts",
-    "section": "Dr. Suzanne Embury",
-    "text": "Dr. Suzanne Embury\n\nSuzanne is Research Impact Lead and a Reader in Software Engineering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\nemail suzanne.m.embury@...",
+    "section": "",
+    "text": "Suzanne is Research Impact Lead and a Reader in Software Engineering\nresearch.manchester.ac.uk/en/persons/suzanne.m.embury\nemail suzanne.m.embury@manchester...",
     "crumbs": [
       "Contacts"
     ]
@@ -43,8 +43,8 @@
     "objectID": "contact.html#dr.-duncan-hull",
     "href": "contact.html#dr.-duncan-hull",
     "title": "Contacts",
-    "section": "Dr. Duncan Hull",
-    "text": "Dr. Duncan Hull\n\nDuncan is Employability Lead and a Director of Business Engagement and Innovation. He is a Senior Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/duncan.hull\nemail duncan.hull@...",
+    "section": "",
+    "text": "Duncan is Employability Lead and a Director of Business Engagement and Innovation. He is a Senior Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/duncan.hull\nemail duncan.hull@manchester...",
     "crumbs": [
       "Contacts"
     ]
@@ -53,8 +53,18 @@
     "objectID": "contact.html#dr.-david-petrescu",
     "href": "contact.html#dr.-david-petrescu",
     "title": "Contacts",
-    "section": "Dr. David Petrescu",
-    "text": "Dr. David Petrescu\n\nDavid is Placement Tutor, with pastoral responsibilty for our students while they are on placement. He is a Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu\nemail david.petrescu@...",
+    "section": "",
+    "text": "David is Placement Year Tutor, with pastoral responsibilty for our students while they are on placement. He is a Lecturer in the Department of Computer Science\nresearch.manchester.ac.uk/en/persons/david-petrescu\nemail david.petrescu@manchester...",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contact.html#mabel-yau",
+    "href": "contact.html#mabel-yau",
+    "title": "Contacts",
+    "section": "",
+    "text": "Mabel is Teaching, Learning and Student Experience (TLSE) Coordinator for all placements in the School of Engineering\nlinkedin.com/in/mabel-yau\nemail mabel.yau@manchester..",
     "crumbs": [
       "Contacts"
     ]
@@ -84,7 +94,7 @@
     "href": "contact.html#renate",
     "title": "Contacts",
     "section": "Dr. Renate Schmit: PhD projects",
-    "text": "Dr. Renate Schmit: PhD projects\n\nRenate is postgraduate research (PGR) team leader\nresearch.manchester.ac.uk/en/persons/renate.schmidt\nemail renate.schmidt@...",
+    "text": "Dr. Renate Schmit: PhD projects\n\nRenate is postgraduate research (PGR) team leader and Reader in Computer Science\nresearch.manchester.ac.uk/en/persons/renate.schmidt\nemail renate.schmidt@...",
     "crumbs": [
       "Contacts"
     ]
@@ -94,7 +104,7 @@
     "href": "recruitment.html",
     "title": "Recruitment",
     "section": "",
-    "text": "Many of our students are recruited before they graduate by working for an employer on a fixed-term contract, either part-time, full-time and as summer interns or for a year long placement with industrial experience, aka sandwich degree program.\n\n\n\nAre these graduates the future of your organisation? If you want them to be, you need to engage early and often with students before they graduate. This will increase your chances of recruiting them. The picture shows University of Manchester graduates celebrating their graduation outside the Samuel Alexander building with photobombing by Gavin Brown\n\n\n\n\nWe are one of the biggest departments of Computer Science at a Russell Group University with a lots of students. As of 2026 we have over 1000 undergraduate students studying one of two main Bachelors degrees:\n\nBSc (Hons) Computer Science\nBSc (Hons) Computer Science with Mathematics\n\nBoth degree programes are available with Industrial Experience (IE), a year in industry. Alongside our undergraduate community we currently have:\n\nOver 240 postgraduate taught students, doing Masters degrees\nOver 240 PhD students doing research supervised by academics in the Department\n\n\n\n\nAround a third of our undergraduate students choose to do a year in industry. For the academic year starting in 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their degree.\n\n\n\n\n\nNumber of students starting an Industrial Experience (IE) placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: CS: Department of Computer Science cs.manchester.ac.uk, MACE: Department of Mechanical, Aerospace and Civil Engineering (MACE) mace.manchester.ac.uk, EEE: Department of Electrical and Electronic Engineering eee.manchester.ac.uk, ChemEng: Department of Chemical Engineering ce.manchester.ac.uk, Chemistry: Department of Chemistry chemistry.manchester.ac.uk, Maths: Department of Mathematics maths.manchester.ac.uk, Physics: Department of Physics & Astronomy physics.manchester.ac.uk, Materials: Department of Materials materials.manchester.ac.uk, EES: Department of Earth and Environmental Sciences ees.manchester.ac.uk. Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.\n\n\n\n\n\nWe are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. Over the last decade we have been successful in more than doubling the number of our students going on year long placements in industry to around 100 per year, see figure @ref(fig:ie-fig). This is a win-win-win situation for:\n\nStudents: benefit from a broader education, and develop softer social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment.\nEmployers: placements are a cost-effective way for employers to recruit (and retain) graduate talent\nUniversities: produce better graduates with broader and deeper skills, who earn more and get better jobs. [@graduateoutcomes]\n\n\n\n\n\n\nNumber of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. I have been leading the program since 2012 and managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.\n\n\n\n\nPreviously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.\n\n\n\nMany of our students do sumer internships betweens 1st and 2nd, or 2nd and 3rd year of study. Unlike year-long placements, these are not a formal part of their undergraduate degree program, but we encourage our students to take skilled work during summer.\n\n\n\nSome of our students do part-time work during term-time, for example through Imago, the student software company imago.cs.manchester.ac.uk as well as other employers.\n\n\n\nDuring term time, we highlight events and vacancies for Computer Science students in a weekly jobs newsletter called the Wednesday Waggle.\nThis newsletter goes out to 1000+ Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at careerconnect.manchester.ac.uk.\nAlternatively, point us to where they are advertised online, see advertising vacancies to students. It can help students find your needle in the jobs haystack.\n\n\n\nThe University of Manchester Students Union (UMSU) is the largest in the UK with over 500 student societies. Many of these societies have a computational, technical and interdisciplinary interests including (in no particular order):\n\nStartups accelerateme.co\nUniversity Computer Science Manchester unicsmcr.com\nManchester University Data Science & Artificial Intilligence mudsai.com\nIBM Z society IBMZ.uom\nMaths Society MathSoc\nManchester Intelligence Society (Cybersecurity) MIS\nRobosoc uom-robosoc.com\nHyperloop Manchester hyperloopmanchester.co.uk\nMakerspace Manchester makerspacemanchester.org\nManchester Stinger Motorports formulastudentuom.com\nGoogle Developer Group (GDG) Manchester GDGManchester\n\nA good way to collaborate with and recruit students is to sponsor and support their events by contacting relevant societies directly. This includes hackathons, talks, panels, workshops, insights and more.\nIf you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch. We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. As of 2026, the entry tariff of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in Russell Group universities.\n\n\n\n\nIf you are looking to recruit or collaborate with science and engineering students from other disciplines like Physics, Maths, Chemistry, Mechnical, Aerospace & Civil Engineering (MACE), Materials Science and Electrical & Electronic Engineering (EEE) you should talk to:\n\nacademic staff in those departments and/or\n\nthe central careers service of the University via employers.manchester.ac.uk\nbusiness engagement and knowledge Echange team manchester.ac.uk/collaborate",
+    "text": "Many of our students in Computer Science are recruited before they graduate by working for an employer on a fixed-term contract, either part-time, full-time and as summer interns or for a year long placement with industrial experience. This page describes some of the options for recruiting and employing students from the Department of Computer Science, as well as those studying other degree programs at the University of Manchester.\n\n\n\nAre these graduates the future of your organisation? If you want them to be, you need to engage early and often with students before they graduate. This will increase your chances of recruiting them. The picture shows University of Manchester graduates celebrating their graduation outside the Samuel Alexander building with spontaneous photobombing by Gavin Brown\n\n\n\n\nWe are one of the biggest departments of Computer Science in the Russell Group of Universities and home to large community of active students. As of 2026 we have over 1000 undergraduate students studying one of two main Bachelors degrees:\n\nBSc (Hons) Computer Science\nBSc (Hons) Computer Science with Mathematics\n\nBoth degree programmes are available with Industrial Experience (IE), a year in industry. Alongside our undergraduate community we currently have:\n\nOver 240 postgraduate taught students, doing Masters degrees\nOver 240 PhD students doing research supervised by academics in the Department\n\nAs of 2026, the entry tariff for our undergraduate students is A* A* A  including an A*  in Mathematics, and a minimum of one science subject from Computer Science, Further Mathematics, Biology, Chemistry and Physics or equivalent qualifications from outside the UK. We typically have around ~300 undergraduate students graduating annually, alongside around ~240 Masters and ~70 PhD students graduating every year.",
     "crumbs": [
       "Recruitment"
     ]
@@ -104,37 +114,7 @@
     "href": "recruitment.html#students",
     "title": "Recruitment",
     "section": "",
-    "text": "We are one of the biggest departments of Computer Science at a Russell Group University with a lots of students. As of 2026 we have over 1000 undergraduate students studying one of two main Bachelors degrees:\n\nBSc (Hons) Computer Science\nBSc (Hons) Computer Science with Mathematics\n\nBoth degree programes are available with Industrial Experience (IE), a year in industry. Alongside our undergraduate community we currently have:\n\nOver 240 postgraduate taught students, doing Masters degrees\nOver 240 PhD students doing research supervised by academics in the Department",
-    "crumbs": [
-      "Recruitment"
-    ]
-  },
-  {
-    "objectID": "recruitment.html#ie",
-    "href": "recruitment.html#ie",
-    "title": "Recruitment",
-    "section": "",
-    "text": "Around a third of our undergraduate students choose to do a year in industry. For the academic year starting in 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their degree.\n\n\n\n\n\nNumber of students starting an Industrial Experience (IE) placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: CS: Department of Computer Science cs.manchester.ac.uk, MACE: Department of Mechanical, Aerospace and Civil Engineering (MACE) mace.manchester.ac.uk, EEE: Department of Electrical and Electronic Engineering eee.manchester.ac.uk, ChemEng: Department of Chemical Engineering ce.manchester.ac.uk, Chemistry: Department of Chemistry chemistry.manchester.ac.uk, Maths: Department of Mathematics maths.manchester.ac.uk, Physics: Department of Physics & Astronomy physics.manchester.ac.uk, Materials: Department of Materials materials.manchester.ac.uk, EES: Department of Earth and Environmental Sciences ees.manchester.ac.uk. Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.\n\n\n\n\n\nWe are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. Over the last decade we have been successful in more than doubling the number of our students going on year long placements in industry to around 100 per year, see figure @ref(fig:ie-fig). This is a win-win-win situation for:\n\nStudents: benefit from a broader education, and develop softer social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment.\nEmployers: placements are a cost-effective way for employers to recruit (and retain) graduate talent\nUniversities: produce better graduates with broader and deeper skills, who earn more and get better jobs. [@graduateoutcomes]\n\n\n\n\n\n\nNumber of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. I have been leading the program since 2012 and managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.\n\n\n\n\nPreviously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.",
-    "crumbs": [
-      "Recruitment"
-    ]
-  },
-  {
-    "objectID": "recruitment.html#interns",
-    "href": "recruitment.html#interns",
-    "title": "Recruitment",
-    "section": "",
-    "text": "Many of our students do sumer internships betweens 1st and 2nd, or 2nd and 3rd year of study. Unlike year-long placements, these are not a formal part of their undergraduate degree program, but we encourage our students to take skilled work during summer.",
-    "crumbs": [
-      "Recruitment"
-    ]
-  },
-  {
-    "objectID": "recruitment.html#part-time-work",
-    "href": "recruitment.html#part-time-work",
-    "title": "Recruitment",
-    "section": "",
-    "text": "Some of our students do part-time work during term-time, for example through Imago, the student software company imago.cs.manchester.ac.uk as well as other employers.",
+    "text": "We are one of the biggest departments of Computer Science in the Russell Group of Universities and home to large community of active students. As of 2026 we have over 1000 undergraduate students studying one of two main Bachelors degrees:\n\nBSc (Hons) Computer Science\nBSc (Hons) Computer Science with Mathematics\n\nBoth degree programmes are available with Industrial Experience (IE), a year in industry. Alongside our undergraduate community we currently have:\n\nOver 240 postgraduate taught students, doing Masters degrees\nOver 240 PhD students doing research supervised by academics in the Department\n\nAs of 2026, the entry tariff for our undergraduate students is A* A* A  including an A*  in Mathematics, and a minimum of one science subject from Computer Science, Further Mathematics, Biology, Chemistry and Physics or equivalent qualifications from outside the UK. We typically have around ~300 undergraduate students graduating annually, alongside around ~240 Masters and ~70 PhD students graduating every year.",
     "crumbs": [
       "Recruitment"
     ]
@@ -143,30 +123,130 @@
     "objectID": "recruitment.html#waggle",
     "href": "recruitment.html#waggle",
     "title": "Recruitment",
-    "section": "",
-    "text": "During term time, we highlight events and vacancies for Computer Science students in a weekly jobs newsletter called the Wednesday Waggle.\nThis newsletter goes out to 1000+ Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at careerconnect.manchester.ac.uk.\nAlternatively, point us to where they are advertised online, see advertising vacancies to students. It can help students find your needle in the jobs haystack.",
+    "section": "The Wednesday Waggle for Computer Scientists",
+    "text": "The Wednesday Waggle for Computer Scientists\nWith a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information on teaching, student events and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computer Science, called the Wednesday Waggle see waggle.cs.manchester.ac.uk\n\n\n\nThe Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. Waggle dance artwork by Visual Thinkery is licensed under CC-BY-ND. 🐝\n\n\nThis email newsletter goes out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the all of sources that students can use to find career opportunities, but summarises key vacancies and events in a handy weekly digest for busy Computer Scientists. If you would like us to highlight something in the Wednesday Waggle for Computer Scientists, contact the editor of the newsletter, Duncan Hull.",
     "crumbs": [
       "Recruitment"
     ]
   },
   {
-    "objectID": "recruitment.html#student-societies",
-    "href": "recruitment.html#student-societies",
+    "objectID": "recruitment.html#beyondcs",
+    "href": "recruitment.html#beyondcs",
     "title": "Recruitment",
-    "section": "",
-    "text": "The University of Manchester Students Union (UMSU) is the largest in the UK with over 500 student societies. Many of these societies have a computational, technical and interdisciplinary interests including (in no particular order):\n\nStartups accelerateme.co\nUniversity Computer Science Manchester unicsmcr.com\nManchester University Data Science & Artificial Intilligence mudsai.com\nIBM Z society IBMZ.uom\nMaths Society MathSoc\nManchester Intelligence Society (Cybersecurity) MIS\nRobosoc uom-robosoc.com\nHyperloop Manchester hyperloopmanchester.co.uk\nMakerspace Manchester makerspacemanchester.org\nManchester Stinger Motorports formulastudentuom.com\nGoogle Developer Group (GDG) Manchester GDGManchester\n\nA good way to collaborate with and recruit students is to sponsor and support their events by contacting relevant societies directly. This includes hackathons, talks, panels, workshops, insights and more.\nIf you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch. We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. As of 2026, the entry tariff of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in Russell Group universities.",
+    "section": "Recruiting from other degree programmes",
+    "text": "Recruiting from other degree programmes\nIf you’re recruiting beyond Computer Science, we recommend you contact:\n\nThe central careers service which serves the other ~39,000 students at the University at www.careers.manchester.ac.uk\nAcademic employability leads in the relevant Department e.g. Physics, Maths, Chemistry, Mechanical, Aerospace & Civil Engineering (MACE), Materials Science and Electrical & Electronic Engineering (EEE) etc\n\nEmployers can advertise vacancies and events across the whole University for free via careerconnect.manchester.ac.uk, for details see employers.manchester.ac.uk\nEach department has an employability lead with responsibility for liaising with industrial partners relevant to their students degree programs. As an academic, the employability will have direct access to those students through their teaching and research. Contact the relevant Department for details.",
     "crumbs": [
       "Recruitment"
     ]
   },
   {
-    "objectID": "recruitment.html#beyond-computer-science",
-    "href": "recruitment.html#beyond-computer-science",
+    "objectID": "recruitment.html#withie",
+    "href": "recruitment.html#withie",
     "title": "Recruitment",
-    "section": "",
-    "text": "If you are looking to recruit or collaborate with science and engineering students from other disciplines like Physics, Maths, Chemistry, Mechnical, Aerospace & Civil Engineering (MACE), Materials Science and Electrical & Electronic Engineering (EEE) you should talk to:\n\nacademic staff in those departments and/or\n\nthe central careers service of the University via employers.manchester.ac.uk\nbusiness engagement and knowledge Echange team manchester.ac.uk/collaborate",
+    "section": "Industrial Experience Year",
+    "text": "Industrial Experience Year\nAround a third of our undergraduate students are successful in securing an industrial experience (IE) year in industry before graduation, see industrial experience",
     "crumbs": [
       "Recruitment"
+    ]
+  },
+  {
+    "objectID": "recruitment.html#summer",
+    "href": "recruitment.html#summer",
+    "title": "Recruitment",
+    "section": "Summer internships for Computer Scientists",
+    "text": "Summer internships for Computer Scientists\nAs well as year long placements, a significant proportion of our students are employed on full-time contracts over a summer for anything between 4-12 weeks, starting early June and finishing early September. As summer internships are not part of a specific degree program, sthey do not need to be approved by the University.\nMany of our students do summer internships between their first and second, or second and final year of study. We encourage all our students to take skilled work during summer if they can and highlight key internships for students in the Wednesday Waggle and elsewhere.",
+    "crumbs": [
+      "Recruitment"
+    ]
+  },
+  {
+    "objectID": "recruitment.html#parttime",
+    "href": "recruitment.html#parttime",
+    "title": "Recruitment",
+    "section": "Part-time work for Computer Scientists",
+    "text": "Part-time work for Computer Scientists\nSome students choose to work part-time during term-time for an hourly rate of pay, provided they can balance their study and employment commitments. Casual or zero-hours contracts are one way to facilitate this, provided that employers realise that during term-time, a students top priority should be study, not employment.\nAn example of part-time employment on casual contracts is Imago, our student software company imago.cs.manchester.ac.uk. Other employers have employed our students part-time on similar contracts as well.",
+    "crumbs": [
+      "Recruitment"
+    ]
+  },
+  {
+    "objectID": "recruitment.html#studentsoc",
+    "href": "recruitment.html#studentsoc",
+    "title": "Recruitment",
+    "section": "Engaging directly with students through student societies",
+    "text": "Engaging directly with students through student societies\nThe University of Manchester Students Union (UMSU) is the largest in the UK with over 500 student societies. Many of these societies have a computational, technical and interdisciplinary interests including (in no particular order):\n\nStartups accelerateme.co\nUniversity Computer Science Manchester unicsmcr.com\nManchester University Data Science & Artificial Intilligence mudsai.com\nIBM Z society IBMZ.uom\nMaths Society MathSoc\nManchester Intelligence Society (Cybersecurity) MIS\nRobosoc uom-robosoc.com\nHyperloop Manchester hyperloopmanchester.co.uk\nMakerspace Manchester makerspacemanchester.org\nManchester Stinger Motorports formulastudentuom.com\nGoogle Developer Group (GDG) Manchester GDGManchester\n\n\n\n\nWith over 500 student societies, the University of Manchester Students’ Union (UMSU) at manchesterstudentsunion.com is one of the largest in the UK\n\n\nSo, a good way to engage with students is to sponsor and support student events by contacting relevant societies directly. This includes sponsoring hackathons and offering speakers for talks, panels, workshops, insights and other events.",
+    "crumbs": [
+      "Recruitment"
+    ]
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "Around a third of our undergraduate students are successful in securing an industrial experience (IE) year in industry. This takes place in their penultimate year of study, before they graduate. This is sometimes known as a “sandwich” year. (Mallon 2026, 2025) The advantages and requirements of placements for employers are described below\n\n\n\nA panoramic picture of the Kilburn Building, home to the Department of Computer Science on the Oxford Road at the University of Manchester\n\n\n\n\n\n\n\n\nEMPLOYERS: This is a guide to Industrial Experience (IE) for employers of undergraduate Computer Science students at the University of Manchester.\nSTUDENTS: If you are an undergraduate student of Computer Science, you must read and understand the requirements in the student guide, which can be found in the placement handbook on canvas at bit.ly/placement-handbook-2025\nACADEMICS and personal tutors, your pastoral responsibilities to your tutees while they are on placement are outlined by the placement year tutor\n\n\n\n\n\nYear long placements are a win-win-win situation for:\n\nEmployers: who benefit from a cost-effective way to recruit (and retain) student and graduate talent\nStudents: who benefit from a broader education, and develop softer, social, teamwork and non-cognitive skills that can be challenging to learn in a formal academic environment\nThe University: produces better graduates with broader and deeper skills, who earn more and get better jobs. (HESA 2025; Greaves 2025)\n\nFor the academic year starting in September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see contacts. The employer requirements before, during and after placements are as follows:\n\n\n\nThe University of Manchester requires that all employers of undergraduate students on year-long IE placements:\n\nAdvertise their placements typically between September and August. Our second year students start searching for placements in September onwards, for starting placements in summer/autumn of the following year.\nProvide students with fixed-term term contract of employment. This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates\nAre covered by Employer’s Liability Insurance, or equivalent if they are outside the UK\n\n\n\n\nThe University of Manchester requires that all employers of undergraduate students on year-long IE placements:\n\nPay students a salary, ranging from minimum wage (lowest) to £70k+ (highest). Salaries range widely depending on sector and location, but higher salaries often attract stronger applicants.\nStart their placements between June and September, to allow students a year of work before they return for their final year at University\nProvide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University\nAllow their placement students to receive two visits from an academic while on placement, usually their personal tutor. The first meeting is in autumn to check the student has started OK. The second meeting in spring/summer is for the personal tutor to meet with both the student and their manager to discuss their progress. These meetings are typically remote, but may be in person if appropriate.\nTreat students with respect. Although students may be the most junior employees, they should treated as the office dogsbody, whose main responsbilities are making cups of tea and running errands for senior colleagues.\nTypically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their right to work, if they are not a resident of that country, for example technical studentships at CERN in Geneva.\n\n\n\n\nThe University requires that all employers of undergraduate students on year-long IE placements:\n\nAllow their placement students to write a short report at the end of their employment, which is formatively assessed by the placement year tutor. Placement reports can be subject to any non-disclosure or confidentiality agreements the employer has asked their employee (the student) to sign.\nAllow students to return for their final year of study starting in September, after their fixed term contract of employment expires.\n\nIt is common for employers to make return offers of graduate employment, if students have performed well during their placement year.\n\n\n\nWe have a and large and established Industrial Experience (IE) program in Computer Science, which has grown significantly since 2010.\n\n\n\n\n\nNumber of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. We have managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020. Graph plotted from raw data available here\n\n\n\n\nPreviously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.\n\n\n\nComputer Science with Industrial Experience (IE) is the largest elective program of work experience at the University of Manchester. While Medicine, Dentistry and Nursing have more students on placements (usually known as clinical practice), these placements are a compulsory part of their professional qualification, rather than an optional and elective one.\n\n\n\n\n\nNumber of students starting an Industrial Experience (IE) placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: CS: Department of Computer Science cs.manchester.ac.uk, MACE: Department of Mechanical, Aerospace and Civil Engineering (MACE) mace.manchester.ac.uk, EEE: Department of Electrical and Electronic Engineering eee.manchester.ac.uk, ChemEng: Department of Chemical Engineering ce.manchester.ac.uk, Chemistry: Department of Chemistry chemistry.manchester.ac.uk, Maths: Department of Mathematics maths.manchester.ac.uk, Physics: Department of Physics & Astronomy physics.manchester.ac.uk, Materials: Department of Materials materials.manchester.ac.uk, EES: Department of Earth and Environmental Sciences ees.manchester.ac.uk. Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements. Data from app.powerbi.com",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#advantages",
+    "href": "experience.html#advantages",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "Year long placements are a win-win-win situation for:\n\nEmployers: who benefit from a cost-effective way to recruit (and retain) student and graduate talent\nStudents: who benefit from a broader education, and develop softer, social, teamwork and non-cognitive skills that can be challenging to learn in a formal academic environment\nThe University: produces better graduates with broader and deeper skills, who earn more and get better jobs. (HESA 2025; Greaves 2025)\n\nFor the academic year starting in September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see contacts. The employer requirements before, during and after placements are as follows:",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#before",
+    "href": "experience.html#before",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "The University of Manchester requires that all employers of undergraduate students on year-long IE placements:\n\nAdvertise their placements typically between September and August. Our second year students start searching for placements in September onwards, for starting placements in summer/autumn of the following year.\nProvide students with fixed-term term contract of employment. This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates\nAre covered by Employer’s Liability Insurance, or equivalent if they are outside the UK",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#during",
+    "href": "experience.html#during",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "The University of Manchester requires that all employers of undergraduate students on year-long IE placements:\n\nPay students a salary, ranging from minimum wage (lowest) to £70k+ (highest). Salaries range widely depending on sector and location, but higher salaries often attract stronger applicants.\nStart their placements between June and September, to allow students a year of work before they return for their final year at University\nProvide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University\nAllow their placement students to receive two visits from an academic while on placement, usually their personal tutor. The first meeting is in autumn to check the student has started OK. The second meeting in spring/summer is for the personal tutor to meet with both the student and their manager to discuss their progress. These meetings are typically remote, but may be in person if appropriate.\nTreat students with respect. Although students may be the most junior employees, they should treated as the office dogsbody, whose main responsbilities are making cups of tea and running errands for senior colleagues.\nTypically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their right to work, if they are not a resident of that country, for example technical studentships at CERN in Geneva.",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#after",
+    "href": "experience.html#after",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "The University requires that all employers of undergraduate students on year-long IE placements:\n\nAllow their placement students to write a short report at the end of their employment, which is formatively assessed by the placement year tutor. Placement reports can be subject to any non-disclosure or confidentiality agreements the employer has asked their employee (the student) to sign.\nAllow students to return for their final year of study starting in September, after their fixed term contract of employment expires.\n\nIt is common for employers to make return offers of graduate employment, if students have performed well during their placement year.",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#cswithie",
+    "href": "experience.html#cswithie",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "We have a and large and established Industrial Experience (IE) program in Computer Science, which has grown significantly since 2010.\n\n\n\n\n\nNumber of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. We have managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020. Graph plotted from raw data available here\n\n\n\n\nPreviously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.",
+    "crumbs": [
+      "Industrial Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#otherie",
+    "href": "experience.html#otherie",
+    "title": "Industrial Experience",
+    "section": "",
+    "text": "Computer Science with Industrial Experience (IE) is the largest elective program of work experience at the University of Manchester. While Medicine, Dentistry and Nursing have more students on placements (usually known as clinical practice), these placements are a compulsory part of their professional qualification, rather than an optional and elective one.\n\n\n\n\n\nNumber of students starting an Industrial Experience (IE) placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: CS: Department of Computer Science cs.manchester.ac.uk, MACE: Department of Mechanical, Aerospace and Civil Engineering (MACE) mace.manchester.ac.uk, EEE: Department of Electrical and Electronic Engineering eee.manchester.ac.uk, ChemEng: Department of Chemical Engineering ce.manchester.ac.uk, Chemistry: Department of Chemistry chemistry.manchester.ac.uk, Maths: Department of Mathematics maths.manchester.ac.uk, Physics: Department of Physics & Astronomy physics.manchester.ac.uk, Materials: Department of Materials materials.manchester.ac.uk, EES: Department of Earth and Environmental Sciences ees.manchester.ac.uk. Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements. Data from app.powerbi.com",
+    "crumbs": [
+      "Industrial Experience"
     ]
   },
   {
@@ -174,7 +254,7 @@
     "href": "mentoring.html",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
     "crumbs": [
       "Mentoring"
     ]
@@ -184,7 +264,7 @@
     "href": "mentoring.html#software-engineering-mentoring",
     "title": "Mentoring",
     "section": "",
-    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
+    "text": "Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.\nThere are two timetabled mentoring sessions which taken place on Fridays:\n\nFriday 27th February 2026, 4pm (first meeting)\nFriday 20th March 2026, 4pm (followup meeting)\n\nBoth of these meetings take place on Microsoft Teams. If you’d like to join us, there’s a signup form at forms.cloud.microsoft/e/TZ9SX87Ncx\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
     "crumbs": [
       "Mentoring"
     ]
@@ -194,7 +274,7 @@
     "href": "mentoring.html#motivation",
     "title": "Mentoring",
     "section": "Whats in it for me?",
-    "text": "Whats in it for me?\nDiscussion with our mentors have revealed multiple motivations for mentoring including:\n\nGaining insight into how software engineering is currently taught at the University of Manchester\nDeveloping better leadership and mentoring skills, for the more junior engineers in an organisation\nInfluencing how software engineering is taught at University\nEngaging with and potentially recruiting students in Computer Science\nGiving back to the University, for example, alumni who have taken previous iteration of similar courses\nEnjoying - many of our mentors enjoy mentoring for its own sake",
+    "text": "Whats in it for me?\nThere are multiple motivations for mentoring including:\n\nGaining insight into how software engineering is currently taught at the University of Manchester\nDeveloping leadership and mentoring skills, for the more junior engineers in an organisation\nInfluencing how software engineering is taught at University\nEngaging with and potentially recruiting students in Computer Science\nGiving back to the University, for example, alumni who have taken previous iteration of similar courses\nEnjoying - many of our mentors enjoy mentoring for its own sake",
     "crumbs": [
       "Mentoring"
     ]
@@ -204,7 +284,27 @@
     "href": "mentoring.html#about",
     "title": "Mentoring",
     "section": "About the course",
-    "text": "About the course\nDuring the software engineering course, students fix bugs and add features to a large Java application. The application is a live events marketplace, called “Eventlite”. The toolchain includes using Java, Eclipse, Gitlab, SpringBoot and Jenkins.\nThe mentoring scheme has been running successfully since 2015 and we are very grateful to previous and ongoing support from our mentors. If you’ve been a mentor in the past, the scheme is the same as previous iterations but has moved from our second year course\n\nSoftware Engineering I: with stendhalgame.org (which took place in autumn) to\nSoftware Engineering II: with eventlite (which takes place in spring)",
+    "text": "About the course\nDuring the software engineering course, students fix bugs and add features to a large Java application. The application is a live events marketplace, called “Eventlite”. The toolchain includes using Java, Eclipse, Gitlab, SpringBoot and Jenkins.\nThe mentoring scheme has been running successfully since 2015 and we are very grateful to previous and ongoing support from our mentors. If you’ve been a mentor in the past, the scheme is the same as previous iterations but has moved from our second year course\n\nSoftware Engineering I: with stendhalgame.org (which took place in autumn) to\nSoftware Engineering II: with eventlite (which takes place in spring)\n\nAs of 2026, we have 300 students doing the course and these are split into around 40 groups of six students for their group project.",
+    "crumbs": [
+      "Mentoring"
+    ]
+  },
+  {
+    "objectID": "mentoring.html#icebreakers",
+    "href": "mentoring.html#icebreakers",
+    "title": "Mentoring",
+    "section": "Ice-breaker questions for your first meeting as a mentor",
+    "text": "Ice-breaker questions for your first meeting as a mentor\nWe suggest the mentoring session is run using a mixture of agile stand-up meetings combined with some gentle code review. We’ll give you access to the students’ code repository on gitlab. However, as a mentor, it is up to you how you run the meeting. If your students are not very forthcoming, we’ve some ice-breaker questions below to get the conversations going:\n\nChallenging and guiding your team as a mentor\nQuestions to challenge and guide your team:\n\nWhat are you working on at the moment?\nHow are you coordinating work within your team?\nWhat sorts of challenges are you facing at the moment?\nWhat team working issues have you faced so far?\nHow did you divide the work between the team members?\nHow do you think your team is performing? How do you know?\nAre you on target to meet your next deadline? If yes, how do you know that?\n\n\n\nQuestions the Students Might Ask Mentors\nQuestions about the mentor:\n\nCan you give a brief overview of your career up to this point?\nHow did you get into the job you are doing today?\nWhat do you enjoy about your current role?\nWas there anything that surprised you about working in industry compared to being a student?\n\n\n\nQuestions about team-work:\n\nHow do you resolve technical disagreements in development teams?\nHow do you deal with personality clashes within your team?\nHow do you encourage people to recommit to the team?\nOne of our team members isn’t contributing. Would this happen in industry?\nHow would you resolve these problems?",
+    "crumbs": [
+      "Mentoring"
+    ]
+  },
+  {
+    "objectID": "mentoring.html#questions-about-the-process-of-developing-software",
+    "href": "mentoring.html#questions-about-the-process-of-developing-software",
+    "title": "Mentoring",
+    "section": "Questions about the process of developing software:",
+    "text": "Questions about the process of developing software:\n\nHow is generative AI used in your organisation?\nWhat processes/methodologies do you use in your company?\nWhat software tools do you use and why?\nWhat process do you use to release software in your company?\nWhat code review practices do you use?\nWhat makes a good commit message?\nWhat does a good test look like?\nHow big is the software system you are working on now?\nWhat techniques do you use when working with code written by other people?\nHow can we avoid getting into a mess when using Git (or other version control systems)?\nWe’re having a lot of trouble fixing this bug, making this change or adding this feature? Do you struggle with this too? How would you go about dealing with this sort of problem?",
     "crumbs": [
       "Mentoring"
     ]
@@ -224,7 +324,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "A selection of relevant events in the Department of Computer Science that will interest employers.\n\n\n\nThe next round of our softwre engineering mentoring program starts on 27th February, for detail see software mentoring program\n\n\n\nThe Past, Present & Future of the Computer in Electronic Music. Upcoming event with creative.manchester.ac.uk, details and registration at bit.ly/electromanc\n\n\n\nJoin us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th\n\n\n\n\n\nThe Institute of Electrical and Electronics Engineers IEEE.org has recognised the University of Manchester’s invention of Manchester code in 1948 as a Milestone technical achievement and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026. There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.\nManchester code was invented for the storage of data in the magnetic drum store of the Manchester Mark I computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the Voyager 1 and Voyager 2 spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.\nFind out more and register at bit.ly/ieee-manc\n\n\n\nJoin us to celebrate Manchester Code on April 13th, find out more and register at bit.ly/ieee-manc\n\n\n\n\n\nOur annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science, see recruitment.",
+    "text": "A selection of relevant events in the Department of Computer Science that will interest employers.\n\n\n\nThe next round of our softwre engineering mentoring program starts on 27th February, for detail see software mentoring program\n\n\n\nThe Past, Present & Future of the Computer in Electronic Music. Upcoming event with creative.manchester.ac.uk, details and registration at bit.ly/electromanc\n\n\n\nJoin us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th\n\n\n\n\n\nThe Institute of Electrical and Electronics Engineers IEEE.org has recognised the University of Manchester’s invention of Manchester code in 1948 as a Milestone technical achievement and the Milestone will be awarded at a ceremony at The University of Manchester on the afternoon of 13th April 2026. There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.\nManchester code was invented for the storage of data in the magnetic drum store of the Manchester Mark I computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the Voyager 1 and Voyager 2 spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.\nFind out more and register at bit.ly/ieee-manc\n\n\n\nJoin us to celebrate Manchester Code on April 13th, find out more and register at bit.ly/ieee-manc\n\n\n\n\n\nOur annual Computing and AI careers fair takes place in October/November each year, date tbc see careers fairs\n\n\n\nThe Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester\n\n\n\n\n\nFor other events across the University see also:\n\nevents.manchester.ac.uk\nwww.cs.manchester.ac.uk/connect/events",
     "crumbs": [
       "Events"
     ]
@@ -260,11 +360,21 @@
     ]
   },
   {
-    "objectID": "events.html#october-computing-and-ai-careers-fair",
-    "href": "events.html#october-computing-and-ai-careers-fair",
+    "objectID": "events.html#cai",
+    "href": "events.html#cai",
     "title": "Events",
     "section": "",
-    "text": "Our annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science, see recruitment.",
+    "text": "Our annual Computing and AI careers fair takes place in October/November each year, date tbc see careers fairs\n\n\n\nThe Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#more",
+    "href": "events.html#more",
+    "title": "Events",
+    "section": "",
+    "text": "For other events across the University see also:\n\nevents.manchester.ac.uk\nwww.cs.manchester.ac.uk/connect/events",
     "crumbs": [
       "Events"
     ]
@@ -323,8 +433,8 @@
     "objectID": "research.html#ktps-and-iaas",
     "href": "research.html#ktps-and-iaas",
     "title": "Research",
-    "section": "KTP’s and IAAs",
-    "text": "KTP’s and IAAs\nAlongside projects co-supervised by academics, other kinds of collaobration are also possible including KTPs and IAAs.\n\nKnowledge Transfer Partnerships\nWe have a range of KTPs, speak to the research office for details\n\n\nImpact Acceleration Accounts\nWe have a range of Impact Acceleration Accounts IAAs, speak to the research office for details",
+    "section": "KTPs and IAAs",
+    "text": "KTPs and IAAs\nAlongside projects co-supervised by academics, other kinds of collaobration are also possible including Knowledge Transfer Partnerships (KTPs) and Impact Acceleration Accounts (IAAs).\n\nKnowledge Transfer Partnerships\nWe have a range of KTPs, speak to the research office for details\n\n\nImpact Acceleration Accounts\nWe have a range of Impact Acceleration Accounts IAAs, speak to the research office for details",
     "crumbs": [
       "Research"
     ]
@@ -360,11 +470,41 @@
     ]
   },
   {
+    "objectID": "fairs.html",
+    "href": "fairs.html",
+    "title": "Careers Fairs",
+    "section": "",
+    "text": "Our annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science. It takes place every autumn on campus, alongside other careers fairs across the University.\n\n\n\nThe Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester\n\n\n\n\nThe Computing and AI Careers fair takes place in the foyer of the Nancy Rothwell Building pictured below.\n\n\n\nThe foyer of the Nancy Rothwell building is spacious and light with high footfall from students in Computer Science and other departments in the School of Engineering\n\n\nThe exact date of this years fair is tbc, but will be October/Novemer, register your interest at forms.cloud.microsoft/e/5mhxWMJvwf\n\n\n\nFor other careers fairs organised centrally by the careers service, such as the STEM fair, Law Fair and more, see www.careers.manchester.ac.uk/events/fairs",
+    "crumbs": [
+      "Careers Fairs"
+    ]
+  },
+  {
+    "objectID": "fairs.html#rothwell",
+    "href": "fairs.html#rothwell",
+    "title": "Careers Fairs",
+    "section": "",
+    "text": "The Computing and AI Careers fair takes place in the foyer of the Nancy Rothwell Building pictured below.\n\n\n\nThe foyer of the Nancy Rothwell building is spacious and light with high footfall from students in Computer Science and other departments in the School of Engineering\n\n\nThe exact date of this years fair is tbc, but will be October/Novemer, register your interest at forms.cloud.microsoft/e/5mhxWMJvwf",
+    "crumbs": [
+      "Careers Fairs"
+    ]
+  },
+  {
+    "objectID": "fairs.html#careers",
+    "href": "fairs.html#careers",
+    "title": "Careers Fairs",
+    "section": "",
+    "text": "For other careers fairs organised centrally by the careers service, such as the STEM fair, Law Fair and more, see www.careers.manchester.ac.uk/events/fairs",
+    "crumbs": [
+      "Careers Fairs"
+    ]
+  },
+  {
     "objectID": "manchester.html",
     "href": "manchester.html",
     "title": "Manchester",
     "section": "",
-    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
+    "text": "There’s a thriving community of scientists, technologists, engineers and mathematicians in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
     "crumbs": [
       "Manchester"
     ]
@@ -374,7 +514,7 @@
     "href": "manchester.html#even-greater-manchester",
     "title": "Manchester",
     "section": "",
-    "text": "There’s a thriving community of technologists, engineers and scientists in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
+    "text": "There’s a thriving community of scientists, technologists, engineers and mathematicians in Manchester and we’re proud to be an integral part of it.\n\n\n\n“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” –Faisal Islam (Islam 2026)",
     "crumbs": [
       "Manchester"
     ]
@@ -384,7 +524,7 @@
     "href": "manchester.html#from-manchester-to-the-world",
     "title": "Manchester",
     "section": "From Manchester to the World",
-    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which local employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbeyondtrust.com\nbiorelate.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\nttgames.com\nukbiobank.ac.uk\nveribee.co\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
+    "text": "From Manchester to the World\nOur Manchester 2035 (Ivison 2025) strategy outlines an ambitious plan for the future in which local employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:\n\nad-aero.com\naerospacehv.com\napadmi.com\narm.com in Manchester\nautocab.com\nautotrader.co.uk\nBBC at MediaCityUK\nbet365.com\nbeyondtrust.com\nbiorelate.com\nbny.com\nbooking.com\ncantarus.com\ncdl.co.uk\ncodethink.co.uk\ncouchbase.com\ncityfootballgroup.com\ndematic.com\nEpic Games Animation UK Ltd\nfuzzylabs.ai\ngchq.gov.uk\nhpe.com\nibm.com\ninnovative-technology.com\ninteractsoftware.com\njlr.com\nkoder.ly\nmatillion.com\nnccgroup.com\nnetcraft.com\nnovacoast.com\nnwcrc.co.uk\nnweh.co.uk\npeak.ai\nportswigger.net\nrecourse.ai\nriverflow.ai\nroku.com\nsainsburys.co.uk\nsage.com\nsourceful.com\nsteama.co\nteamnetsol.com\nthalesgroup.com\nthestartupfactory.tech\nthg.com\ntip-group.com\nttgames.com\nukbiobank.ac.uk\nveribee.co\nyourgene-health.com\n\nThis is not an exhaustive list, but gives a flavour of a slice of the tech community in Manchester.",
     "crumbs": [
       "Manchester"
     ]

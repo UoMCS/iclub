@@ -34,9 +34,21 @@ Find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)
 ![Join us to celebrate Manchester Code on April 13th, find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)](mancode.png)
 
 
-## October: Computing and AI Careers Fair
+## October: Computing and AI Careers Fair {#cai}
 
-Our annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science, see [recruitment](recruitment.html).
+Our annual Computing and AI careers fair takes place in October/November each year, date tbc see [careers fairs](fairs.html)
+
+![The Computing Careers Fair takes place every year in the foyer of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester](computing-careers-fair.png)
+
+
+## Other events {#more}
+
+For other events across the University see also:
+
+* [events.manchester.ac.uk](https://events.manchester.ac.uk)
+* [www.cs.manchester.ac.uk/connect/events](https://www.cs.manchester.ac.uk/connect/events)
+
+
 
 
 

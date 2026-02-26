@@ -1,0 +1,24 @@
+---
+title: "Careers Fairs"
+subtitle: Meet students face to face on campus as an exhibitor for your organisation
+bibliography: references.bib
+---
+
+# Computing and AI Careers Fair, every autumn on campus {#cai}
+
+Our annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science. It takes place every autumn on campus, alongside other careers fairs across the University.
+
+
+![The Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester](computing-careers-fair.png)
+
+## Venue: The Nancy Rothwell Building {#rothwell}
+
+The Computing and AI Careers fair takes place in the foyer of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building) pictured below.
+
+![The foyer of the Nancy Rothwell building is spacious and light with high footfall from students in Computer Science and other departments in the [School of Engineering](https://www.se.manchester.ac.uk/about/schools-and-departments/school-of-engineering/)](careers-fair-rothwell.png)
+
+The exact date of this years fair is tbc, but will be October/Novemer, register your interest at [forms.cloud.microsoft/e/5mhxWMJvwf](https://forms.cloud.microsoft/e/5mhxWMJvwf)
+
+## Other careers fairs {#careers}
+
+For other careers fairs organised centrally by the careers service, such as the STEM fair, Law Fair and more, see [www.careers.manchester.ac.uk/events/fairs](https://www.careers.manchester.ac.uk/events/fairs/)

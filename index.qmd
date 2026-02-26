@@ -7,7 +7,7 @@ bibliography: references.bib
 Hello and welcome to the Industry Club of the Department of Computer Science at the University of Manchester. Membership of this community is open to employers who want to engage, recruit and collaborate with students and staff from the Department of Computer Science by:
 
 * Collaborating on [research](research.html) projects
-* Participating in industrially focused teaching, such as [guest lectures](guests.html), [software engineering mentoring](mentoring.html), [careers fairs](recruitment.html) and [other events](events.html)
+* Participating in industrially focused teaching, such as [guest lectures](guests.html), [software engineering mentoring](mentoring.html), [careers fairs](fairs.html) and [other events](events.html)
 * [Recruiting our students](recruitment.html) before and after they graduate from:
     + undergraduate Bachelors degrees
     + postgraduate degrees, both Masters and PhDs

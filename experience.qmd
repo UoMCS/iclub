@@ -1,0 +1,94 @@
+---
+title: "Industrial Experience"
+subtitle: Employ an undergraduate student full-time, for a year, before they graduate
+bibliography: references.bib
+
+---
+
+# Industrial Experience (IE) placements: a full year in industry {#ie}
+
+Around a third of our undergraduate students are successful in securing an industrial experience (IE) year in industry. This takes place in their *penultimate* year of study, before they graduate. This is sometimes known as a “sandwich” year. [@placement;@sandwich] The advantages and requirements of placements for employers are described below
+
+![A panoramic picture of the [Kilburn Building](https://en.wikipedia.org/wiki/Kilburn_Building), home to the Department of Computer Science on the Oxford Road at the University of Manchester](kilburnarama.jpg)
+
+::: {.callout-warning}
+**EMPLOYERS**: This is a guide to Industrial Experience (IE) for employers of undergraduate Computer Science students at the University of Manchester. 
+
+**STUDENTS**: If you are an undergraduate student of Computer Science, you must read and understand the requirements in the student guide, which can be found in the placement handbook on canvas at [bit.ly/placement-handbook-2025](https://bit.ly/placement-handbook-2025)
+
+**ACADEMICS** and personal tutors, your pastoral responsibilities to your tutees while they are on placement are outlined by the [placement year tutor](contact.html)
+:::
+
+## Placement advantages {#advantages}
+
+Year long placements are a *win-win-win* situation for:
+
+1. **Employers**: who benefit from a cost-effective way to recruit (and retain) student and graduate talent 
+1. **Students**: who benefit from a broader education, and develop softer, social, teamwork and non-cognitive skills that can be challenging to learn in a formal academic environment
+1. **The University**: produces better graduates with broader and deeper skills, who earn more and get better jobs. [@BScCS4;@whatdograduatesdo]
+
+For the academic year starting in September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
+
+## Our requirements of employers before placements {#before}
+
+The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
+
+* Advertise their placements typically between September and August. Our second year students start searching for placements in September onwards, for starting placements in summer/autumn of the following year.
+* Provide students with fixed-term term [contract of employment](https://www.gov.uk/employment-contracts-and-conditions). This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates
+* Are covered by [Employer's Liability Insurance](https://www.gov.uk/employers-liability-insurance), or equivalent if they are outside the UK
+
+## Our requirements of employers during placements {#during}
+
+The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
+
+* Pay students a salary, ranging from [minimum wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest). Salaries range widely depending on sector and location, but higher salaries often attract stronger applicants.
+* Start their placements between June and September, to allow students a year of work before they return for their final year at University
+* Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
+* Allow their placement students to receive two visits from an academic while on placement, usually their personal tutor. The first meeting is in autumn to check the student has started OK. The second meeting in spring/summer is for the personal tutor to meet with both the student *and* their manager to discuss their progress. These meetings are typically remote, but may be in person if appropriate.
+* Treat students with respect. Although students may be the most junior employees, they should treated as the office dogsbody, whose main responsbilities are making cups of tea and running errands for senior colleagues.
+* Typically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their right to work, if they are not a resident of that country, for example [technical studentships at CERN in Geneva](https://careers.cern/programmes/technical-studentship/).
+
+## Our requirements of employers after placements {#after}
+
+The University **requires** that all employers of undergraduate students on year-long IE placements:
+
+* Allow their placement students to write a short report at the end of their employment, which is formatively assessed by the [placement year tutor](contact.html). Placement reports can be subject to any non-disclosure or confidentiality agreements the employer has asked their employee (the student) to sign.
+* Allow students to return for their final year of study starting in September, after their fixed term contract of employment expires.
+
+It is common for employers to make return offers of graduate employment, if students have performed well during their placement year. 
+
+## The placement program in Computer Science {#cswithie}
+
+We have a and large and established Industrial Experience (IE) program in Computer Science, which has grown significantly since 2010.
+
+
+```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. We have managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020. Graph plotted from [raw data available here](https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv)"}
+
+library(tidyverse)
+library(ggplot2)
+
+evenmoarplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv")
+
+
+ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity") + labs(y = "Number of students", x = "Start of Industrial Experience (IE) Year")
+```
+
+Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
+
+
+## Other placements at the University of Manchester {#otherie}
+
+Computer Science with Industrial Experience (IE) is the largest *elective* program of work experience at the University of Manchester. While [Medicine](https://www.bmh.manchester.ac.uk/study/medicine/), [Dentistry](https://www.bmh.manchester.ac.uk/study/dentistry/) and [Nursing](https://www.bmh.manchester.ac.uk/study/nursing/) have more students on placements (usually known as clinical practice), these placements are a *compulsory* part of their professional qualification, rather than an optional and elective one.
+
+```{r bigie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "Number of students starting an Industrial Experience (IE) placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: `CS`: Department of Computer Science [cs.manchester.ac.uk](https://www.cs.manchester.ac.uk/), `MACE`: Department of Mechanical, Aerospace and Civil Engineering (MACE) [mace.manchester.ac.uk](https://www.mace.manchester.ac.uk/), `EEE`: Department of Electrical and Electronic Engineering [eee.manchester.ac.uk](https://www.eee.manchester.ac.uk/), `ChemEng`: Department of Chemical Engineering [ce.manchester.ac.uk](https://www.ce.manchester.ac.uk/), `Chemistry`: Department of Chemistry [chemistry.manchester.ac.uk](https://www.chemistry.manchester.ac.uk/), `Maths`: Department of Mathematics [maths.manchester.ac.uk](https://www.maths.manchester.ac.uk), `Physics`: Department of Physics & Astronomy [physics.manchester.ac.uk](https://www.physics.manchester.ac.uk), `Materials`: Department of Materials [materials.manchester.ac.uk](https://www.materials.manchester.ac.uk/), `EES`: Department of Earth and Environmental Sciences [ees.manchester.ac.uk](https://www.ees.manchester.ac.uk/). Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements. Data from [app.powerbi.com](https://app.powerbi.com)"}
+
+library(tidyverse)
+library(ggplot2)
+library(forcats)
+
+ieuom <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/refs/heads/master/data/ieuom.csv")
+
+ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
+  geom_bar() +
+  labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
+```

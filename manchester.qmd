@@ -6,7 +6,7 @@ subtitle: So much to answer for...
 
 ## Even Greater Manchester
 
-There's a thriving community of technologists, engineers and  scientists in Manchester and we're proud to be an integral part of it. 
+There's a thriving community of scientists, technologists, engineers and mathematicians in Manchester and we're proud to be an integral part of it. 
 
 ![“There is a buzz around Manchester that is difficult to truly understand unless you spend time there. It seems an entirely different space to the general despondent economic vibe across much of the country.” --Faisal Islam [@buzz]](civic.jpg)
 
@@ -14,6 +14,8 @@ There's a thriving community of technologists, engineers and  scientists in Manc
 
 Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m2035] strategy outlines an ambitious plan for the future in which local employers are central. Organisations in Greater Manchester that students, alumni and staff in Computer Science work with, either as employees or collaborators include:
 
+* [ad-aero.com](https://ad-aero.com)
+* [aerospacehv.com](https://www.aerospacehv.com)
 * [apadmi.com](https://www.apadmi.com)
 * [arm.com in Manchester](https://careers.arm.com/uk-manchester-office)
 * [autocab.com](https://www.autocab.com)
@@ -50,6 +52,7 @@ Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [recourse.ai](https://www.recourseai.com)
 * [riverflow.ai](https://www.riverflow.ai)
 * [roku.com](https://www.roku.com)
+* [sainsburys.co.uk](https://www.sainsburys.co.uk)
 * [sage.com](https://www.sage.com)
 * [sourceful.com](https://www.sourceful.com)
 * [steama.co](https://steama.co)
@@ -57,6 +60,7 @@ Our [Manchester 2035](https://www.manchester.ac.uk/about/manchester-2035/) [@m20
 * [thalesgroup.com](https://www.thalesgroup.com)
 * [thestartupfactory.tech](https://thestartupfactory.tech)
 * [thg.com](https://www.thg.com)
+* [tip-group.com](https://www.tip-group.com)
 * [ttgames.com](https://www.ttgames.com)
 * [ukbiobank.ac.uk](https://www.ukbiobank.ac.uk)
 * [veribee.co](https://www.veribee.co/)

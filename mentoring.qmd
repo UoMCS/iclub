@@ -1,17 +1,17 @@
 ---
 title: "Mentoring"
-subtitle: Guiding and supporting the next generation of engineers
+subtitle: Guiding and supporting the next generation of software engineers
 bibliography: references.bib
 ---
 
 ## Software engineering mentoring
 
-Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what students learn at the University of Manchester.
+Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.
 
 ![Software engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase](mentoring.jpg)
 
 
-Software engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project they do the second year of their study.
+Software engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.
 
 
 There are two timetabled mentoring sessions which taken place on Fridays:
@@ -24,10 +24,10 @@ Both of these meetings take place on Microsoft Teams. If you'd like to join us, 
 Please only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see [contacts](contact.html)
 
 ## Whats in it for me? {#motivation}
-Discussion with our mentors have revealed multiple motivations for mentoring including:
+There are multiple motivations for mentoring including:
 
 * Gaining insight into how software engineering is currently taught at the University of Manchester
-* Developing better leadership and mentoring skills, for the more junior engineers in an organisation
+* Developing leadership and mentoring skills, for the more junior engineers in an organisation
 * Influencing how software engineering is taught at University
 * Engaging with and potentially recruiting students in Computer Science
 * Giving back to the University, for example, alumni who have taken previous iteration of similar courses
@@ -41,6 +41,55 @@ The mentoring scheme has been running successfully since 2015  and we are very g
 
 1. Software Engineering I: with [stendhalgame.org](https://stendhalgame.org) (which took place in autumn) _to_
 1. Software Engineering II: with eventlite (which takes place in spring)
+
+As of 2026, we have 300 students doing the course and these are split into around 40 groups of six students for their group project.
+
+## Ice-breaker questions for your first meeting as a mentor {#icebreakers}
+
+We suggest the mentoring session is run using a mixture of agile stand-up meetings combined with some gentle code review. We'll give you access to the students' code repository on gitlab. However, as a mentor, it is up to you how you run the meeting. If your students are not very forthcoming, we've some ice-breaker questions below to get the conversations going:
+
+### Challenging and guiding your team as a mentor
+Questions to challenge and guide your team:
+
+* What are you working on at the moment?
+* How are you coordinating work within your team?
+* What sorts of challenges are you facing at the moment?
+* What team working issues have you faced so far?
+* How did you divide the work between the team members?
+* How do you think your team is performing? How do you know?
+* Are you on target to meet your next deadline? If yes, how do you know that?
+
+### Questions the Students Might Ask Mentors
+Questions about the mentor:
+
+* Can you give a brief overview of your career up to this point?
+* How did you get into the job you are doing today?
+* What do you enjoy about your current role?
+* Was there anything that surprised you about working in industry compared to being a student?
+
+### Questions about team-work:
+
+* How do you resolve technical disagreements in development teams?
+* How do you deal with personality clashes within your team?
+* How do you encourage people to recommit to the team?
+* One of our team members isn’t contributing. Would this happen in industry? 
+* How would you resolve these problems?
+
+
+## Questions about the process of developing software:
+
+* How is generative AI used in your organisation?
+* What processes/methodologies do you use in your company?
+* What software tools do you use and why?
+* What process do you use to release software in your company?
+* What code review practices do you use?
+* What makes a good commit message?
+* What does a good test look like?
+* How big is the software system you are working on now?
+* What techniques do you use when working with code written by other people?
+* How can we avoid getting into a mess when using Git (or other version control systems)?
+* We’re having a lot of trouble fixing this bug, making this change or adding this feature? Do you struggle with this too? How would you go about dealing with this sort of problem?
+
 
 ## Acknowledgements {#acknowledgements}
 
