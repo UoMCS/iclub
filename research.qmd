@@ -25,18 +25,18 @@ At any given time, we have around 250 Masters students. Masters projects are six
 
 We have around 250 PhD students at any given time.  For industrially sponsored or co-supervised projects, contact our postgraduate research team leader, Renate Schmidt see [project contacts](contact.html#cosupervise)
 
-## KTPs and IAAs
+## Knowledge Exchange {#ke}
 
-Alongside projects co-supervised by academics, other kinds of collaobration are also possible including Knowledge Exchange Partnerships. [@kep]
+Alongside projects co-supervised by academics, other kinds of collaboration are also possible through knowledge exchange funded by [ukri.org](https://www.ukri.org/) and [Innovate UK](https://www.ukri.org/councils/innovate-uk/).
 
 ### Knowledge Transfer Partnerships {#ktp}
 
-We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to the research office for details.
+We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to [Knowledge Exchange](https://www.manchester.ac.uk/collaborate/business-engagement-knowledge-exchange/partner-with-us/knowledge-exchange-partnerships-funding/). [@kep]
 
 
 ### Impact Acceleration Accounts {#iaa}
 
-We have a range of Impact Acceleration Accounts [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to the research office for details.
+We have a range of Impact Acceleration Accounts [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to [Knowledge Exchange](https://www.manchester.ac.uk/collaborate/business-engagement-knowledge-exchange/partner-with-us/knowledge-exchange-partnerships-funding/). [@kep]
 
 
 ## Intellectual Property {#ip}

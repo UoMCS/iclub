@@ -22,24 +22,24 @@ The advantages and requirements of IE placements for employers are described bel
 :::
 
 ::: {.callout-warning}
-**ACADEMICS** and personal tutors, your pastoral responsibilities to your tutees while they are on placement have been emailed to you by David Petrescu, the [placement year tutor](contact.html)
+**ACADEMICS** and personal tutors, your pastoral responsibilities to your tutees while they are on placement have been emailed to you by David Petrescu, the Computer Science [placement year tutor](contact.html)
 :::
 
-## Advantages of IE placements employers {#advantages}
+## Advantages of IE placements for employers {#advantages}
 
 Year long placements are advantageous for employers, the students they employ and the University because:
 
-1. **Employers**: benefit from a cost-effective way to recruit (and retain) student and graduate talent, placements can serve as a year-long interview 
-1. **Students**: benefit from a broader education while developing the softer, social, business and non-cognitive skills that can be challenging to learn in a traditional formal academic environment
-1. **The University**: benefits from producing better graduates with broader and deeper skills, who get better graduate jobs and earn higher salaries. [@BScCS4;@whatdograduatesdo]
+* **Employers**: benefit from a cost-effective way to recruit (and retain) student and graduate talent, placements can serve as a year-long interview 
+* **Students**: benefit from a broader education while developing the softer, social, business and non-cognitive skills that can be challenging to learn in a traditional formal academic environment
+* **The University**: benefits from producing better graduates with broader and deeper skills, who get better graduate jobs and earn higher salaries. [@BScCS4;@whatdograduatesdo]
 
-For the academic year starting in September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
+In the academic year starting September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
 
 ## Our requirements of employers before IE placements {#before}
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Advertise their placements publicly between September and August. Our second year students start searching for placements in September onwards, for starting placements in summer/autumn of the following year. Depending on who you are targeting, there are lots of options for [advertising placements](https://www.cdyf.me/finding#looking).
+* Advertise their placements publicly between September and August. Our second year students start searching for placements in September onwards, for starting placements in summer/autumn of the following year. Depending on who you are targeting, there are lots of options for [advertising placements](https://www.cdyf.me/finding#looking). Choose whichever channels work best for you and your budget.
 * Provide students with fixed-term term [contract of employment](https://www.gov.uk/employment-contracts-and-conditions). This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates
 * Are covered by [Employer's Liability Insurance](https://www.gov.uk/employers-liability-insurance), or equivalent if they are outside the UK
 
