@@ -33,7 +33,7 @@ Year long placements are advantageous for employers, the students they employ an
 * **Students**: benefit from a broader education while developing the softer, social, business and non-cognitive skills that can be challenging to learn in a traditional formal academic environment
 * **The University**: benefits from producing better graduates with broader and deeper skills, who get better graduate jobs and earn higher salaries. [@BScCS4;@whatdograduatesdo]
 
-In the academic year starting September 2025, we have 77 students starting a year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
+In the academic year starting September 2025, during a challenging job market, [@jbm] we have **77 students** started their year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
 
 ## Our requirements of employers before IE placements {#before}
 
@@ -48,12 +48,13 @@ The University of Manchester **requires** that all employers of undergraduate st
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
 * Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants.
-* Start the students period of employment on placement between June and September, to allow students a year of work before they return for their final year at University
+* Start the students period of employment on placement between June and September, to allow students a year of employment before they return for their final year at University
 * Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
+    + Some employers provide rotations e.g. two sixth month sub-placements in different parts of the organisation
 * Allow their placement students to receive two visits from an academic while on placement, usually their personal tutor. These meetings are remote, but may be in person if appropriate:
     1. The first meeting takes place in autumn to check the student has started OK. 
     1. The second meeting in spring/summer allows the personal tutor to meet with both the student *and* their manager(s) to discuss their progress.
-* Treat students with respect. Although students may be the most junior employees in an organisation, they should *not* treated as the office dogsbody, whose main responsbilities are making cups of tea and running errands for their more senior colleagues.
+* Treat students with respect. Although students may be the most junior employees in an organisation, they should *not* treated as the office dogsbody, whose main responsibilities are making cups of tea and running errands for their more senior colleagues.
 * Typically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their students right to work, if they are not a resident of that country, for example [technical studentships at CERN in Geneva](https://careers.cern/programmes/technical-studentship/).
 
 ## Our requirements of employers after IE placements {#after}
@@ -67,10 +68,10 @@ It is common for employers to make return offers of graduate employment, if stud
 
 ## The IE placement program in Computer Science {#cswithie}
 
-We have a and large and established Industrial Experience (IE) program in Computer Science, which has grown significantly since 2010.
+We have a large and established Industrial Experience (IE) program in Computer Science, which has grown significantly since 2010.
 
 
-```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. We have managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020. Graph plotted from [raw data available here](https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv)"}
+```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 1000 students have completed the program. We have managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020. Graph plotted from [raw data available here](https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv)"}
 
 library(tidyverse)
 library(ggplot2)
@@ -81,8 +82,7 @@ evenmoarplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhun
 ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity") + labs(y = "Number of students", x = "Start of Industrial Experience (IE) Year")
 ```
 
-Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
-
+Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon Web Services, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan & Chase, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa, Vodafone and many others.
 
 # Other placements at the University of Manchester {#otherie}
 
@@ -101,5 +101,5 @@ ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
   labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
 ```
 
-[^1]: You can pay more than £70k if you like, but that's the highest IE placement salary we've seen in Computer Science as of 2026
+[^1]: As of 2026, £70k pa is the highest IE placement salary we've seen in Computer Science
 

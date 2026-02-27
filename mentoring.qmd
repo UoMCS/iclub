@@ -49,6 +49,7 @@ As of 2026, we have 300 students doing the course and these are split into aroun
 We suggest the mentoring session is run using a mixture of agile stand-up meetings combined with some gentle code review. We'll give you access to the students' code repository on gitlab. However, as a mentor, it is up to you how you run the meeting. If your students are not very forthcoming, we've some ice-breaker questions below to get the conversations going:
 
 ### Challenging and guiding your team as a mentor
+
 Questions to challenge and guide your team:
 
 * What are you working on at the moment?
@@ -60,6 +61,7 @@ Questions to challenge and guide your team:
 * Are you on target to meet your next deadline? If yes, how do you know that?
 
 ### Questions the Students Might Ask Mentors
+
 Questions about the mentor:
 
 * Can you give a brief overview of your career up to this point?
@@ -67,7 +69,7 @@ Questions about the mentor:
 * What do you enjoy about your current role?
 * Was there anything that surprised you about working in industry compared to being a student?
 
-### Questions about team-work:
+### Questions about team-work
 
 * How do you resolve technical disagreements in development teams?
 * How do you deal with personality clashes within your team?
@@ -76,7 +78,7 @@ Questions about the mentor:
 * How would you resolve these problems?
 
 
-## Questions about the process of developing software:
+## Questions about the process of developing software
 
 * How is generative AI used in your organisation?
 * What processes/methodologies do you use in your company?
@@ -93,7 +95,7 @@ Questions about the mentor:
 
 ## Acknowledgements {#acknowledgements}
 
-We are grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
+We are very grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
 
 Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
 
