@@ -5,7 +5,7 @@ bibliography: references.bib
 ---
 
 # Recruiting and employing our students and graduates {#recruitment}
-Many of our students in Computer Science are recruited _before_ they graduate by working for an employer on a fixed-term contract, either part-time, full-time and as summer interns or for a year long placement with [industrial experience](experience.html). This page describes some of the options for recruiting and employing students from the Department of Computer Science, as well as those studying other degree programs at the University of Manchester.
+Many of our students in Computer Science are recruited _before_ they graduate by working for an employer on a fixed-term contract, either part-time, full-time and as summer interns or for a year long placement with [Industrial Experience (IE)](experience.html). This page describes some of the options for recruiting and employing students from the Department of Computer Science, as well as those studying other degree programs at the University of Manchester.
 
 ![Are these graduates the future of your organisation? If you want them to be, you need to engage early and often with students *before* they graduate. This will increase your chances of recruiting them. The picture shows University of Manchester graduates celebrating their graduation outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building with spontaneous photobombing by [Gavin Brown](https://research.manchester.ac.uk/en/persons/gavin.brown)](employing-your-future.png)
 
@@ -22,24 +22,24 @@ Both degree programmes are available with [Industrial Experience](experience.htm
 * Over 240 postgraduate taught students, doing Masters degrees
 * Over 240 PhD students doing research supervised by academics in the Department
 
-As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) for our undergraduate students is **A* A* A ** including an **A* ** in Mathematics, and a minimum of *one* science subject from Computer Science, Further Mathematics, Biology, Chemistry and Physics or [equivalent qualifications](https://www.manchester.ac.uk/study/undergraduate/courses/2026/00560/bsc-computer-science/) from outside the UK. We typically have around ~300 undergraduate students graduating annually, alongside around ~240 Masters and ~70 PhD students graduating every year.
+As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) for our undergraduate students is **A* A* A ** including an **A* ** in Mathematics, and a *minimum* of one science subject from Computer Science, Further Mathematics, Biology, Chemistry or Physics or [equivalent qualifications](https://www.manchester.ac.uk/study/undergraduate/courses/2026/00560/bsc-computer-science/) from outside the UK. We typically have around ~300 undergraduate students graduating annually, alongside around ~240 Masters and ~70 PhD students graduating every year.
 
 # Recruiting students from the University of Manchester {#recruiting}
 
-There's at least three routes for recruiting students at the University of Manchester:
+There are at least three routes for recruiting students at the University of Manchester:
 
 * From specific degree programmes like Computer Science via the Wednesday Waggle
-* From any degree programmes e.g. STEM or other degrees via various routes
+* From any degree programmes e.g. STEM or other degrees via various mechanisms
 * From [events](events.html) and [careers fairs](fairs.html) organised by the Department of Computer Science or Careers service
 
 These are described in more detail below:
 
 ## The Wednesday Waggle for Computing {#waggle}
-With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computer Science, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
+With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computing, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
 
 ![The Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png){#fig-waggle} 
 
-This email newsletter goes out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the [all of sources that students can use to find career opportunities](https://www.cdyf.me/finding), but summarises key vacancies and events in a handy weekly digest for busy Computer Scientists. If you would like us to highlight something in the Wednesday Waggle for Computer Scientists, contact the editor of the newsletter, [Duncan Hull](contact.html).
+The Wednesday Waggle newsletter gets emailed out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the [all of sources that students can use to find career opportunities](https://www.cdyf.me/finding), but summarises key vacancies and events in a handy weekly digest for busy time-poor Computer Scientists. If you would like us to highlight something in the Wednesday Waggle for Computer Scientists, contact the editor of the newsletter, [Duncan Hull](contact.html).
 
 ## Recruiting from other degree programmes {#beyondcs}
 If you're recruiting beyond Computer Science, we recommend you contact: 
