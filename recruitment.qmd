@@ -34,10 +34,10 @@ There's at least three routes for recruiting students at the University of Manch
 
 These are described in more detail below:
 
-## The Wednesday Waggle for Computer Scientists {#waggle}
-With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information on teaching, [student events](#studentsoc) and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computer Science, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) 
+## The Wednesday Waggle for Computing {#waggle}
+With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computer Science, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
 
-![The Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png) 
+![The Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png){#fig-waggle} 
 
 This email newsletter goes out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the [all of sources that students can use to find career opportunities](https://www.cdyf.me/finding), but summarises key vacancies and events in a handy weekly digest for busy Computer Scientists. If you would like us to highlight something in the Wednesday Waggle for Computer Scientists, contact the editor of the newsletter, [Duncan Hull](contact.html).
 
@@ -87,17 +87,18 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 | Maths Society | [MathSoc](https://manchesterstudentsunion.com/activities/view/mathsoc) |
 | Manchester Intelligence Society (Cybersecurity) | [MIS](https://manchesterstudentsunion.com/activities/view/manchester-intelligence) |
 | Robosoc | [uom-robosoc.com](https://uom-robosoc.com) |
+| Manchester Trading and Investment Society | [MUTIS](https://manchesterstudentsunion.com/activities/view/mutis) |
 | Hyperloop Manchester | [hyperloopmanchester.co.uk](https://www.hyperloopmanchester.co.uk) |
 | Makerspace Manchester | [makerspacemanchester.org](https://www.makerspacemanchester.org) |
 | Manchester Stinger Motorports | [formulastudentuom.com](https://formulastudentuom.com) |
 | Google Developers Group (GDG) Manchester | [GDGManchester](https://linktr.ee/gdgmanchester) |
 
-
 : A small selection of societies at the Unviversity of Manchester with scientific, technical, engineering and mathematical interests {#tbl-umsu}
+
 
 One way to engage with students is to sponsor and support their events by contacting relevant societies directly. This includes sponsoring hackathons and offering speakers for talks, panels, workshops, insights and other events. 
 
-![Representing over 40,000 students and with over 500 student societies, the University of Manchester Students' Union (UMSU) is the largest in the UK, see [manchesterstudentsunion.com](https://manchesterstudentsunion.com)](umsu-panorama.png) 
+![Representing over 40,000 students and with over 500 student societies, the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU) is the largest in the UK, see [manchesterstudentsunion.com](https://manchesterstudentsunion.com)](umsu-panorama.png) 
 
 
 # Employing Computer Science graduates {#graduates}
@@ -105,12 +106,12 @@ One way to engage with students is to sponsor and support their events by contac
 Finally, there is graduate employment, either through graduate schemes or a graduate jobs. [@graduatescheme] The Higher Education Statistics Agency (HESA) collects data from UK graduates 15 months after they have graduated via the annual graduate outcomes survey. [@graduateoutcomes] Key data from this national survey is summarised in @tbl-gradoutcomes. According to this data, the average Computer Science graduate salary 15 months after graduation from the University of Manchester is **£40k**, although there are significant variations by sector and location.
 
 
-| Degree and length  | Students in work or study   |  Students in highly skilled employment  | Salary after 15 months  |  
+| Degree  | Students in work or study   |  Students in highly skilled employment  | Salary after 15 months  |  
 |:---|:---|:---|:---|
-|  Computer Science, 3 year [@BScCS3] | 85% ($n$=40)  | 75% ($n$=30)  | £40k ($n$=45)  |   
-|  Computer Science with IE, 4 year [@BScCS4] |  91% ($n$=75)  | 85% ($n$=60)  | £40k ($n$=45)  |   
-| Computer Science, Anywhere, UK | `?` | `?` | £32k ($n$=6420) |
-| Any degree, Anywhere, UK | 88%  ($n$=358,045) [@graduateoutcomes] | `?` | £28.5k ($n$=358,045)  |
+|  BSc Computer Science, 3 year, University of Manchester [@BScCS3] | 85% ($n$=40)  | 75% ($n$=30)  | £40k ($n$=45)  |   
+|  BSc Computer Science [with IE](experience.html), 4 year, University of Manchester [@BScCS4] |  91% ($n$=75)  | 85% ($n$=60)  | £40k ($n$=45)  |   
+| BSc Computer Science, University of Anywhere, UK | `?` | `?` | £32k ($n$=6420) |
+| Bachelors degree, University of Anywhere, UK | 88%  ($n$=358,045) [@graduateoutcomes] | `?` | £28.5k ($n$=358,045)  |
 
 :A summary of graduate outcomes data in Computer Science at the University of Manchester. Graduate employability data via `discoveruni.gov.uk` where $n$ is the number of students who answered question via the graduate outcomes survey. Click on link in degree column to see original data.  Data is based on students graduating in 2022, who were surveyed during 2023/4 with HESA publishing this data in July 2025. 🎓 {#tbl-gradoutcomes}
 

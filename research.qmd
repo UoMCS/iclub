@@ -6,7 +6,7 @@ bibliography: references.bib
 
 There are several different kinds of industrial and applied research projects that employers can engage with through our Bachelors, Masters, PhD students and staff.
 
-![Students working on the SpiNNaker project, a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains [@spin] ](research.jpg)
+![Students working on the [SpiNNaker project](https://en.wikipedia.org/wiki/SpiNNaker), a million-core supercomputer using Spiking Neural Networks used to simulate mammalian brains [@spin] ](research.jpg)
 
 
 ## Co-supervised projects {#cosupervise}
@@ -27,16 +27,16 @@ We have around 250 PhD students at any given time.  For industrially sponsored o
 
 ## KTPs and IAAs
 
-Alongside projects co-supervised by academics, other kinds of collaobration are also possible including Knowledge Transfer Partnerships (KTPs) and Impact Acceleration Accounts (IAAs).
+Alongside projects co-supervised by academics, other kinds of collaobration are also possible including Knowledge Exchange Partnerships. [@kep]
 
 ### Knowledge Transfer Partnerships {#ktp}
 
-We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to the research office for details
+We have a range of [KTPs](https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply), speak to the research office for details.
 
 
 ### Impact Acceleration Accounts {#iaa}
 
-We have a range of Impact Acceleration Accounts [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to the research office for details
+We have a range of Impact Acceleration Accounts [IAAs](https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/), speak to the research office for details.
 
 
 ## Intellectual Property {#ip}
