@@ -13,7 +13,7 @@ Around a third of our undergraduate students are successful in securing employme
 
 The advantages and requirements of IE placements for employers are described below.
 
-::: {.callout-warning}
+::: {.callout-tip}
 **EMPLOYERS**: This is a guide to Industrial Experience (IE) for employers of undergraduate Computer Science students at the University of Manchester. So, if you're an employer, read on.
 :::
 
@@ -21,7 +21,7 @@ The advantages and requirements of IE placements for employers are described bel
 **STUDENTS**: If you are an undergraduate student of Computer Science, you must read and understand the requirements in the student guide, which can be found in the placement handbook on `canvas.manchester.ac.uk` at [bit.ly/placement-handbook-2025](https://bit.ly/placement-handbook-2025)
 :::
 
-::: {.callout-warning}
+::: {.callout-note}
 **ACADEMICS** and personal tutors, your pastoral responsibilities to your tutees while they are on placement have been emailed to you by David Petrescu, the Computer Science [placement year tutor](contact.html)
 :::
 
@@ -47,7 +47,7 @@ The University of Manchester **requires** that all employers of undergraduate st
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants. [@salaries]
+* Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants. [@salaries;@trackr2025]
 * Start the students period of employment on placement between June and September, to allow students a year of employment before they return for their final year at University
 * Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
     + Some employers provide rotations e.g. two sixth month sub-placements in different parts of the organisation
@@ -101,5 +101,5 @@ ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
   labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
 ```
 
-[^1]: As of 2026, £70k pa is the highest IE placement salary we've seen in Computer Science
+[^1]: As of 2026, £70k pa is the highest reported IE placement salary in Computer Science
 

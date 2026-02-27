@@ -94,8 +94,76 @@ Questions about the mentor:
 
 ## Mentors and mentees for 2026 {#which}
 
+The meetings for the 27th Feb are as follows:
 
-TBC
+### Meeting room one: F1 to F18
+
+If the calendar invite doesn't work you can join the meeting at
+
+* [teams.microsoft.com/meet/33099828781927?p=KGiqAf9NwFE3dB2oKK](https://teams.microsoft.com/meet/33099828781927?p=KGiqAf9NwFE3dB2oKK)
+
+The table below shows you which break out room to go to and who your mentor is.
+
+| team | mentor |
+|:---|:---|
+| F01 | Ross |
+| F02 | Swapnil |
+| F03 | Tony |
+| F04 | Mike |
+| F05 | Asher |
+| F06 | Kavin |
+| F07 | Ali |
+| F08 | Spencer |
+| F09 | Alexandru |
+| F10 | Mark |
+| F11 | Max |
+| F12 | Benjamin |
+| F13 | Gabriel |
+| F14 | wait |
+| F15 | wait |
+| F16 | wait |
+| F17 | wait |
+| F18 | wait |
+
+
+### Meeting room two: G1 to G19 and H1 to H5
+
+If the calendar invite doesn't work you can join the meeting at
+
+* [teams.microsoft.com/meet/31858379449855?p=7P5OzUxSMybwhktNfb](https://teams.microsoft.com/meet/31858379449855?p=7P5OzUxSMybwhktNfb)
+
+The table below shows you which break out room to go to and who your mentor is.
+
+| team | mentor |
+|:---|:---|
+| G01 | Sara |
+| G02 | Weilue |
+| G03 | Alan |
+| G04 | Jeeban |
+| G05 | Vasileos |
+| G06 | Richard |
+| G07 | Henry |
+| G08 | Shannon |
+| G09 | James |
+| G10 | David |
+| G11 | wait |
+| G12 | wait |
+| G13 | wait |
+| G14 | wait |
+| G15 | wait |
+| G16 | wait |
+| G17 | wait |
+| G18 | wait |
+| G19 | wait |
+| H01 | Luke |
+| H02 | Will |
+| H03 | Andrew |
+| H04 | Niall |
+| H05 | Sam |
+
+
+
+
 
 
 ## Acknowledgements {#acknowledgements}
