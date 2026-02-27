@@ -47,7 +47,7 @@ The University of Manchester **requires** that all employers of undergraduate st
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants.
+* Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants. [@salaries]
 * Start the students period of employment on placement between June and September, to allow students a year of employment before they return for their final year at University
 * Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
     + Some employers provide rotations e.g. two sixth month sub-placements in different parts of the organisation

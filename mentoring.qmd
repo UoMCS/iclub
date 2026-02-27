@@ -92,10 +92,15 @@ Questions about the mentor:
 * How can we avoid getting into a mess when using Git (or other version control systems)?
 * We’re having a lot of trouble fixing this bug, making this change or adding this feature? Do you struggle with this too? How would you go about dealing with this sort of problem?
 
+## Mentors and mentees for 2026 {#which}
+
+
+TBC
+
 
 ## Acknowledgements {#acknowledgements}
 
 We are very grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
 
-Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
+Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Axelera AI, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
 
