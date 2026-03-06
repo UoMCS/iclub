@@ -1,0 +1,34 @@
+---
+title: "Hackathons"
+subtitle: Collaborative and Competitive Coding Competions
+bibliography: references.bib
+---
+
+Our students compete in local, national and international coding competitions. This page summarises some of them and outlines how you can get involved as an employer.
+
+## Hackaton = Hacking + Marathon {#hacking}
+Many competitions are run as [hackathons](https://en.wikipedia.org/wiki/Hackathon), an event where participants rapidly prototype solutions to given problems. *Hackathon* is portmanteau of *hacking* + *marathon*, reflecting the intensity of development over a set period of time, such as a day or weekend.
+
+## Hackathons UK and Major League Hacking {#mlh}
+
+In the UK, many hackathons are supported by 
+
+* [mlh.io](https://mlh.io)
+* [hackathons.org.uk](https://www.hackathons.org.uk)
+
+Their events pages summarise hackathons taking place in the UK, Europe and beyond. Examples include
+
+* greatunihack (Manchester)
+* studenthack (Manchester)
+* [durhack.com](https://durhack.com) in Durham
+* hacklondon in London
+* hacksheffield in Sheffield
+* etc
+
+Other events include Imperial College London Hack
+[ichack.org](https://ichack.org)
+
+## Other competitions
+
+## Hackathon fatigue
+Host your own?

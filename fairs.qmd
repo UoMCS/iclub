@@ -9,7 +9,7 @@ bibliography: references.bib
 Our annual Computing Careers fair is an opportunity for employers to meet undergraduate and postgraduate students in Computer Science. It takes place every autumn on campus, alongside other careers fairs across the University.
 
 
-![The Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester](computing-careers-fair.png)
+![The Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester](computing-careers-fair2.png)
 
 ## Venue: The Nancy Rothwell Building {#rothwell}
 

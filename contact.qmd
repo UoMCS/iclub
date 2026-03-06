@@ -1,6 +1,6 @@
 ---
 title: "Contacts"
-subtitle: Key industrial contacts in the Department of Computer Science
+subtitle: Key contacts for employers at the University of Manchester
 ---
 
 
@@ -37,7 +37,7 @@ Phone numbers can be found on contact pages below, all emails are `...@mancheste
 
 ## Dr. David Petrescu
 
-* David is Placement Year Tutor, with pastoral responsibilty for our students while they are on placement.  He is a Lecturer in the Department of Computer Science
+* David is Placement Year Tutor, with responsibilty for managing the pastoral care of our students while they are on [Industrial Experience (IE)](experience.html) placements.  He is a Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)
 * email `david.petrescu@manchester...`
 

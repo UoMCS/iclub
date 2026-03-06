@@ -5,14 +5,15 @@ project:
   output-dir: docs
   render: 
       - index.qmd
-      - events.qmd
       - research.qmd
       - mentoring.qmd
+      - manchester.qmd
       - guests.qmd
       - experience.qmd
       - fairs.qmd
       - recruitment.qmd
-      - manchester.qmd
+      - events.qmd
+#      - hackathons.qmd
       - contact.qmd
 
 
@@ -52,14 +53,15 @@ website:
     search: true
     contents:
       - index.qmd
-      - events.qmd
       - research.qmd
       - mentoring.qmd
+      - manchester.qmd
       - guests.qmd
       - experience.qmd
       - fairs.qmd
       - recruitment.qmd
-      - manchester.qmd
+      - events.qmd
+#      - hackathons.qmd
       - contact.qmd
   page-navigation: true
 
@@ -69,6 +71,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header:
+      - text: | 
+            <script async src="https://plausible.io/js/pa-Im39h3cCVBvjjLEIozOsH.js"></script> <script> window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}}; plausible.init() </script>
 
 callout-appearance: simple
 

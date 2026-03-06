@@ -16,10 +16,12 @@ Software engineering mentors meet with a team of six undergraduate students for 
 
 There are two timetabled mentoring sessions which taken place on Fridays:
 
-1. **Friday 27th February 2026, 4pm** (first meeting)
+1. ~~**Friday 27th February 2026, 4pm** (first meeting)~~
 1. **Friday 20th March 2026, 4pm** (followup meeting)
 
-Both of these meetings take place on Microsoft Teams. If you'd like to join us, there's a signup form at [forms.cloud.microsoft/e/TZ9SX87Ncx](https://forms.cloud.microsoft/e/TZ9SX87Ncx)
+Both of these meetings take place on Microsoft Teams. Registration now closed for 2026.
+
+<!--If you'd like to join us, there's a signup form at [forms.cloud.microsoft/e/TZ9SX87Ncx](https://forms.cloud.microsoft/e/TZ9SX87Ncx)-->
 
 Please only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see [contacts](contact.html)
 
@@ -94,15 +96,11 @@ Questions about the mentor:
 
 ## Mentors and mentees for 2026 {#which}
 
-The meetings for the 27th Feb are as follows:
+The meetings for the 20th March are as follows:
 
 ### Meeting room one: F1 to F18
 
-If the calendar invite doesn't work you can join the meeting at
-
-* [teams.microsoft.com/meet/33099828781927?p=KGiqAf9NwFE3dB2oKK](https://teams.microsoft.com/meet/33099828781927?p=KGiqAf9NwFE3dB2oKK)
-
-The table below shows you which break out room to go to and who your mentor is.
+The meeting details have been sent to you in a calendar invite. The table below shows you which break out room to go to and who your mentor is.
 
 | team | mentor |
 |:---|:---|
@@ -128,11 +126,7 @@ The table below shows you which break out room to go to and who your mentor is.
 
 ### Meeting room two: G1 to G19 and H1 to H5
 
-If the calendar invite doesn't work you can join the meeting at
-
-* [teams.microsoft.com/meet/31858379449855?p=7P5OzUxSMybwhktNfb](https://teams.microsoft.com/meet/31858379449855?p=7P5OzUxSMybwhktNfb)
-
-The table below shows you which break out room to go to and who your mentor is.
+The meeting details have been sent to you in a calendar invite. The table below shows you which break out room to go to and who your mentor is.
 
 | team | mentor |
 |:---|:---|
@@ -162,13 +156,13 @@ The table below shows you which break out room to go to and who your mentor is.
 | H05 | Sam |
 
 
-
-
-
-
 ## Acknowledgements {#acknowledgements}
 
 We are very grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
 
 Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Axelera AI, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
 
+
+## Other mentoring
+
+The software engineering mentoring program is one of many mentoring programmes that employers can engage with at the University of Manchester, for other mentoring opportunities see [www.careers.manchester.ac.uk/appointments/mentoring](https://www.careers.manchester.ac.uk/appointments/mentoring/)

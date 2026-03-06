@@ -24,18 +24,18 @@ Both degree programmes are available with [Industrial Experience](experience.htm
 
 As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) for our undergraduate students is **A* A* A ** including an **A* ** in Mathematics, and a *minimum* of one science subject from Computer Science, Further Mathematics, Biology, Chemistry or Physics or [equivalent qualifications](https://www.manchester.ac.uk/study/undergraduate/courses/2026/00560/bsc-computer-science/) from outside the UK. We typically have around ~300 undergraduate students graduating annually, alongside around ~240 Masters and ~70 PhD students graduating every year.
 
-# Recruiting students from the University of Manchester {#recruiting}
+# Engage early, engage often {#recruiting}
 
-There are at least three routes for recruiting students at the University of Manchester:
+Recruiting students and graduates is a bit like software engineering. Instead of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often), we recommend that employers engage early and engage often. There are at least three routes for doing this:
 
-* From specific degree programmes like Computer Science via the Wednesday Waggle
-* From any degree programmes e.g. STEM or other degrees via various mechanisms
-* From [events](events.html) and [careers fairs](fairs.html) organised by the Department of Computer Science or Careers service
+* Targeting specific degree programmes like Computer Science
+* Targeting *any* degree programmes e.g. STEM or other degrees via various mechanisms
+* Participating in [events](events.html) and [careers fairs](fairs.html) organised by the Department of Computer Science or Careers service
 
 These are described in more detail below:
 
-## The Wednesday Waggle for Computing {#waggle}
-With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and corporate communication from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computing, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
+## The Wednesday Waggle for Computing and AI {#waggle}
+With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and [corporate communication](https://www.manchester.ac.uk) from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computing and AI, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
 
 ![The Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png){#fig-waggle} 
 
@@ -55,11 +55,11 @@ Each department has an employability lead with responsibility for liaising with 
 
 There are several models for of employing students before they graduate. These include part-time, full-time, term-time, summer-time or as a year long placement students during a “sandwich” year in industry.
 
-![Another graduation ceremony in the Kilburn Building](graduation-kilburn.jpeg) 
+![Will it be too late when they graduate? A graduation ceremony in the Kilburn Building in Manchester](graduation-kilburn.jpeg) 
 
 ## Industrial Experience Year {#withie}
 
-Around a third of our undergraduate students are successful in securing an industrial experience (IE) year in industry before graduation, see [industrial experience](experience.html)
+Around a third of our undergraduate students are successful in securing an  [industrial experience](experience.html) (IE) year in industry before graduation. This is one of the most popular ways to recruit students.
 
 
 ## Summer internships for Computer Scientists {#summer}
@@ -80,11 +80,13 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 
 | Student society  | Link   |  
 |:---|:---|
+| Women in Science & Engineering | [manchesterwise](https://linktr.ee/manchesterwise) |
 |  Startups  | [accelerateme.co](https://accelerateme.co) |
 | UNIversity Computer Science | [unicsmcr.com](https://unicsmcr.com/) |
 | Manchester University Data Science & Artificial Intelligence | [mudsai.com](https://www.mudsai.com) |
 | IBM Z society | [IBMZ.uom](https://linktr.ee/ibmz.uom) |
 | Maths Society | [MathSoc](https://manchesterstudentsunion.com/activities/view/mathsoc) |
+| 180 degrees consulting [180dc.org](https://www.180dc.org/branches/university-of-manchester) | 
 | Manchester Intelligence Society (Cybersecurity) | [MIS](https://manchesterstudentsunion.com/activities/view/manchester-intelligence) |
 | Robosoc | [uom-robosoc.com](https://uom-robosoc.com) |
 | Manchester Trading and Investment Society | [MUTIS](https://manchesterstudentsunion.com/activities/view/mutis) |
@@ -113,5 +115,5 @@ Finally, there is graduate employment, either through graduate schemes or a grad
 | BSc Computer Science, University of Anywhere, UK | `?` | `?` | £32k ($n$=6420) |
 | Bachelors degree, University of Anywhere, UK | 88%  ($n$=358,045) [@graduateoutcomes] | `?` | £28.5k ($n$=358,045)  |
 
-:A summary of graduate outcomes data in Computer Science at the University of Manchester. Graduate employability data via `discoveruni.gov.uk` where $n$ is the number of students who answered question via the graduate outcomes survey. Click on link in degree column to see original data.  Data is based on students graduating in 2022, who were surveyed during 2023/4 with HESA publishing this data in July 2025. 🎓 {#tbl-gradoutcomes}
+:A summary of graduate outcomes data in Computer Science at the University of Manchester. Graduate employability data via `discoveruni.gov.uk` where $n$ is the number of students who answered a given question via the graduate outcomes survey, not the number of students on the course. Data is based on students graduating in 2022, who were surveyed 15 months after they graduated in 2023/4 with HESA publishing this data in July 2025. 🎓 {#tbl-gradoutcomes}
 
