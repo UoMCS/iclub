@@ -51,16 +51,16 @@ Each lecture typically finishes with ten minutes of Ask Me Anything (AMA) Questi
 
 ## Recently on COMP101 {#recently}
 
-Our COMP101 guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching. Pictures and mentions on LinkedIn shared with permission.
+Our COMP101 guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching. Pictures and mentions on LinkedIn shared with permission from speakers.
 
-### stuff
+### From UoM to Morgan Stanley via Google and back again {#adrian}
 
 ```{=html}
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429158167080611841" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 ```
 
 
-### Using generative AI for productivity and profit
+### Using generative AI for productivity and profit {#sourceful}
 
 ```{=html}
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7432337138215669760?collapsed=1" height="643" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
