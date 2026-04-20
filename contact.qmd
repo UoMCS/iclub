@@ -4,73 +4,155 @@ subtitle: Key contacts for employers at the University of Manchester
 ---
 
 
-# Industrial contacts in Computer Science
 Phone numbers can be found on contact pages below, all emails are `...@manchester.ac.uk` 
+
+
+# Industrial contacts in Computer Science
 
 ![Transport for Greater Manchester (TfGM) on the Oxford Road with [Starling Bank Bikes](https://beeactive.tfgm.com/cycle-hire/)](onyerbike.jpg)
 
-
-## Professor Andrew Stewart
+## Professor Andrew Stewart {#andrew}
 
 * Andrew is Head of the Department of Computer Science 
 * [research.manchester.ac.uk/en/persons/andrew.j.stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart)
 * email `andrew.j.stewart@manchester...` 
 
-## Professor Lucas Cordeiro
+## Professor Lucas Cordeiro {#lucas}
 
 * Lucas is Director of Business Engagement and Innovation for Computer Science
 * [research.manchester.ac.uk/en/persons/lucas.cordeiro](https://research.manchester.ac.uk/en/persons/lucas.cordeiro)
 * email `lucas.cordeiro@manchester...`
 
 
-## Dr. Suzanne Embury
+## Dr. Suzanne Embury {#suzanne}
 
 * Suzanne is Research Impact Lead and a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Software Engineering
 * [research.manchester.ac.uk/en/persons/suzanne.m.embury](https://research.manchester.ac.uk/en/persons/suzanne.m.embury)
 * email `suzanne.m.embury@manchester...`
 
-## Dr. Duncan Hull 
+## Dr. Duncan Hull {#duncan}
 
 * Duncan is Employability Lead and a Director of Business Engagement and Innovation. He is a Senior Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/duncan.hull](https://research.manchester.ac.uk/en/persons/duncan.hull)
 * email `duncan.hull@manchester...`
 
-## Dr. David Petrescu
+## Dr. David Petrescu {#david}
 
 * David is Placement Year Tutor, with responsibilty for managing the pastoral care of our students while they are on [Industrial Experience (IE)](experience.html) placements.  He is a Lecturer in the Department of Computer Science
 * [research.manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/)
 * email `david.petrescu@manchester...`
 
-## Mabel Yau
+## Mabel Yau {#mabel}
 
 * Mabel is Teaching, Learning and Student Experience (TLSE) Coordinator for placements across the School of Engineering
 * [linkedin.com/in/mabel-yau](https://www.linkedin.com/in/mabel-yau/)
 * email `mabel.yau@manchester..`
 
 
-# Academic project contacts in Computer Science {#cosupervise}
 
-For co-supervised projects described on the [research projects](research.html) page, please contact:
+# Project contacts in Computer Science {#projects}
+
+![Panoramic picture of University Place Manchester with the Kilburn Building on the left](uniplace.jpg)
+
+For co-supervised or mentored academic projects described on the [research projects](research.html) page, please contact:
 
 ## Dr. Terence Morley: Bachelors projects {#terry}
 
 * Terry is the third year (Bachelors) projects manager
 * [research.manchester.ac.uk/en/persons/terence.morley](https://research.manchester.ac.uk/en/persons/terence.morley) 
-* email `terence.morley@...`
-
+* email `terence.morley@manchester...`
 
 ## Dr. Sarah Clinch: Masters projects {#sarah}
 
 * Sarah is postgraduate taught (PGT) programme director (Masters)
 * [research.manchester.ac.uk/en/persons/sarah.clinch](https://research.manchester.ac.uk/en/persons/sarah.clinch) 
-* email `sarah.clinch@...`
+* email `sarah.clinch@manchester...`
 
 ## Dr. Renate Schmit: PhD projects {#renate}
 
 * Renate is postgraduate research (PGR) team leader and [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Computer Science
 * [research.manchester.ac.uk/en/persons/renate.schmidt](https://research.manchester.ac.uk/en/persons/renate.schmidt) 
-* email `renate.schmidt@...`
+* email `renate.schmidt@manchester...`
 
 
-<!--# Employability leads in the School of Engineering and beyond {#employability}-->
+# Employability and IE Placement leads {#employability}
+
+
+![Panoramic picture of the Oxford Road in Manchester](sunchester.jpg)
+
+Each discipline at the University of Manchester has an employability lead, an Industrial Experience ([IE placement](experience.html)) lead and a careers consultant with responsibilitiy for: 
+
+* developing professional skills of their students so they are better prepared for the workplace
+* helping students find internships, placements and graduate roles or further study
+* building relationships and collaborating with employers in their discipline
+* supporting students through the process of CV writing, applications and interviews
+
+The Discipline Employability Leads and IE Placement Leads for different areas of Science & Engineering are shown in @tbl-counterparts.
+
+
+| Discipline | Employability lead | IE placement lead | 
+|:----------|:--------------|:---------------|
+| [Aerospace Engineering](https://www.se.manchester.ac.uk/mae/) 	|   Nick Crisp /  [Nick Bojdo](https://research.manchester.ac.uk/en/persons/nick-bojdo/) `nicholas.bojdo@manchester...`	|   Nick Bojdo / [Nick Crisp](https://research.manchester.ac.uk/en/persons/nicholas.crisp/) `nicholas.crisp@manchester...`	|   
+| [Civil Enginering](https://www.se.manchester.ac.uk/cem/) 	|  [Mojgan Hadi Mosleh](https://research.manchester.ac.uk/en/persons/mojgan.hadimosleh) `mojgan.hadimosleh@manchester...`	|   Mojgan Hadi Mosleh	|  
+| [Chemical Engineering](https://www.ce.manchester.ac.uk)  	|   [Ashwin Kumar Rajagopalan](https://research.manchester.ac.uk/en/persons/ashwin-rajagopalan/), `a.rajagopalan@manchester...`	|  [Chris Parlett](https://research.manchester.ac.uk/en/persons/christopher.parlett) `christopher.parlett@manchester...`  
+| [Chemistry](https://www.chemistry.manchester.ac.uk)  	|   [Nicholas Weise](https://research.manchester.ac.uk/en/persons/nicholas.weise) `nicholas.weise@manchester...` | [Martin Atfield](https://research.manchester.ac.uk/en/persons/m.attfield) `M.Attfield@manchester...`   | 
+| [Computer Science](https://www.cs.manchester.ac.uk)  	|  [Duncan Hull](https://research.manchester.ac.uk/en/persons/duncan.hull) `duncan.hull@manchester...`	|  [David Petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu/) `david.petrescu@manchester...`  | 
+| [Earth & Environmental Science](https://www.ees.manchester.ac.uk)  	|   [Zhonghua Zheng](https://research.manchester.ac.uk/en/persons/zhonghua.zheng) `zhonghua.zheng@manchester...`	|  [Greg Holland](https://research.manchester.ac.uk/en/persons/g.holland) `G.Holland@manchester...` |
+| [Electrical & Electronic Engineering](https://www.eee.manchester.ac.uk)  	|   [Joel Loh](https://research.manchester.ac.uk/en/persons/joel-loh) `joel.loh@manchester...` |  [Viddy Peesapati](https://research.manchester.ac.uk/en/persons/v.peesapati) `v.peesapati@manchester...` | 
+| [Engineering Management](https://www.se.manchester.ac.uk/cem/)  	|    [Paul Baguley](https://www.linkedin.com/in/paul-baguley-2711571a/) `paul.baguley@manchester...`	|  n/a  | 
+| [Fashion Business & Technology](https://www.materials.manchester.ac.uk)  	|   [Lisa Trencher](https://uk.linkedin.com/in/lisa-trencher-757b5930) `lisa.trencher@manchester...` |  Paul Cowell `Paul.Cowell@manchester...`  |
+| [Materials](https://www.materials.manchester.ac.uk) 	|   [Peng Gong](https://research.manchester.ac.uk/en/persons/peng-gong/) `peng.gong@manchester...`|  [Hugh Gong](https://research.manchester.ac.uk/en/persons/hugh.gong) `hugh.gong@manchester...`  | 
+| [Mathematics](https://www.maths.manchester.ac.uk) 	|  [Peter Johnson](https://research.manchester.ac.uk/en/persons/peter-johnson/) `peter.johnson-3@manchester` / Nikesh Solanki 	|  Peter Johnson / Nikesh Solanki `nikesh.solanki@manchester...` |
+| [Mechanical Engineering](https://www.se.manchester.ac.uk/mae/)  	|    [Giovanni Giustini](https://research.manchester.ac.uk/en/persons/giovanni.giustini) `giovanni.giustini@manchester...`		|  Giovanni Giustini  | 
+| [Physics & Astronomy](https://www.physics.manchester.ac.uk) | Stuart Christie `stuart.christie@manchester...`	|  Stuart Christie  | 
+
+:Employability leads IE placement leads and Careers Consultants for the Departments of Science and Engineering. Full emails are typically in the format `firstname.surname@manchester.ac.uk`  {#tbl-counterparts}
+
+
+
+# The Careers Service {#cservice}
+
+The Careers service supports employability across all 40,000+ students at the University of Manchester, see [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk)
+
+![Panoramic picture of the Samuel Alexander building and Alan Gilbert Learning Commons from Burlington Street](burlington.jpg)
+
+## Kelly-Ann Mellon {#kelly}
+
+* Kelly-Ann is Head of Access, Student Employability, Success and Development
+* [linkedin.com/in/kellyannmallon](https://www.linkedin.com/in/kellyannmallon/)
+* `kelly-ann.mallon@manchester...`
+
+
+## Amanda Conway {#amanda}
+
+* Amanda is Careers Manager for the Faculty of Science and Engineering (FSE) and Faculty of Biology, Medicine and Health (FBMH)
+* [linkedin.com/in/amanda-conway](https://www.linkedin.com/in/amanda-conway/)
+* `Amanda.Conway@manchester...`
+
+## Helen Frost {#helen}
+
+* Helen Front is a Careers Consultant for Aerospace Engineering, Civil Engineering, Mathematics and Mechanical Engineering
+* [Penney Gordon-Lanes](https://www.linkedin.com/in/penneygordon-lanes/)
+* `penney.gordon-lanes@manchester...`     
+  
+
+## Penney Gordon-Lanes {#penney}
+
+* Penney is Careers consultant for Computer Science, Earth and Environmental Science, Electrical and Electronic Engineering, Fashion, Business & Technology  and Material Science
+* [linkedin.com/in/penneygordon-lanes](https://www.linkedin.com/in/penneygordon-lanes/)
+* `penney.gordon-lanes@manchester...`     
+
+## Dr. Ben Carter {#ben}
+
+* Ben is Careers consultant for Chemical Engineering, Chemistry, Electrical and Electronic Engineering and Physics & Astronomy  
+* [linkedin.com/in/bencartercareers](https://www.linkedin.com/in/bencartercareers/) 
+* `benjamin.carter@manchester...`  
+
+
+# Beyond Science & Engineering {#etc}
+
+There are two other faculties at the University of Manchester, besides the Faculty of Science and Engineering.
+
+For details on staff contacts in those faculties beyond Science & Engineering see [staffnet.manchester.ac.uk/supporting-students/careers/contacts](https://www.staffnet.manchester.ac.uk/supporting-students/careers/contacts)
+
 

@@ -26,7 +26,7 @@ As of 2026, the [entry tariff](https://www.ucas.com/ucas/tariff-calculator) for 
 
 # Engage early, engage often {#recruiting}
 
-Recruiting students and graduates is a bit like software engineering. Instead of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often), we recommend that employers engage early and engage often. There are at least three routes for doing this:
+Recruiting students and graduates is a bit like software engineering. Similar to the practice of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often), we recommend that employers engage early and engage often with students. There are at least three routes for doing this:
 
 * Targeting specific degree programmes like Computer Science
 * Targeting *any* degree programmes e.g. STEM or other degrees via various mechanisms
@@ -35,21 +35,21 @@ Recruiting students and graduates is a bit like software engineering. Instead of
 These are described in more detail below:
 
 ## The Wednesday Waggle for Computing and AI {#waggle}
-With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc) and [corporate communication](https://www.manchester.ac.uk) from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computing and AI, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
+With a student population of over 40,000 students enrolled on over 1,000 different degree programmes, it is very easy for opportunities from employers to get lost in the blizzard of information overload on teaching, [student events](#studentsoc), careers service support and [corporate communication](https://www.manchester.ac.uk) from the University. To help our students navigate this space, we highlight events and vacancies in a tailored weekly jobs newsletter for Computing and AI, called the *Wednesday Waggle* see [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) shown in @fig-waggle
 
-![The Wednesday Waggle summarises key opportunities for students in Computer Science. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png){#fig-waggle} 
+![The Wednesday Waggle summarises key opportunities for students in Computing and AI. The name of the newsletter comes from Bees, a Mancunian symbol of community and work ethic since the industrial revolution. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com) is licensed under CC-BY-ND. 🐝](wednesday-triple.png){#fig-waggle} 
 
-The Wednesday Waggle newsletter gets emailed out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the [all of sources that students can use to find career opportunities](https://www.cdyf.me/finding), but summarises key vacancies and events in a handy weekly digest for busy time-poor Computer Scientists. If you would like us to highlight something in the Wednesday Waggle for Computer Scientists, contact the editor of the newsletter, [Duncan Hull](contact.html).
+The Wednesday Waggle newsletter gets emailed out to 1000+ Bachelors and 240+ Masters students in Computer Science each week on Wednesdays during term-time. The Wednesday Waggle does not replace the [all of sources that students can use to find career opportunities](https://www.cdyf.me/finding), but summarises key vacancies and events in a handy weekly digest for busy time-poor students of Computing. If you would like us to highlight something in the Wednesday Waggle, see the form at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/)
 
 ## Recruiting from other degree programmes {#beyondcs}
-If you're recruiting beyond Computer Science, we recommend you contact: 
+If you're recruiting beyond Computing and AI, we recommend you contact: 
 
-* The central careers service which serves the other ~39,000 students at the University at [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk)
-* Academic employability leads in the relevant Department e.g. [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechanical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) etc
+* The central careers service which serves all 40,000 students of the University at [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk)
+* Discipline employability and placement leads for the relevant subject, see [contacts](contacts.html)
 
 Employers can advertise vacancies and events across the whole University for free via `careerconnect.manchester.ac.uk`, for details see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk) 
 
-Each department has an employability lead with responsibility for liaising with industrial partners relevant to their students degree programs. As an academic, the employability will have direct access to those students through their teaching and research. Contact the relevant Department for details.
+Each department has an employability lead with responsibility for liaising with industrial partners relevant to their students degree programs. As an academic, the employability will have direct access to those students through their teaching and research. 
 
 # Employing students before they graduate {#employcs}
 
@@ -59,7 +59,7 @@ There are several models for of employing students before they graduate. These i
 
 ## Industrial Experience Year {#withie}
 
-Around a third of our undergraduate students are successful in securing an  [industrial experience](experience.html) (IE) year in industry before graduation. This is one of the most popular ways to recruit students.
+Around a third of our undergraduate students are successful in securing an [industrial experience](experience.html) (IE) year in industry before graduation. This is one of the most popular ways to recruit students with around 50% of placement students returning to their placement providere for a full-time graduate role when they graduate.
 
 
 ## Summer internships for Computer Scientists {#summer}
@@ -67,15 +67,22 @@ As well as year long placements, a significant proportion of our students are em
 
 Many of our students do summer internships between their first and second, or second and final year of study. We encourage all our students to take skilled work during summer if they can and highlight key internships for students in the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/) and elsewhere.
 
+Summer internships tend to start in June (after exams) and last anything between 4-12 weeks.
+
 ## Part-time work for Computer Scientists {#parttime}
 Some students choose to work part-time during term-time for an hourly rate of pay, provided they can balance their study and employment commitments. Casual or [zero-hours contracts](https://www.gov.uk/contract-types-and-employer-responsibilities/zero-hour-contracts) are one way to facilitate this, provided that employers realise that during term-time, a students top priority should be study, not employment. 
 
 An example of part-time employment on casual contracts is Imago, our student software company [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/). Other employers have employed our students part-time on similar contracts as well.
 
 
-## Engaging directly with students through student societies {#studentsoc}
+## Engaging directly with students through societies and clubs {#studentsoc}
 
-The University of Manchester Students Union (UMSU) is the largest in the UK with over 500 student societies. Many of these societies have a scientific, technical, engineering or mathematical interests including. A small sample is shown, in no particular order in @tbl-umsu
+The University of Manchester Students Union (UMSU) is the largest in the UK with over 600 student societies and clubs. 
+
+![Representing over 40,000 students and hosting over 600 student clubs &    societies, the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU) is the largest in the UK, see [manchesterstudentsunion.com](https://manchesterstudentsunion.com)](umsu-panorama.png) 
+
+
+Many student societies have a scientific, technical, engineering or mathematical interests, a small sample is shown, in no particular order in @tbl-umsu
 
 
 | Student society  | Link   |  
@@ -86,7 +93,9 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 | Manchester University Data Science & Artificial Intelligence | [mudsai.com](https://www.mudsai.com) |
 | IBM Z society | [IBMZ.uom](https://linktr.ee/ibmz.uom) |
 | Maths Society | [MathSoc](https://manchesterstudentsunion.com/activities/view/mathsoc) |
-| 180 degrees consulting [180dc.org](https://www.180dc.org/branches/university-of-manchester) | 
+| 180 degrees consulting | [180dc.org](https://www.180dc.org/branches/university-of-manchester) | 
+| MancheSTAR fusion | [manchestar-fusion.co.uk](https://manchestar-fusion.co.uk) |
+| Manchester Students for the Exploration and Development of Space | [linkedin.com/company/manseds](https://www.linkedin.com/company/manseds) | 
 | Manchester Intelligence Society (Cybersecurity) | [MIS](https://manchesterstudentsunion.com/activities/view/manchester-intelligence) |
 | Robosoc | [uom-robosoc.com](https://uom-robosoc.com) |
 | Manchester Trading and Investment Society | [MUTIS](https://manchesterstudentsunion.com/activities/view/mutis) |
@@ -94,24 +103,21 @@ The University of Manchester Students Union (UMSU) is the largest in the UK with
 | Makerspace Manchester | [makerspacemanchester.org](https://www.makerspacemanchester.org) |
 | Manchester Stinger Motorports | [formulastudentuom.com](https://formulastudentuom.com) |
 | Google Developers Group (GDG) Manchester | [GDGManchester](https://linktr.ee/gdgmanchester) |
+| ... and the rest | [manchesterstudentsunion.com/activities](https://manchesterstudentsunion.com/activities) |
 
-: A small selection of societies at the Unviversity of Manchester with scientific, technical, engineering and mathematical interests {#tbl-umsu}
+: A small selection of societies at the University of Manchester with scientific, technical, engineering and mathematical interests {#tbl-umsu}
 
 
-One way to engage with students is to sponsor and support their events by contacting relevant societies directly. This includes sponsoring hackathons and offering speakers for talks, panels, workshops, insights and other events. 
-
-![Representing over 40,000 students and with over 500 student societies, the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU) is the largest in the UK, see [manchesterstudentsunion.com](https://manchesterstudentsunion.com)](umsu-panorama.png) 
-
+A good way to engage with students is to sponsor and support their events by contacting relevant societies directly. This includes sponsoring hackathons and offering speakers for talks, panels, workshops, insights and other events. 
 
 # Employing Computer Science graduates {#graduates}
 
 Finally, there is graduate employment, either through graduate schemes or a graduate jobs. [@graduatescheme] The Higher Education Statistics Agency (HESA) collects data from UK graduates 15 months after they have graduated via the annual graduate outcomes survey. [@graduateoutcomes] Key data from this national survey is summarised in @tbl-gradoutcomes. According to this data, the average Computer Science graduate salary 15 months after graduation from the University of Manchester is **£40k**, although there are significant variations by sector and location.
 
-
 | Degree  | Students in work or study   |  Students in highly skilled employment  | Salary after 15 months  |  
 |:---|:---|:---|:---|
-|  BSc Computer Science, 3 year, University of Manchester [@BScCS3] | 85% ($n$=40)  | 75% ($n$=30)  | £40k ($n$=45)  |   
-|  BSc Computer Science [with IE](experience.html), 4 year, University of Manchester [@BScCS4] |  91% ($n$=75)  | 85% ($n$=60)  | £40k ($n$=45)  |   
+| BSc Computer Science, 3 year, University of Manchester [@BScCS3] | 85% ($n$=40)  | 75% ($n$=30)  | £40k ($n$=45)  |   
+| BSc Computer Science [with IE](experience.html), 4 year, University of Manchester [@BScCS4] |  91% ($n$=75)  | 85% ($n$=60)  | £40k ($n$=45)  |   
 | BSc Computer Science, University of Anywhere, UK | `?` | `?` | £32k ($n$=6420) |
 | Bachelors degree, University of Anywhere, UK | 88%  ($n$=358,045) [@graduateoutcomes] | `?` | £28.5k ($n$=358,045)  |
 

@@ -34,24 +34,34 @@ Some example guest lectures for COMP101 are shown below to give a flavour of the
 There are 8 guest lecture slots every year during February and March, these are arranged by Duncan Hull, see [contacts](contact.html)
 
 ### Interested in speaking? {#interested}
-For COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. For COMP101, there are a limited number of guest lecture slots (around 20) which run through term-time starting in November and finishing in early June. Its important that speakers
+For COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. For COMP101, there are a limited number of guest lecture slots (around 10) which run through term-time starting in November and finishing in May. It is important that speakers:
 
 * Give much more than a sales pitch for an organisation, by providing insight into a technical subject
 * Talk about content that relates to the (very broad) syllabus of COMP101
 * Engage, interact, educate and entertain. Students vote with their feet (by not turning up) if they think a lecture won't be interesting
 * If you would like to propose a guest lecture for COMP101, please contact Duncan Hull. For all other external seminars and events, see the links above.
 
-Since lockdown, lectures have been online, which has allowed for more interaction, typically via the chat dialogue. We can monitor and moderate the chat, feeding questions to the speaker when it's appropriate.
+Each lecture typically finishes with ten minutes of Ask Me Anything (AMA) Question and Answer, moderated through [mentimeter.com](https://www.mentimeter.com). As well as asking questions the traditional way (hands up), students can also quiz the speaker anonymously through a moderated Q&A session at the end. This tends to increase engagement with the speakers and their material. Here's an example schedule of talks from 2025: 
+
+1. 2nd Feb: From UoM at AWS with Ivo Ivaylov
+1. 9th Feb: Turning your project(s) into a product as an entrepreneur with MEC
+1. 16th Feb: From UoM to Morgan Stanley, Google and back again
+1. 
 
 
+## Recently on COMP101 {#recently}
 
-## Some recent guests {#recently}
+Our COMP101 guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching. Pictures and mentions on LinkedIn shared with permission.
 
-Our guest lectures are delivered by a mix of  junior and senior speakers alike, each bringing their own unique insights to our teaching.
+### stuff
 
-```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
-cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429158167080611841" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```{=html}
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429158167080611841" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 ```
 
 
-<!--https://www.linkedin.com/feed/update/urn:li:activity:7310283659528294400/-->
+### Using generative AI for productivity and profit
+
+```{=html}
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7432337138215669760?collapsed=1" height="643" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+```

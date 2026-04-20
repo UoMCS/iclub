@@ -4,7 +4,7 @@ subtitle: Collaborative and Competitive Coding Competions
 bibliography: references.bib
 ---
 
-Our students compete in local, national and international coding competitions. This page summarises some of them and outlines how you can get involved as an employer.
+Our students compete in many different local, national and international competitions. This page summarises some of them and outlines how you can get involved as an employer.
 
 ## Hackaton = Hacking + Marathon {#hacking}
 Many competitions are run as [hackathons](https://en.wikipedia.org/wiki/Hackathon), an event where participants rapidly prototype solutions to given problems. *Hackathon* is portmanteau of *hacking* + *marathon*, reflecting the intensity of development over a set period of time, such as a day or weekend.
@@ -25,8 +25,10 @@ Their events pages summarise hackathons taking place in the UK, Europe and beyon
 * hacksheffield in Sheffield
 * etc
 
-Other events include Imperial College London Hack
-[ichack.org](https://ichack.org)
+Other events include 
+* Imperial College London Hack [ichack.org](https://ichack.org)
+* Hack Europe [hackeurope.com](https://www.hackeurope.com)
+* Hack Zurich [hackzurich.com](https://hackzurich.com)
 
 ## Other competitions
 

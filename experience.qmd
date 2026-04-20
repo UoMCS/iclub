@@ -7,14 +7,14 @@ bibliography: references.bib
 
 # Industrial Experience (IE) placements: a full year in industry {#ie}
 
-Around a third of our undergraduate students are successful in securing employment on an industrial experience (IE) placement year in industry. This takes place in their [penultimate](https://en.wikipedia.org/wiki/Penult) year of study, before they graduate. This is sometimes known as a “sandwich” year because its between second and final year. [@placement;@sandwich]
+Around a third of our undergraduate students are successful in securing employment on an Iindustrial Experience (IE) placement year in industry. This takes place in their [penultimate](https://en.wikipedia.org/wiki/Penult) year of study, before they graduate. Placement years are sometimes known as a “sandwich” years because they sit between second and final years of undergraduate study. [@placement;@sandwich]
 
 ![A panoramic picture of the [Kilburn Building](https://en.wikipedia.org/wiki/Kilburn_Building), home to the Department of Computer Science on the Oxford Road at the University of Manchester](kilburnarama.jpg)
 
 Placements are a mutually beneficial partnership between three different groups of people 
 
 1. The employer
-1. The students, as employees of the employer and students of...
+1. The students, as both employees of the employer *and* students of...
 1. The University of Manchester
 
 
@@ -38,45 +38,46 @@ The advantages and requirements of IE placements for employers are described bel
 Year long placements are advantageous for employers, while benefiting the students they employ and the University of Manchester because:
 
 * **Employers**: benefit from a cost-effective way to recruit (and retain) student and graduate talent. Placements can serve as a year-long interview that informs future hiring decisions
-* **Students**: benefit from a broader education while developing their professional skillls. These skills and attributes include non-cognitive, softer, social and business skills that can be challenging to learn in a formal and traditional academic environment 
+* **Students**: benefit from a broader education while developing their professional skills. These include non-cognitive, softer, social and business skills and attributes that can be harder to learn in a formal and traditional academic environment 
 * **The University of Manchester**: benefits from producing better graduates with broader and deeper skills, who get better graduate jobs and earn higher salaries on graduation. [@BScCS4;@whatdograduatesdo]
 
-In the academic year starting September 2025, during a challenging job market, [@jbm] we have **77 students** started their year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The employer requirements before, during and after placements are as follows:
+In the academic year starting September 2025, during a challenging job market, [@jbm] we have **77 students** who started their year long industrial experience (IE) placement as part of their undergraduate degrees in Computer Science. Year long placements have to be approved by our placements team, see [contacts](contact.html). The basic employer requirements before, during and after placements are as follows:
 
 ## Our requirements of employers before IE placements {#before}
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Advertise their placements publicly between September and August. Our second year students start searching for IE placements in September onwards, for starting placements in summer/autumn of the following year. Depending on who you are targeting, there are lots of options for advertising, depending on your budget:
+* Advertise their placements publicly between September and August. Our second year students start searching for IE placements in September onwards, for placements starting in summer/autumn of the following year. There are lots of options for advertising, depending on who you are targeting and what your budget is including:
     + LinkedIn Jobs [uk.linkedin.com/jobs](https://uk.linkedin.com/jobs/)
-    + [Gradcracker.com](https://www.gradcracker.com) 
-    + An employers own website
+    + Gradcracker [gradcracker.com](https://www.gradcracker.com/search/computing-technology/jobs) 
     + Trackr [the-trackr.com](https://the-trackr.com)
     + Other jobs boards that are indexed by AI chatbots and search engines like [jobs.google.com](https://jobs.google.com/about/)
-    + Career Connect at the University of Manchester, see [employers.manchester.ac.uk/vacancies](https://www.employers.manchester.ac.uk/vacancies/)
+    + An employers own website
+    + Career Connect at the University of Manchester, (no charge) see [employers.manchester.ac.uk/vacancies](https://www.employers.manchester.ac.uk/vacancies/)
     + Any of the other [places that students can find jobs](http://cdyf.me/finding)
-* Provide students with fixed-term term [contract of employment](https://www.gov.uk/employment-contracts-and-conditions). This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates
+* Provide students with a fixed-term term [contract of employment](https://www.gov.uk/employment-contracts-and-conditions). This is typically 12 months, but 9 months (minimum) up to 15 months (maximum) are also possible depending on start and finish dates
 * Are covered by [Employer's Liability Insurance](https://www.gov.uk/employers-liability-insurance), or equivalent if they are outside the UK
 
 ## Our requirements of employers during IE placements {#during}
 
 The University of Manchester **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Pay students a salary ranging from [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) (lowest) to £70k+ (highest).[^1] Placement salaries vary widely depending on sector and location, but higher salaries often attract stronger applicants. [@salaries;@trackr2025]
-* Start the students period of employment on placement between June and September, to allow students a year of employment before they return for their final year at University
+* Pay students a salary. Salaries range widely from the lowest [National Minimum Wage and National Living Wage](https://www.gov.uk/national-minimum-wage-rates) to the highest at £70k+.[^1] Placement salaries vary depending on sector and location, but higher salaries often attract stronger applicants. [@salaries;@trackr2025]
+* Start placements between June and September, to allow students a year of employment before they return for their final year at University
 * Provide projects for students to work on that allow them to apply and extend the skills and knowledge they have learned at University
-    + Some employers provide rotations e.g. two sixth month sub-placements in different parts of the organisation
+    + Some employers provide rotations e.g. two sixth month sub-placements in different parts of their organisation
 * Allow their placement students to receive two visits from an academic while on placement, usually their personal tutor. These meetings are remote, but may be in person if appropriate:
     1. The first meeting takes place in autumn to check the student has started OK. 
     1. The second meeting in spring/summer allows the personal tutor to meet with both the student *and* their manager(s) to discuss their progress.
 * Treat students with respect. Although students may be the most junior employees in an organisation, they should *not* be treated as the office [dogsbody](https://en.wiktionary.org/wiki/dogsbody), whose main responsibilities are making cups of tea and running menial errands for their more senior colleagues.
-* Typically reside in the UK. We have a small number of employers providing placements outside the UK, these employers need to make suitable arrangements for their students right to work, if they are not a resident of that country, for example [technical studentships at CERN in Geneva](https://careers.cern/programmes/technical-studentship/).
+
+Most placeemnt providers employ their students in the UK. We have a small but significant number of employers providing placements outside the UK, these employers need to make suitable arrangements for their students right to work, if they are not a resident of that country. A good example of this is [technical studentships at CERN in Geneva](https://careers.cern/programmes/technical-studentship/).
 
 ## Our requirements of employers after IE placements {#after}
 
 The University **requires** that all employers of undergraduate students on year-long IE placements:
 
-* Allow their placement students to write a short report at the end of their employment, which is formatively assessed by the [placement year tutor](contact.html). If their work is commercially sensitive or confidential, placement reports can be subject to non-disclosure or confidentiality agreements the employer has asked their employee (the student) to sign 
+* Allow their placement students to write a short report at the end of their employment, which is formatively assessed by the [placement year tutor](contact.html). If their work is commercially sensitive or confidential, placement reports can be subject to non-disclosure or confidentiality agreements that the employer has asked their employee (the student) to sign 
 * Allow students to return for their final year of study starting in September, after their fixed term contract of employment expires.
 
 It is common for employers to make return offers of graduate employment, if students have performed well during their placement year. 
@@ -101,15 +102,15 @@ library(ggplot2)
 evenmoarplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv")
 
 
-ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity") + labs(y = "Number of students", x = "Start of Industrial Experience (IE) Year")
+ggplot(data = evenmoarplacements) + theme_minimal () + geom_bar(mapping = aes(x = year, y = students), stat = "identity") + labs(y = "Number of students", x = "Start of Industrial Experience (IE) Year")
 ```
 
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon Web Services, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan & Chase, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa, Vodafone and many others.
 
-# Other placements at the University of Manchester {#otherie}
+# More IE placements at the University of Manchester {#otherie}
 
-Computer Science with Industrial Experience (IE) is the largest *elective* program of industrial or professional experience at the University of Manchester shown in @fig-bigie. While [Medicine](https://www.bmh.manchester.ac.uk/study/medicine/), [Dentistry](https://www.bmh.manchester.ac.uk/study/dentistry/) and [Nursing](https://www.bmh.manchester.ac.uk/study/nursing/) have more students on placements (usually known as clinical practice), these placements are a *compulsory* part of their professional qualification, rather than an optional and elective one.
+Computer Science with Industrial Experience (IE) is the largest *elective* program of industrial or professional experience at the University of Manchester, as shown in @fig-bigie. While [Medicine](https://www.bmh.manchester.ac.uk/study/medicine/), [Dentistry](https://www.bmh.manchester.ac.uk/study/dentistry/) and [Nursing](https://www.bmh.manchester.ac.uk/study/nursing/) have more students on placements (usually known as clinical practice), these placements are a *compulsory* part of professional qualification, rather than an optional and elective one.
 
 ```{r}
 #| label: fig-bigie
@@ -128,9 +129,14 @@ library(forcats)
 ieuom <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/refs/heads/master/data/ieuom.csv")
 
 ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
+  theme_minimal () +
   geom_bar() +
   labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
 ```
 
-[^1]: We ask students to tell us their salaries if they are happy to share the information. As of 2026, £70k pa is the highest reported IE placement salary in Computer Science. 
+
+
+If you'd like to offer IE placements in Science, Engineering and beyond, see the [contacts](contact.html).
+
+[^1]: We ask students to tell us their placement salaries if they are happy to share the information. As of 2026, £70k pa is the highest reported IE placement salary in Computer Science. 
 

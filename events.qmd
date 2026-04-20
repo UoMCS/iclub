@@ -1,7 +1,7 @@
 ---
 title: "What's On"
 bibliography: references.bib
-subtitle: What's on at the Unviersity of Manchester?
+subtitle: What's on at the University of Manchester?
 ---
 
 # Upcoming Events in 2026
@@ -10,35 +10,19 @@ A selection of events from across the University of Manchester that are likely t
 
 ![](business-engagement.jpg)
 
+## Annual Postgraduate Research Symposium: 18th & 19th May {#pgr}
+Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 18th & 19th May. Come and talk to our PhD students about the research projects they are working on. Over the two days of the event, there will be:
 
-## Saturday 7th & Tuesday 10th March: TEDx Manchester
+* Posters presentations from first year PhD students
+* Short 10-15 minute presentations by second year PhD students
+* Longer 15-20 minute presentations from third year PhD students
+* Keynote talks from invited speakers
 
-Ideas Change Everything:
+If you are interested in attending, please contact `fse.doctoralacademy@manchester.ac.uk`
 
-* [tedxmanchester.com](https://www.tedxmanchester.com), Saturday 7th March Bridgewater Hall
-* [TEDxUniversity of Manchester](https://manchesterstudentsunion.com/events/id/12698-tedxuniversity-of-manchester-flagship-event/19055), Tuesday 10th March, Manchester Academy 2
+## Curriculum Consultation, June/July: TBC {#ic}
+Our next Industry club meeting is scheduled for late June / early July where we will be running a curriculum consultation on the use of AI.
 
-## Friday 20th March: Mentoring meeting 2 of 2
-
-The next round of our software engineering mentoring program resumes on 20th March, for details and registration see the [mentoring program](mentoring.html).
-
-## Wednesday 25th March: Computing in Electronic Music
-
-The Past, Present & Future of the Computer in Electronic Music. Upcoming event with [creative.manchester.ac.uk](https://www.creative.manchester.ac.uk/events/?page=2), details and registration at [bit.ly/electromanc](https://bit.ly/electromanc)
-
-
-![Join us to celebrate the Past, Present & Future of the Computer in Electronic Music in Manchester on March 24th](electronicmusic.png)
-
-
-## Monday 13th April: IEEE Milestone award
-
-The Institute of Electrical and Electronics Engineers [IEEE.org](https://www.ieee.org/) has recognised the University of Manchester’s invention of [Manchester code](https://en.wikipedia.org/wiki/Manchester_code) in 1948 as a [Milestone technical achievement](https://ieeemilestones.ethw.org) and the Milestone will be awarded at a ceremony at the University on the afternoon of 13th April 2026. There will be technical talks describing the invention and its impact as well as the formal handover of the Milestone plaque.
- 
-Manchester code was invented for the storage of data in the magnetic drum store of the [Manchester Mark I](https://en.wikipedia.org/wiki/Manchester_Mark_1) computer. It became a standard for computer magnetic tapes and floppy disks, perhaps more importantly it has been widely used in digital communications including the [Voyager 1](https://en.wikipedia.org/wiki/Voyager_1) and [Voyager 2](https://en.wikipedia.org/wiki/Voyager_2) spacecraft and early Ethernet networks. It has also been used in Radio Frequency Identification (RFID) tags, many control network standards and domestic remote controllers found in millions of homes across the world.
-
-Find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)
-
-![Join us to celebrate Manchester Code on April 13th, find out more and register at [bit.ly/ieee-manc](https://bit.ly/ieee-manc)](mancode.png)
 
 
 ## October: Computing and AI Careers Fair {#cai}
@@ -50,10 +34,18 @@ Our annual Computing and AI careers fair takes place in October/November each ye
 
 <!--## Wednesday 4th March: International Women's Day-->
 
+<!--## Saturday 7th & Tuesday 10th March: TEDx Manchester {#tedx}
+
+Ideas Change Everything:
+
+* [tedxmanchester.com](https://www.tedxmanchester.com), Saturday 7th March Bridgewater Hall
+* [TEDxUniversity of Manchester](https://manchesterstudentsunion.com/events/id/12698-tedxuniversity-of-manchester-flagship-event/19055), Tuesday 10th March, Manchester Academy 2-->
+
+
 
 ## Other events {#more}
 
-For other events across the University see also:
+For more events across the University see also:
 
 * [events.manchester.ac.uk](https://events.manchester.ac.uk)
 * [www.cs.manchester.ac.uk/connect/events](https://www.cs.manchester.ac.uk/connect/events)
