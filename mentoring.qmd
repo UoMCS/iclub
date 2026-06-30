@@ -1,6 +1,6 @@
 ---
 title: "Mentoring"
-subtitle: Guiding and supporting the next generation of software engineers
+subtitle: Guiding and supporting the next generation of scientists and engineers
 bibliography: references.bib
 ---
 
