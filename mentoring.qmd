@@ -4,7 +4,26 @@ subtitle: Guiding and supporting the next generation of software engineers
 bibliography: references.bib
 ---
 
-## Software engineering mentoring
+We currently offer three kinds of mentoring opportunities that employers can engage with.
+
+* One-to-one mentoring of final year project students in Computer Science
+* Small group mentoring of software engineers
+* Non-technical mentoring of students in any discipline
+
+## One to one mentoring with final year project students
+
+In their final year, all undergraduate students in Computer Science do a final year “Honours” project. This pulls together much of what they've learned over the course of their degree into a a single substantial project which can either be:
+
+1. Proposed by an academic and selected by students from a list
+1. Proposed by a student and approved by an academic willing to supevise
+
+We're looking for mentors who can meet with students for *two one-hour meetings*, one near the beginning of the project in September and one towards the end of the project in March. These meetings can take place online, or in person, depending on the preferences of the mentor and mentee. 
+
+Students are expecting to spend between 300 and 400 hours working on their projects over the course of the year, depending on their degree proram. During the course of their project, they have weekly meetings with their academic supervisor. Mentors suppplement and extend the support given by academic supervisors. If you're interested in project mentoring, please contact [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley)
+
+
+
+## Small group mentoring for software engineering 
 
 Our software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.
 
@@ -14,12 +33,7 @@ Our software engineering mentoring program was established in 2015 and provides 
 Software engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.
 
 
-There are two timetabled mentoring sessions which taken place on Fridays:
-
-1. ~~**Friday 27th February 2026, 4pm** (first meeting)~~
-1. **Friday 20th March 2026, 4pm** (followup meeting)
-
-Both of these meetings take place on Microsoft Teams. Registration now closed for 2026.
+There are two timetabled mentoring sessions which take place during February and Marhc. Both of these meetings take place on Microsoft Teams. Registration now closed for 2026, but we'll be looking for mentors again in 2027.
 
 <!--If you'd like to join us, there's a signup form at [forms.cloud.microsoft/e/TZ9SX87Ncx](https://forms.cloud.microsoft/e/TZ9SX87Ncx)-->
 
@@ -154,7 +168,7 @@ The meeting details have been sent to you in a calendar invite. The table below 
 
 ## Acknowledgements {#acknowledgements}
 
-We are very grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026] Delivery would not have been possible without the support of:
+We are very grateful for the support of the following employers who have contributed to our mentoring program. [@Hull2026;@HullITL] Delivery would not have been possible without the support of:
 
 Airbus, Airnode, Alphabet (Google), AND Digital, Apadmi, Apple, ARM, Auto Trader UK, Axelera AI, Barclays, the BBC, Bet365, Beyond Trust, Biorelate, BJSS, Blaize, Bloomberg, Booking.com, Brightec, CERN, CDL Software, Cisco, Codat, CodeThink, Code Computer Love, Cognizant, Couchbase, Cubic Motion (now Epic Games), DAI, DataCentred, Digital Bridge Ltd, Disney Streaming, EGN Digital, Farm Digital, Giant Digital, Goldman Sachs, IBM, Interact Software, Ivanti, JLR, Koder.ly, Matillion, MediaTek, Meta (Facebook), Microsoft, Moonpig, Morgan Stanley, Nandos, NCC Group, On The Beach, Peak.ai, Push Doctor, Rental Cars, Sainsburys, Sage Group plc, Shout Platform Limited, Roku, Siemens (Mentor Graphics), SKY, Slalom, Spotify, SteamaCo, The Startup Factory, Tanglewood Games, THG, ThoughtWorks, Tranzfar, UK Parliament, UL, Unipart Digital and Zuhlke.
 

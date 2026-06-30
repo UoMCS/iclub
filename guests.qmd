@@ -41,12 +41,14 @@ For COMP101, we are always looking for good speakers who can engage large groups
 * Engage, interact, educate and entertain. Students vote with their feet (by not turning up) if they think a lecture won't be interesting
 * If you would like to propose a guest lecture for COMP101, please contact Duncan Hull. For all other external seminars and events, see the links above.
 
-Each lecture typically finishes with ten minutes of Ask Me Anything (AMA) Question and Answer, moderated through [mentimeter.com](https://www.mentimeter.com). As well as asking questions the traditional way (hands up), students can also quiz the speaker anonymously through a moderated Q&A session at the end. This tends to increase engagement with the speakers and their material. Here's an example schedule of talks from 2025: 
+Each lecture typically finishes with ten minutes of Ask Me Anything (AMA) Question and Answer, moderated through [mentimeter.com](https://www.mentimeter.com). As well as asking questions the traditional way (hands up), students can also quiz the speaker anonymously through a moderated Q&A session at the end. This tends to increase engagement with the speakers and their material. 
+
+<!--Here's an example schedule of talks from 2025: 
 
 1. 2nd Feb: From UoM at AWS with Ivo Ivaylov
 1. 9th Feb: Turning your project(s) into a product as an entrepreneur with MEC
 1. 16th Feb: From UoM to Morgan Stanley, Google and back again
-1. 
+1. -->
 
 
 ## Recently on COMP101 {#recently}
