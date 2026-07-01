@@ -10,7 +10,7 @@ A selection of events from across the University of Manchester that are likely t
 
 ![](business-engagement.jpg)
 
-## Annual Postgraduate Research Symposium: 18th & 19th May {#pgr}
+<!--## Annual Postgraduate Research Symposium: 18th & 19th May {#pgr}
 Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 18th & 19th May. Come and talk to our PhD students about the research projects they are working on. Over the two days of the event, there will be:
 
 * Posters presentations from first year PhD students
@@ -18,10 +18,13 @@ Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 1
 * Longer 15-20 minute presentations from third year PhD students
 * Keynote talks from invited speakers
 
-If you are interested in attending, please contact `fse.doctoralacademy@manchester.ac.uk`
+If you are interested in attending, please contact `fse.doctoralacademy@manchester.ac.uk`-->
 
-## Curriculum Consultation, June/July: TBC {#ic}
-Our next Industry club meeting is scheduled for late June / early July where we will be running a curriculum consultation on the use of AI.
+## Curriculum Consultation, September tbc {#ic}
+Our next Industry club meeting is scheduled for Septembery where we will be running a curriculum consultation on the impact of AI in student:
+
+* Assessment
+* Recruitment
 
 
 

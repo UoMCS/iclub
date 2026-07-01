@@ -410,21 +410,21 @@
     ]
   },
   {
-    "objectID": "mentoring.html#one-to-one-mentoring-with-final-year-project-students",
-    "href": "mentoring.html#one-to-one-mentoring-with-final-year-project-students",
+    "objectID": "mentoring.html#one-to-one-mentoring-of-final-year-project-students",
+    "href": "mentoring.html#one-to-one-mentoring-of-final-year-project-students",
     "title": "Mentoring",
-    "section": "One to one mentoring with final year project students",
-    "text": "One to one mentoring with final year project students\nIn their final year, all undergraduate students in Computer Science do a final year “Honours” project. This pulls together much of what they’ve learned over the course of their degree into a a single substantial project which can either be:\n\nProposed by an academic and selected by students from a list\nProposed by a student and approved by an academic willing to supevise\n\nWe’re looking for mentors who can meet with students for two one-hour meetings, one near the beginning of the project in September and one towards the end of the project in March. These meetings can take place online, or in person, depending on the preferences of the mentor and mentee.\nStudents are expecting to spend between 300 and 400 hours working on their projects over the course of the year, depending on their degree proram. During the course of their project, they have weekly meetings with their academic supervisor. Mentors suppplement and extend the support given by academic supervisors. If you’re interested in project mentoring, please contact Terence Morley",
+    "section": "One-to-one mentoring of final year project students",
+    "text": "One-to-one mentoring of final year project students\nIn their final year, all undergraduate students in Computer Science do a final year “Honours” project. This pulls together much of what they’ve learned over the course of their degree into a single substantial project which can either be:\n\nProposed by an academic and selected by students from a list published annually in the project book\nProposed by a student and approved by an academic willing to supervise\n\nWe’re looking for mentors who can meet with students for two one-hour meetings, one near the beginning of the project in September and one towards the end of the project in March. These meetings can take place online, or in person, depending on the preferences of the mentor and mentee.\nStudents are expecting to spend between 300 and 400 hours working on their projects over the course of the year, depending on their degree proram. During the course of their project, they have weekly meetings with their academic supervisor. Mentors suppplement and extend the support given by academic supervisors. If you’re interested in project mentoring, please contact Terence Morley",
     "crumbs": [
       "Mentoring"
     ]
   },
   {
-    "objectID": "mentoring.html#small-group-mentoring-for-software-engineering",
-    "href": "mentoring.html#small-group-mentoring-for-software-engineering",
+    "objectID": "mentoring.html#small-group-mentoring-for-software-engineering-projects",
+    "href": "mentoring.html#small-group-mentoring-for-software-engineering-projects",
     "title": "Mentoring",
-    "section": "Small group mentoring for software engineering",
-    "text": "Small group mentoring for software engineering\nOur software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.\nThere are two timetabled mentoring sessions which take place during February and Marhc. Both of these meetings take place on Microsoft Teams. Registration now closed for 2026, but we’ll be looking for mentors again in 2027.\n\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
+    "section": "Small group mentoring for software engineering projects",
+    "text": "Small group mentoring for software engineering projects\nOur software engineering mentoring program was established in 2015 and provides opportunities for software engineers to influence and contribute to what we teach at the University of Manchester. It allows Computer Science students to learn from your expertise in software engineering.\n\n\n\nSoftware engineering mentors guide a group of second year undergraduate students through a group project online as they fix bugs and add features to a large Java codebase\n\n\nSoftware engineering mentors meet with a team of six undergraduate students for two one hour meetings online. They do some (gentle) code review and provide professional guidance as students work on a large codebase, adding features and fixing bugs as part of group project completed in their second year of their study.\nThere are two timetabled mentoring sessions which take place during February and Marhc. Both of these meetings take place on Microsoft Teams. Registration now closed for 2026, but we’ll be looking for mentors again in 2027.\n\nPlease only sign up if you can make both of the sessions. If you have any questions or comments about mentoring, please get in touch, see contacts",
     "crumbs": [
       "Mentoring"
     ]
@@ -544,17 +544,7 @@
     "href": "events.html",
     "title": "What’s On",
     "section": "",
-    "text": "A selection of events from across the University of Manchester that are likely to interest employers and industry club members.\n\n\n\nOur annual Computer Science Postgraduate Research (PGR) symposium takes on the 18th & 19th May. Come and talk to our PhD students about the research projects they are working on. Over the two days of the event, there will be:\n\nPosters presentations from first year PhD students\nShort 10-15 minute presentations by second year PhD students\nLonger 15-20 minute presentations from third year PhD students\nKeynote talks from invited speakers\n\nIf you are interested in attending, please contact fse.doctoralacademy@manchester.ac.uk\n\n\n\nOur next Industry club meeting is scheduled for late June / early July where we will be running a curriculum consultation on the use of AI.\n\n\n\nOur annual Computing and AI careers fair takes place in October/November each year, date tbc see careers fairs\n\n\n\nThe Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester\n\n\n\n\n\n\n\nFor more events across the University see also:\n\nevents.manchester.ac.uk\nwww.cs.manchester.ac.uk/connect/events",
-    "crumbs": [
-      "What's On"
-    ]
-  },
-  {
-    "objectID": "events.html#pgr",
-    "href": "events.html#pgr",
-    "title": "What’s On",
-    "section": "",
-    "text": "Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 18th & 19th May. Come and talk to our PhD students about the research projects they are working on. Over the two days of the event, there will be:\n\nPosters presentations from first year PhD students\nShort 10-15 minute presentations by second year PhD students\nLonger 15-20 minute presentations from third year PhD students\nKeynote talks from invited speakers\n\nIf you are interested in attending, please contact fse.doctoralacademy@manchester.ac.uk",
+    "text": "A selection of events from across the University of Manchester that are likely to interest employers and industry club members.\n\n\n\n\nOur next Industry club meeting is scheduled for Septembery where we will be running a curriculum consultation on the impact of AI in student:\n\nAssessment\nRecruitment\n\n\n\n\nOur annual Computing and AI careers fair takes place in October/November each year, date tbc see careers fairs\n\n\n\nThe Computing Careers Fair takes place every year in the foyer of the Nancy Rothwell Building, home to the School of Engineering at the University of Manchester\n\n\n\n\n\n\n\nFor more events across the University see also:\n\nevents.manchester.ac.uk\nwww.cs.manchester.ac.uk/connect/events",
     "crumbs": [
       "What's On"
     ]
@@ -564,7 +554,7 @@
     "href": "events.html#ic",
     "title": "What’s On",
     "section": "",
-    "text": "Our next Industry club meeting is scheduled for late June / early July where we will be running a curriculum consultation on the use of AI.",
+    "text": "Our next Industry club meeting is scheduled for Septembery where we will be running a curriculum consultation on the impact of AI in student:\n\nAssessment\nRecruitment",
     "crumbs": [
       "What's On"
     ]
