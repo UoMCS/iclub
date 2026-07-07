@@ -4,22 +4,22 @@ subtitle: Guiding and supporting the next generation of scientists and engineers
 bibliography: references.bib
 ---
 
-We currently offer three kinds of mentoring opportunities that employers can engage with.
+We currently offer three kinds of mentoring opportunities that employers can engage with:
 
-* One-to-one mentoring of final year project students in Computer Science
-* Small group mentoring of software engineers
-* Non-technical mentoring of students in any discipline
+1. One-to-one mentoring of final year project students in Computer Science
+1. Small group mentoring of software engineers
+1. Non-technical mentoring of students in any discipline
 
 ## One-to-one mentoring of final year project students {#121}
 
-In their final year, all undergraduate students in Computer Science do a final year “Honours” project. This pulls together much of what they've learned over the course of their degree into a single substantial project which can either be:
+In their final year, all undergraduate students in Computer Science do a final year “Honours” project. This pulls together what they've learned over the course of their degree into a single substantial project which can either be:
 
-1. Proposed by an academic and selected by students from a list published annually in the project book
-1. Proposed by a student and approved by an academic willing to supervise
+* Proposed by an academic and selected by students from a list published annually in the project book
+* Proposed by a student and approved by an academic willing to supervise the work. These projects sometimes come from employers that students have spent their summer or [placement year](experience.html) with. 
 
 We're looking for mentors who can meet with students for *two one-hour meetings*, one near the beginning of the project in September and one towards the end of the project in March. These meetings can take place online, or in person, depending on the preferences of the mentor and mentee. 
 
-Students are expecting to spend between 300 and 400 hours working on their projects over the course of the year, depending on their degree proram. During the course of their project, they have weekly meetings with their academic supervisor. Mentors suppplement and extend the support given by academic supervisors. If you're interested in project mentoring, please contact [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley)
+Students are expecting to spend between 300 and 400 hours working on their projects over the course of the year, depending on their degree program. During the course of their project, they have weekly meetings with their academic supervisor. Mentors suppplement and extend the support given by academic supervisors. If you're interested in project mentoring, please contact Terence Morley, his email is listed on the [contacts page](contact.html).
 
 
 
