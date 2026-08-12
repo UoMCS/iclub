@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -208,8 +228,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#upcoming-events-in-2026" id="toc-upcoming-events-in-2026" class="nav-link active" data-scroll-target="#upcoming-events-in-2026">Upcoming Events in 2026</a>
   <ul class="collapse">
-  <li><a href="#ic" id="toc-ic" class="nav-link" data-scroll-target="#ic">Curriculum Consultation, September tbc</a></li>
-  <li><a href="#cai" id="toc-cai" class="nav-link" data-scroll-target="#cai">October: Computing and AI Careers Fair</a></li>
+  <li><a href="#ic" id="toc-ic" class="nav-link" data-scroll-target="#ic">AI Curriculum Consultation: Wednesday 9th September</a></li>
+  <li><a href="#cai" id="toc-cai" class="nav-link" data-scroll-target="#cai">Computing and AI Careers Fair: Tuesday 10th November</a></li>
   <li><a href="#more" id="toc-more" class="nav-link" data-scroll-target="#more">Other events</a></li>
   </ul></li>
   </ul>
@@ -252,16 +272,29 @@ Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 1
 
 If you are interested in attending, please contact `fse.doctoralacademy@manchester.ac.uk`-->
 <section id="ic" class="level2">
-<h2 class="anchored" data-anchor-id="ic">Curriculum Consultation, September tbc</h2>
-<p>Our next Industry club meeting is scheduled for Septembery where we will be running a curriculum consultation on the impact of AI in student:</p>
+<h2 class="anchored" data-anchor-id="ic">AI Curriculum Consultation: Wednesday 9th September</h2>
+<p>Our next Industry club meeting is scheduled for Wednesday 9th September where we will be running a curriculum consultation on the impact of AI in student assessment and recruitment.</p>
+<p>AI is having a significant effect on how Computer Science is taught and assessed in Higher Education. It’s also having a significant effect on graduate recruitment against a backdrop of fewer vacancies in 2026 compared to 2025. For example, while entry level vacancies have slightly dropped, demand for software engineers with 3-5 years of experience has risen, according to some reports. <span class="citation" data-cites="aishift witherai">(<a href="#ref-aishift" role="doc-biblioref">Murdoch and O’Connor 2026</a>; <a href="#ref-witherai" role="doc-biblioref">Vardi 2026</a>)</span></p>
+<p>We’re seeking input from industrial collaborators on these questions below:</p>
+<ol type="1">
+<li>What programme structures allow students to produce verifiable, authentic artefacts that employers would be satisfied are evidence of (or at least solid proxies for?) applied experience gained through summer internships and year long placements. e.g.&nbsp;Open Source contributions etc</li>
+<li>Do graduates from a degree programme redesigned on the answers to question 1 get better employment outcomes in a market that appears to have shifted to want candidates with 3 to 5 years of experience (not entry level graduates)?</li>
+<li>Are there features of the shift to 3-to-5 years experience (risk aversion, CV signal filtering, expectations of productivity gains via AI) that can be addressed via programme design? Are there features that can’t but could be solved elsewhere such as sector-level, Professional, Statutory and Regulatory Bodies (PSRBs), government etc?</li>
+<li>What should we prioritise when teaching students about using AI assistants. What skills, knowledge and attributes do they need to demonstrate to convince employers they can use Generative AI in a professional and reliable way, for example in software engineering.</li>
+<li>What assessments would employers consider reliable indicators of student skills when AI is readily available. What do they have to say about the purpose of capstone projects (final year projects ), and how that would map to assessing those. Given that AI can complete many traditional coursework tasks, what assessment approaches do employers think remain reliable indicators of practical student skill?</li>
+</ol>
+<p>The hybrid event will take place in the <a href="https://www.cs.manchester.ac.uk/about/maps-and-travel/">Kilburn Building</a> from 10am to midday, with options for joining remotely via Microsoft Teams. Chairs and facilitators include:</p>
 <ul>
-<li>Assessment</li>
-<li>Recruitment</li>
+<li><a href="https://research.manchester.ac.uk/en/persons/andrew.j.stewart">Andrew Stewart</a>, Head of the Department of Computer Science<br>
+</li>
+<li><a href="https://research.manchester.ac.uk/en/persons/andrew.j.stewart">Andrea Schalk</a>, Discipline Head of Education in Computer Science</li>
+<li><a href="https://research.manchester.ac.uk/en/persons/duncan.hull">Duncan Hull</a>, Employability Lead in Computer Science</li>
 </ul>
+<p>To register for this event, please fill in this registration form at <a href="https://forms.cloud.microsoft/e/0M1ztarssx">forms.cloud.microsoft/e/0M1ztarssx</a></p>
 </section>
 <section id="cai" class="level2">
-<h2 class="anchored" data-anchor-id="cai">October: Computing and AI Careers Fair</h2>
-<p>Our annual Computing and AI careers fair takes place in October/November each year, date tbc see <a href="fairs.html">careers fairs</a></p>
+<h2 class="anchored" data-anchor-id="cai">Computing and AI Careers Fair: Tuesday 10th November</h2>
+<p>To express your interest in our annual Computing and AI careers fair see <a href="fairs.html">careers fairs</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="computing-careers-fair2.png" class="img-fluid figure-img"></p>
@@ -285,10 +318,18 @@ Ideas Change Everything:
 </ul>
 
 
+
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-aishift" class="csl-entry" role="listitem">
+Murdoch, John Burn, and Sarah O’Connor. 2026. <span>“The AI Shift: Will Software Engineers Survive Agentic AI? A Data Deep Dive Shows That Job Vacancies Are Rising – but Only for Senior Developers.”</span> <a href="https://www.ft.com/content/7325e967-5f4e-40b1-af3f-7d2351781843" class="uri">https://www.ft.com/content/7325e967-5f4e-40b1-af3f-7d2351781843</a>.
+</div>
+<div id="ref-witherai" class="csl-entry" role="listitem">
+Vardi, Moshe. 2026. <span>“Whither Computing? The Emergence of GenAI-Based Coding Agents Is Changing Software Development as We Know It.”</span> <a href="https://cacm.acm.org/opinion/whither-computing/" class="uri">https://cacm.acm.org/opinion/whither-computing/</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

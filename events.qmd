@@ -20,17 +20,31 @@ Our annual Computer Science Postgraduate Research (PGR) symposium takes on the 1
 
 If you are interested in attending, please contact `fse.doctoralacademy@manchester.ac.uk`-->
 
-## Curriculum Consultation, September tbc {#ic}
-Our next Industry club meeting is scheduled for Septembery where we will be running a curriculum consultation on the impact of AI in student:
+## AI Curriculum Consultation: Wednesday 9th September {#ic}
 
-* Assessment
-* Recruitment
+Our next Industry club meeting is scheduled for Wednesday 9th September where we will be running a curriculum consultation on the impact of AI in student assessment and recruitment.
 
+AI is having a significant effect on how Computer Science is taught and assessed in Higher Education. It’s also having a significant effect on graduate recruitment against a backdrop of fewer vacancies in 2026 compared to 2025. For example, while entry level vacancies have slightly dropped, demand for software engineers with 3-5 years of experience has risen, according to some reports. [@aishift;@witherai]
 
+We’re seeking input from industrial collaborators on these questions below:
 
-## October: Computing and AI Careers Fair {#cai}
+1.	What programme structures allow students to produce verifiable, authentic artefacts that employers would be satisfied are evidence of (or at least solid proxies for?) applied experience gained through summer internships and year long placements. e.g. Open Source contributions etc
+1.	Do graduates from a degree programme redesigned on the answers to question 1 get better employment outcomes in a market that appears to have shifted to want candidates with 3 to 5 years of experience (not entry level graduates)? 
+1.	Are there features of the shift to 3-to-5 years experience (risk aversion, CV signal filtering, expectations of productivity gains via AI) that can be addressed via programme design? Are there features that can't but could be solved elsewhere such as sector-level, Professional, Statutory and Regulatory Bodies (PSRBs), government  etc?
+1.	What should we prioritise when teaching students about using AI assistants. What skills, knowledge and attributes do they need to demonstrate to convince employers they can use Generative AI in a professional and reliable way, for example in software engineering. 
+1.	What assessments would employers consider reliable indicators of student skills when AI is readily available. What do they have to say about the purpose of capstone projects (final year projects ), and how that would map to assessing those. Given that AI can complete many traditional coursework tasks, what assessment approaches do employers think remain reliable indicators of practical student skill?
 
-Our annual Computing and AI careers fair takes place in October/November each year, date tbc see [careers fairs](fairs.html)
+The hybrid event will take place in the [Kilburn Building](https://www.cs.manchester.ac.uk/about/maps-and-travel/) from 10am to midday, with options for joining remotely via Microsoft Teams. Chairs and facilitators include:
+
+* [Andrew Stewart](https://research.manchester.ac.uk/en/persons/andrew.j.stewart), Head of the Department of Computer Science  
+* [Andrea Schalk](https://research.manchester.ac.uk/en/persons/andrew.j.stewart), Discipline Head of Education in Computer Science
+* [Duncan Hull](https://research.manchester.ac.uk/en/persons/duncan.hull), Employability Lead in Computer Science
+
+To register for this event, please fill in this registration form at [forms.cloud.microsoft/e/0M1ztarssx](https://forms.cloud.microsoft/e/0M1ztarssx)
+
+## Computing and AI Careers Fair: Tuesday 10th November {#cai}
+
+To express your interest in our annual Computing and AI careers fair see [careers fairs](fairs.html)
 
 ![The Computing Careers Fair takes place every year in the foyer of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester](computing-careers-fair2.png)
 
